@@ -3,6 +3,6 @@ pygments: true
 markdown: kramdown
 url: http://shengshampoo.github.io
 title: Shengshampoo Github Page
-tagline: Post anything I understand, from anywhere I attend.Love Tinypress!
+tagline: Post anything I understand, from anywhere I attend.
 description: Shengshampoo Github Page & another blog.
-paginate: 1
+paginate: 3
