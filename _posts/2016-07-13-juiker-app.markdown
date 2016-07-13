@@ -49,4 +49,4 @@ layout: post
 
 [1]: https://www.juiker.tw/download.html
 [2]: https://www.juiker.tw/member.html
-[img01]: http://7xkf83.com1.z0.glb.clouddn.com/Screenshot_2016-07-06-17-57-282-fs8.png
+[img01]: https://res.cloudinary.com/shengshampoo/image/upload/v1468406839/Screenshot_2016-07-06-17-57-282-fs8_nvepfl.png
