@@ -3,8 +3,8 @@ published: true
 title: Runeaudio 發佈針對raspberry pi 2/3 量身的 0.3 beta 版
 layout: post
 tags: [Headphone, RaspberryPI]
+categories: [Headphone, ]
 ---
-
 **Runeaudio 發佈針對raspberry pi 2/3 量身的 0.3 beta 版**
 
 <font color="red">2015.06.21</font>
@@ -55,6 +55,5 @@ nano 修改 /boot/config.txt，
 [2]: http://www.runeaudio.com/forum/the-new-4-core-raspberry-pi-t862-40.html#p5386
 [3]: http://www.runeaudio.com/forum/how-to-let-pi-2-and-hifiberry-dac-get-work-with-rune-t990.html#p5941
 [4]: http://www.runeaudio.com/runeaudio-runs-raspberry-pi-3-model-b/
-[5]: 
-http://www.runeaudio.com/forum/the-raspberry-pi-3-t3256-80.html#p12370
+[5]: http://www.runeaudio.com/forum/the-raspberry-pi-3-t3256-80.html#p12370
 [img01]: https://res.cloudinary.com/shengshampoo/image/upload/v1468286829/cm1infz-fs8_dzst5j.png
