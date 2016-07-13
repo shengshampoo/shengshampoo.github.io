@@ -2,8 +2,8 @@
 published: true
 title: Runeaudio 發佈針對raspberry pi 2/3 量身的 0.3 beta 版
 layout: post
-tags: [Headphone, RaspberryPI]
-categories: [Headphone, ]
+tags: [#Headphone, #RaspberryPI]
+categories: [#Headphone, ]
 ---
 **Runeaudio 發佈針對raspberry pi 2/3 量身的 0.3 beta 版**
 
