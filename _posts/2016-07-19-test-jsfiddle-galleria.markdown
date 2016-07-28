@@ -1,8 +1,8 @@
 ---
 published: true
-title: Test Jsfiddle + Galleria
+title: Test Jsfiddle + Lightgallery
 layout: post
 ---
 
 <div class="intrinsic-container">
-<iframe src="https://jsfiddle.net/qwzxc129/cq6nLao1/embedded/result,html,js,css/dark/" allowfullscreen></iframe></div>
+<iframe src="https://jsfiddle.net/qwzxc129/yfyr0j6m/embedded/result,html,js,css/dark/" allowfullscreen></iframe></div>
