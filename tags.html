@@ -23,7 +23,7 @@ title: Tags
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
     <div id="{{ this_word | replace:' ','-' }}-ref">
-      <h2 >Posts tagged  with {{ this_word }}</h2>
+      <h3 >Posts tagged  with {{ this_word }}</h3>
       <ul >
         {% for post in site.tags[this_word] %}{% if post.title != null %}
           <li ><a href="{{ site.BASE_PATH }}{{post.url}}">{{post.title}}</a> <span >- {{ post.date | date: "%B %d, %Y" }}</span></li>
