@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://shengshampoo.github.io
+url: https://shengshampoo.github.io
 title: Shengshampoo Github Page
 tagline: Post anything I understand, from anywhere I attend.
-description: Shengshampoo Github Page & another blog.
+description: Shengshampoo Github Page.
 paginate: 1
