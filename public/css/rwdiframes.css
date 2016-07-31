@@ -4,6 +4,7 @@
 .intrinsic-container {
   position: relative;
   padding-top: 86%;
+  padding-bottom： 86%;
   height: 0;
   overflow: hidden;
 }
