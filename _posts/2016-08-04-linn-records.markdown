@@ -2,7 +2,7 @@
 published: true
 title: Linn Records 八月每天精選一專輯限當日九折折價活動
 layout: post
-tags: [Headphone]
+tags: [headphone]
 categories: [Headphone]
 ---
 **Linn Records 八月每天精選一專輯限當日九折折價活動**
