@@ -1,6 +1,6 @@
 excerpt_separator: ""
-pygments: true
-# highlighter: rouge
+# pygments: true
+highlighter: rouge
 markdown: kramdown
 url: https://shengshampoo.github.io
 title: &nbsp;&nbsp;&nbsp;Shengshampoo Github Page
