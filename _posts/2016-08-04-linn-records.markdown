@@ -11,7 +11,8 @@ categories: [Headphone]
 
 > Each day there will be a **discount 10% off** a selected title for a short time only including vinyl, new releases and brand new Studio Master downloads.   
   
-簡單來說，從八月份(英國GMT+1日光時區)第一天開始，  
+簡單來說，    
+從八月份(英國GMT+1日光時區)第一天開始，  
 Linn Records 每一天都會挑選一張專輯，   
 含括黑膠唱片，新發行的下載高解析母帶音樂檔案等，  
 限時限定當天購買才享有優惠九折扣價，   
