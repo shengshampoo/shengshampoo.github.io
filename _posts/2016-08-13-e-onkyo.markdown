@@ -1,0 +1,39 @@
+---
+published: true
+title: 無損音樂網站 E-onkyo 線上購買音樂的教學網頁
+layout: post
+tags: [Headphone]
+categories: [Headphone]
+---
+**無損音樂網站 E-onkyo 線上購買音樂的教學網頁**
+    
+網路搜尋找到的，    
+[FindHDmusic e-onkyo music 教學網頁。][1]    
+    
+2014 年編寫的文章，   
+不過似乎 E-onkyo 線上音樂的購買流程，   
+直到今天並沒有太大的變動及差異，    
+還是可以按照教程裡的一個接著一個畫面，
+依指示付款下載歌曲。    
+比如說：申請帳號，加入購物車，    
+付款方式，折抵點數，    
+選用信用卡，    
+填入卡號及購買相關資料等。    
+整個購買流程，      
+都有完整附上截圖並佐以英文註解解說。    
+    
+另外，    
+E-onkyo 線上購買限日本 IP，   
+所以需掛VPN，   
+但是目前還不限制**海外JCB發行**的信用卡，   
+用台灣JCB信用卡號可以刷卡成功。   
+還有一件很重要的事:    
+<font color="red">付款後**限制在當天開始計算的30天內下載，**    
+時效過了就關閉連結，    
+無法再下載音樂。</font>    
+(對海外消費者真不友善。)
+
+![img01][img01]
+
+[1]: http://www.findhdmusic.com/article/e-onkyo-music-tutorial/374
+[img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--PWiBzDID--/v1471047425/screenshot_50_08_06_0813_20161_aczwxs.png
