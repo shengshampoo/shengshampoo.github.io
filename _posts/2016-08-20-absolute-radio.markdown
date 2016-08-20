@@ -62,10 +62,10 @@ Absolute Radio
    代表性的歌手團體有The Beatles, The Rolling Stones, The Velvet Underground Motown 等。   
 * [Absolute Radio 70s][9]：   
   播放1970 年代的作品。   
-  代表性的歌手團體David Bowie, Kate Bush, Elton John and Blondie, Rod Stewart, David Bowie and Prince  等。
+  代表性的歌手團體David Bowie, Kate Bush, Elton John, Blondie, Rod Stewart, David Bowie and Prince  等。
 * [Absolute Radio 80s][10]：    
    播放1980 年代的作品。    
-   代表性的歌手團體提到 Madness, Pet Shop Boys and Depeche Mode and Beastie Boys 等。   
+   代表性的歌手團體提到 Madness, Pet Shop Boys, Depeche Mode and Beastie Boys 等。   
 * [Absolute Radio 90s][11]：    
    播放1990 年代的作品。    
    代表性的歌手團體提到 Blur, Oasis, The Chemical Brothers, Guns and Roses, Portishead, The Stone Roses, Radiohead and Primal Scream 等。   
