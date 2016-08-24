@@ -37,7 +37,7 @@ categories: [Headphone]
 然後再根據對岸老肖新浪博客的一篇文章：    
 [XMOS USB AUDIO方案支持DSD256(512)了][3]。    
 
-> 采用XMOS标准方案，USB AUDIO DSD DoP方案最高只能支持DSD128，有了USB ASIO native传输方式，就可以支持DSD256甚至DSD512。
+<blockquote><p lang="zh-Hans">采用XMOS标准方案，USB AUDIO DSD DoP方案最高只能支持DSD128，有了USB ASIO native传输方式，就可以支持DSD256甚至DSD512。</p></blockquote>
 
 
 XMOS 官方 Native DSD Mode 說明文件：    
