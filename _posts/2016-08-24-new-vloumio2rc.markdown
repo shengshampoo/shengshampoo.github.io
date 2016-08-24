@@ -2,7 +2,7 @@
 published: true
 title: 全新設計的操作介面- Volumio 2 RC2 官網公布了
 layout: post
-tags: [Headphone] [RaspberryPI]
+tags: [Headphone]
 categories: [Headphone]
 ---
 **全新設計的操作介面- Volumio 2 RC2 官網公布了**    
