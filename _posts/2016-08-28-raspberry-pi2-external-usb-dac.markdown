@@ -12,6 +12,9 @@ categories: [Headphone]
     
 #### <font color="red">硬體清單：</font>   
 
+<p data-height="367" data-theme-id="0" data-slug-hash="oLKEad" data-default-tab="result" data-user="qwzxc129" data-embed-version="2" class="codepen">See the Pen <a href="https://codepen.io/qwzxc129/pen/oLKEad/">Simple lightGallery demo－rpi_dac_dropb</a> by qwzxc129 (<a href="https://codepen.io/qwzxc129">@qwzxc129</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://assets.codepen.io/assets/embed/ei.js"></script>
+
  * **Raspberry Pi2**：接上I2S PiFi+  DAC ( BB PCM5122) 及  USB 無線網卡 Edimax EW-7811Un。   
  * **[X-HDA1][1]**：USB DAC 裸板。    
 IC 組合為BRAVO-HD SA9227(USB IC) + CS4398 (DAC) + 耳放IC。    
