@@ -5,12 +5,12 @@ layout: post
 tags: [Headphone, RaspberryPI]
 categories: [Headphone]
 ---
-###<font color="red">簡述外接USB DAC 播放的硬體平台及播放習慣</font>   
+### <font color="red">簡述外接USB DAC 播放的硬體平台及播放習慣</font>   
 
 我的Raspberry PI2 和 外接USB DAC，    
 全在對岸淘寶網購買，透過集貨寄來這裡。    
     
-####<font color="red">硬體清單：</font>   
+#### <font color="red">硬體清單：</font>   
 
  * **Raspberry Pi2**：接上I2S PiFi+  DAC ( BB PCM5122) 及  USB 無線網卡 Edimax EW-7811Un。   
  * **[X-HDA1][1]**：USB DAC 裸板。    
@@ -49,7 +49,7 @@ IC 組合為BRAVO-HD SA9227(USB IC) + CS4398 (DAC) + 耳放IC。
 存取高解析音樂檔案播放音樂，    
 或是輸入網路電台網址連線收聽廣播音樂。    
 
-###<font color="red">Raspberry Pi2 + USB DAC 組合：</font>    
+### <font color="red">Raspberry Pi2 + USB DAC 組合：</font>    
     
 另外選用一條USB Y 型線材附加輔助供電線，    
 及USB B-Type 轉接頭，   
@@ -76,7 +76,7 @@ Volumio 開機可以偵測到USB DAC，
 輸入命令列指令修改設定檔。    
     
 * 登入帳號    
-<pre class="prettyprint linenums">ssh volumio@[Raspberry Pi2 IP]</pre>    
+```ssh volumio@[Raspberry Pi2 IP]```    
 Password：volumio   
 
 ![img01][img01]
@@ -85,11 +85,11 @@ Password：volumio
 列出系統的聲卡和音頻設備等，    
 確認到有偵測到這張USB DAC，及對應的device ID。    
 
-<pre class="prettyprint linenums">
+```
 volumio@volumio:~$ aplay -l |grep SA9227
 card 5: Audio [SA9227 USB Audio], device 0: USB Audio [USB Audio]   
 card 5: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]   
-</pre>
+```
 
 * device ID 注意的字樣是 card 後面的 **5**，以及device後面的 **0**,   
 MPD設定檔手動修改輸出裝置就填入"5,0" 字樣。   
@@ -109,15 +109,15 @@ Ctrl+O 覆寫存檔原檔，Ctrl+X  離開 nano 編輯程式。
 
 * 重啟MPD 或是重新開機，使修改生效。    
 但是建議重新開機會比較妥當。    
-指令：<pre class="prettyprint linenums">sudo /etc/init.d/mpd restart</pre>   
+指令：```sudo /etc/init.d/mpd restart```   
 重啟MPD 服務。    
 
-* 指令：<pre class="prettyprint linenums">mpd -V</pre>  查詢MPD 版本   
+* 指令：```mpd -V```  查詢MPD 版本   
 
-<pre class="prettyprint linenums">
+```
 volumio@volumio:~$ mpd -V |grep Daemon
 Music Player Daemon 0.19.9
-</pre>
+```
 可惜的是Volumio 定制編譯的MPD 套件，    
 沒有另外加入 DSD 的修補代碼。   
 播放DSD128 格式，   
