@@ -99,7 +99,7 @@ MPD設定檔手動修改輸出裝置就填入"5,0" 字樣。
 
 ![img02][img02]
 
-* 指令：```nano /etc/mpd.conf<```    
+* 指令：```nano /etc/mpd.conf```    
 系統預裝nano 編輯器修改MPD 服務的設定檔 mpd.conf，   
 將輸出聲音裝置修改成USB DAC 的device ID。   
 我的例子是audio_output 裡device 原本的"hw:1,0" 改成"hw:5,0"，   
