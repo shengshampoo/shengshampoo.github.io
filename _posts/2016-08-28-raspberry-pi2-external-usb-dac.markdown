@@ -81,7 +81,7 @@ Password：volumio
 
 ![img01][img01]
 
-* 指令：<pre class="prettyprint linenums">aplay -l</pre>
+* 指令：```aplay -l```
 列出系統的聲卡和音頻設備等，    
 確認到有偵測到這張USB DAC，及對應的device ID。    
 
@@ -94,12 +94,12 @@ card 5: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 * device ID 注意的字樣是 card 後面的 **5**，以及device後面的 **0**,   
 MPD設定檔手動修改輸出裝置就填入"5,0" 字樣。   
 
-* 指令：<pre class="prettyprint linenums">alsamixer</pre>   
+* 指令：```alsamixer```   
 圖形化的amixer工具，調整USB DAC 的音量。    
 
 ![img02][img02]
 
-* 指令：<pre class="prettyprint linenums">nano /etc/mpd.conf</pre>    
+* 指令：```nano /etc/mpd.conf<```    
 系統預裝nano 編輯器修改MPD 服務的設定檔 mpd.conf，   
 將輸出聲音裝置修改成USB DAC 的device ID。   
 我的例子是audio_output 裡device 原本的"hw:1,0" 改成"hw:5,0"，   
@@ -137,10 +137,10 @@ Web-UI 的OUTPUT 卻也有列出USB SA9227 的項目，
 此外，Runeaudio 定制編譯的MPD 套件，    
 有另外加入 DSD 的修補代碼。   
 
-<pre class="prettyprint linenums">
+```
 [root@runeaudio ~]# mpd -V |grep Daemon
 Music Player Daemon 0.19.13-dsd
-</pre>
+```
     
 開啟DoP 選項可以順利播出DSD128格式的音樂。    
 USB DAC 指示燈綠燈及藍燈都有亮。    
@@ -153,18 +153,18 @@ USB DAC 指示燈綠燈及藍燈都有亮。
 Runeaudio 有不同的名稱及密碼。
     
 * 登入帳號
-<pre class="prettyprint linenums">ssh root@[Raspberry Pi2 IP]</pre>   
+```ssh root@[Raspberry Pi2 IP]```   
 Password：rune    
 
 ![img05][img05]
 
 * 其他聲卡設定與Volumio 雷同。    
 
-<pre class="prettyprint linenums">
+```
 [root@runeaudio ~]# aplay -l |grep SA9227
 card 1: Audio [SA9227 USB Audio], device 0: USB Audio [USB Audio]
 card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
-</pre>
+```
 
 ![img06][img06]
 ![img07][img07]
