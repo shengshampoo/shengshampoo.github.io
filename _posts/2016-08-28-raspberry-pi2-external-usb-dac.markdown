@@ -117,7 +117,7 @@ Ctrl+O 覆寫存檔原檔，Ctrl+X  離開 nano 編輯程式。
 
 * 指令：```mpd -V```  查詢MPD 版本   
 
-```
+```bash
 volumio@volumio:~$ mpd -V |grep Daemon
 Music Player Daemon 0.19.9
 ```
