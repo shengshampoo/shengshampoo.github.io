@@ -88,7 +88,7 @@ Password：volumio
 列出系統的聲卡和音頻設備等，    
 確認到有偵測到這張USB DAC，及對應的device ID。    
 
-```
+```bash
 volumio@volumio:~$ aplay -l |grep SA9227
 card 5: Audio [SA9227 USB Audio], device 0: USB Audio [USB Audio]   
 card 5: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]   
@@ -143,7 +143,7 @@ Web-UI 的Audio output 也能正常列出 SA9227 USB 裝置的項目。
 此外，Runeaudio 定制編譯的MPD 套件，    
 有另外加入 DSD 的修補代碼。   
 
-```
+```bash
 [root@runeaudio ~]# mpd -V |grep Daemon
 Music Player Daemon 0.19.13-dsd
 ```
