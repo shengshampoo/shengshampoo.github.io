@@ -5,7 +5,7 @@ layout: post
 tags: [Headphone, RaspberryPI]
 categories: [Headphone]
 ---
-<font color="red">**2016.08.30 修改增添部分篇幅。**</font>    
+<font color="red"><b>2016.08.30 修改增添部分篇幅。</b></font>    
     
 幾天前，    
 Moode 的作者發佈新版的v2.7，    
