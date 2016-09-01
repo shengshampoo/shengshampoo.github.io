@@ -18,8 +18,9 @@ categories: [Headphone]
  * **Raspberry Pi2**：接上I2S PiFi+  DAC ( BB PCM5122) 及  USB 無線網卡 Edimax EW-7811Un。   
  * **[X-HDA1][1]**：USB DAC 裸板。    
 IC 組合為BRAVO-HD SA9227(USB IC) + CS4398 (DAC) + 耳放IC。    
-可以解碼播放最高PCM 24bit/192kHz 和 DSD64/128/256
-解碼 PCM 及 DSD64，卡上指示燈會亮綠燈。   
+可以解碼播放最高PCM 24bit/192kHz 和 DSD64/128/256。     
+解碼 PCM 及 DSD64，卡上指示燈會亮綠燈，   
+解碼 DSD128/256，卡上指示燈會同時亮綠燈及藍燈。   
 
 作業系統：**Volumio 2 RC2(0.979)** 及 **Runeaudio v0.3-bata**。   
 至於另一款OS：Moode，似乎與USB DAC 水土不服，   
