@@ -94,19 +94,19 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
 * 指令：```tar  -vxf  XXX.tar.gz```   
   解壓縮下載的Java/Minimserver GZ 程式壓縮檔。    
   
-    ```bash   
-    tar -vxf jre-8u???-linux-x64.tar.gz     
-    tar -vxf MinimWatch-0.?.?-linux-x64.tar.gz      
-    ```
+```bash   
+tar -vxf jre-8u???-linux-x64.tar.gz     
+tar -vxf MinimWatch-0.?.?-linux-x64.tar.gz      
+```
     
 * 撰寫Java 程式執行必要環境變數文本，   
   檔名取名 "exe_set_java_variable"，內容如下：    
 
-    ```bash     
-    #file name:exe_set_java_variable        
-    export PATH=$PATH:$HOME/Downloads/jre1.8.0_???/bin      
-    export JAVA_HOME=$HOME/Downloads/jre1.8.0_???       
-    ```     
+```bash     
+#file name:exe_set_java_variable        
+export PATH=$PATH:$HOME/Downloads/jre1.8.0_???/bin      
+export JAVA_HOME=$HOME/Downloads/jre1.8.0_???       
+```     
     
 * 撰寫Minimserver 程式執行啟動執行批次檔，     
   檔名取名 "exe_minimserver"，    
@@ -115,12 +115,13 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
   解壓縮後，Minimserver 啟動檔路徑為：```/minimserver/bin/startc```。   
   
   exe_minimserver 文本內容如下：    
-    ```sh
-    #file name:exe_minimserver      
-    source ./exe_set_java_variable      
-    export LD_LIBRARY_PATH=$JAVA_HOME/lib/amd64:$JAVA_HOME/lib/amd64/server     
-    $HOME/Downloads/minimserver/bin/startc      
-    ```
+
+```bash
+#file name:exe_minimserver      
+source ./exe_set_java_variable      
+export LD_LIBRARY_PATH=$JAVA_HOME/lib/amd64:$JAVA_HOME/lib/amd64/server     
+$HOME/Downloads/minimserver/bin/startc      
+```
         
 * 命令列執行exe_minimserver 啟動設定Minimserver：       
     ```sh
@@ -167,15 +168,15 @@ help       (or ?) displays this information
 
 * 指令```packages``` 列出已安裝和可用的minim套件。      
 
-    ```bash
-    >packages       
-    The following packages are installed:       
-    minimserver-0.8-update-88  Active       
-    minimserver-0.8.4  Active+Original      
-    The following packages are available for installation:      
-    minimstreamer-0.5.25        
-    >       
-    ```
+```bash
+>packages       
+The following packages are installed:       
+minimserver-0.8-update-88  Active       
+minimserver-0.8.4  Active+Original      
+The following packages are available for installation:      
+minimstreamer-0.5.25        
+>       
+```
 
 * 指令```install minimstreamer-0.5.25``` 安裝minimstreamer。        
   完成後先關閉Minimserver 服務。        
@@ -184,11 +185,10 @@ help       (or ?) displays this information
   用於傳輸串流音頻，及相關應用，如：轉碼，錄製等。      
   安裝的理由是傳輸DSD音頻，並封裝成DoP 的WAV 格式。     
 
-* 修改/minimserver/data/minimserver.config 增加一行設定敘述。       
-
-  ``` 
-  stream.transcode=dsf:dopwav,dff:dopwav        
-  ```
+* 修改/minimserver/data/minimserver.config 增加一行設定敘述。
+```
+stream.transcode=dsf:dopwav,dff:dopwav
+```
 
   意思就是DSD格式的dsf/dff 轉碼為DoP 封裝的WAV 形式傳輸。       
   之後再執行啟動 Minimserver 服務。     
