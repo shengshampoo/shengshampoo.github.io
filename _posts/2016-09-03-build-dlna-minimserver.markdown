@@ -115,7 +115,6 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
   解壓縮後，Minimserver 啟動檔路徑為：```/minimserver/bin/startc```。   
   
   exe_minimserver 文本內容如下：    
-    
     ```sh
     #file name:exe_minimserver      
     source ./exe_set_java_variable      
@@ -124,7 +123,6 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
     ```
         
 * 命令列執行exe_minimserver 啟動設定Minimserver：       
- 
     ```sh
     ???@???:~/Downloads$ ./exe*server       
     Migrating autostart configuration       
