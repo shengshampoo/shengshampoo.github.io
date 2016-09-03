@@ -143,28 +143,6 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
 
 * 指令```?```，等同```help```，列出所有可用的指令。   
 
-    ```bash
-    >?      
-    Commands:       
-    rescan     restarts the media server and rescans the media library      
-    props      shows current properties for the media server        
-    prop n=v   sets media server property name n to value v     
-    about      shows version and status information for the media server        
-    stop       stops the media server without exiting the application       
-    restart    restarts the stopped or running media server     
-    exit       exits the media server application       
-    packages   shows installed packages (with status) and available packages        
-    install p  installs package p       
-    remove p   removes installed package p      
-    undo p     undoes a pending change to installed package p       
-    relaunch   relaunches the runtime and applies pending package changes       
-    modules    shows installed modules (with status)        
-    updates    shows available updates for installed packages       
-    sleep t    delays execution for t seconds (can be useful for scripting)     
-    help       (or ?) displays this information     
-    >       
-    ```
-
 * 指令```packages``` 列出已安裝和可用的minim套件。      
 
     ```bash
