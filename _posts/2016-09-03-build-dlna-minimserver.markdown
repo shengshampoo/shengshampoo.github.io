@@ -214,7 +214,7 @@ stream.transcode=dsf:dopwav,dff:dopwav
   不過比較疑惑的是，Usb DAC 可以順利啟動DoP DSD解碼，       
   BubbleuPnP 顯示播放的格式卻是 352kHz wav？        
 
-[![][img22]][img21][![][img24]][img23]
+|[![][img22]][img21]|[![][img24]][img23]|
 
 實際配置 DLNA 網路播放音樂－2：       
 * Media Server：個人電腦 + Minimserver      
