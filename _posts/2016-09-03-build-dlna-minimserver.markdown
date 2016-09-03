@@ -116,7 +116,7 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
   
   exe_minimserver 文本內容如下：    
     
-    ```bash     
+    ```bash
     #file name:exe_minimserver      
     source ./exe_set_java_variable      
     export LD_LIBRARY_PATH=$JAVA_HOME/lib/amd64:$JAVA_HOME/lib/amd64/server     
@@ -145,7 +145,7 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
 
 * 指令```?```，等同```help```，列出所有可用的指令。   
 
-    ```bash     
+    ```bash
     >?      
     Commands:       
     rescan     restarts the media server and rescans the media library      
@@ -169,7 +169,7 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
 
 * 指令```packages``` 列出已安裝和可用的minim套件。      
 
-    ```bash     
+    ```bash
     >packages       
     The following packages are installed:       
     minimserver-0.8-update-88  Active       
@@ -188,7 +188,7 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
 
 * 修改/minimserver/data/minimserver.config 增加一行設定敘述。       
 
-  ```       
+  ``` 
   stream.transcode=dsf:dopwav,dff:dopwav        
   ```
 
