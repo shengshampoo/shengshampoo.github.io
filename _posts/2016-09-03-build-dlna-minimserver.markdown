@@ -142,7 +142,7 @@ MinimServer[exton-os] is running
 >       
 ```
    
-    設定掛載音樂檔案的資料夾路徑後，即成功啟動Minimserver 服務。    
+設定掛載音樂檔案的資料夾路徑後，即成功啟動Minimserver 服務。    
 
 * 指令```?```，等同```help```，列出所有可用的指令。
 
