@@ -124,22 +124,24 @@ $HOME/Downloads/minimserver/bin/startc
 ```
         
 * 命令列執行exe_minimserver 啟動設定Minimserver：       
-    ```sh
-    ???@???:~/Downloads$ ./exe*server       
-    Migrating autostart configuration       
-    Acquiring root privilege for system configuration update...     
-    MinimServer 0.8.4, Copyright (c) 2012-2016 Simon Nash. All rights reserved.     
-    autoUpdate: installed package 'minimserver-0.8-update-88'       
-    Enter command (? for help):     
-    autoUpdate: relaunching runtime     
-    >MinimServer 0.8.4 update 88, Copyright (c) 2012-2016 Simon Nash. All rights reserved.      
-    starting MinimServer[exton-os]      
-    Enter command (? for help):     
-    >Enter content directory, or null to continue:      
-    /media/live/my_music_folder     
-    MinimServer[exton-os] is running        
-    >       
-    ```
+
+```bash
+???@???:~/Downloads$ ./exe*server       
+Migrating autostart configuration       
+Acquiring root privilege for system configuration update...     
+MinimServer 0.8.4, Copyright (c) 2012-2016 Simon Nash. All rights reserved.     
+autoUpdate: installed package 'minimserver-0.8-update-88'       
+Enter command (? for help):     
+autoUpdate: relaunching runtime     
+>MinimServer 0.8.4 update 88, Copyright (c) 2012-2016 Simon Nash. All rights reserved.      
+starting MinimServer[exton-os]      
+Enter command (? for help):     
+>Enter content directory, or null to continue:      
+/media/live/my_music_folder     
+MinimServer[exton-os] is running        
+>       
+```
+   
     設定掛載音樂檔案的資料夾路徑後，即成功啟動Minimserver 服務。    
 
 * 指令```?```，等同```help```，列出所有可用的指令。
