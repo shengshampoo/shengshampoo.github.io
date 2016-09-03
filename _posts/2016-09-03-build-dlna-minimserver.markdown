@@ -217,6 +217,7 @@ stream.transcode=dsf:dopwav,dff:dopwav
 |[![][img22]][img21]|[![][img24]][img23]|
 
 實際配置 DLNA 網路播放音樂－2：       
+
 * Media Server：個人電腦 + Minimserver      
 * Media Renderer：Android 手機A + Usb Audio Player Pro。        
 * Controller：Android 手機B + BubbleuPnP        
