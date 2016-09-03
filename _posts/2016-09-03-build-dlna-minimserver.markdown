@@ -203,25 +203,26 @@ stream.transcode=dsf:dopwav,dff:dopwav
 
 ### <font color="red">個人 DLNA 網路配置</font>         
 
-* 實際配置 DLNA 網路播放音樂－1：       
-    * Media Server：個人電腦 + Minimserver      
-    * Media Renderer：Raspberry Pi2 + Runeaudio 0.3bata       
-    * Controller：Android 手機 + BubbleuPnP         
-    * 執行Android 手機上的BubbleuPnP，      
-      音樂來源為個人電腦上的Minimserver裡的一首DSD128 音樂檔，      
-      播放音樂輸出至Raspberry Pi2 外接的Usb DAC。       
-      不過比較疑惑的是，Usb DAC 可以順利啟動DoP DSD解碼，       
-      BubbleuPnP 顯示播放的格式卻是 352kHz wav？        
+實際配置 DLNA 網路播放音樂－1：       
+    
+* Media Server：個人電腦 + Minimserver      
+* Media Renderer：Raspberry Pi2 + Runeaudio 0.3bata       
+* Controller：Android 手機 + BubbleuPnP         
+* 執行Android 手機上的BubbleuPnP，      
+  音樂來源為個人電腦上的Minimserver裡的一首DSD128 音樂檔，      
+  播放音樂輸出至Raspberry Pi2 外接的Usb DAC。       
+  不過比較疑惑的是，Usb DAC 可以順利啟動DoP DSD解碼，       
+  BubbleuPnP 顯示播放的格式卻是 352kHz wav？        
 
-    |[![][img22]][img21]|[![][img24]][img23]|
+[![][img22]][img21][![][img24]][img23]
 
-* 實際配置 DLNA 網路播放音樂－2：       
-    * Media Server：個人電腦 + Minimserver      
-    * Media Renderer：Android 手機A + Usb Audio Player Pro。        
-    * Controller：Android 手機B + BubbleuPnP        
-    * 播放音樂改換成輸出至另一隻Android 手機，      
-      OTG 外接 Usb DAC，        
-      使用Usb Audio Player Pro 播放24bit/192kHz音樂。       
+實際配置 DLNA 網路播放音樂－2：       
+* Media Server：個人電腦 + Minimserver      
+* Media Renderer：Android 手機A + Usb Audio Player Pro。        
+* Controller：Android 手機B + BubbleuPnP        
+* 播放音樂改換成輸出至另一隻Android 手機，      
+  OTG 外接 Usb DAC，        
+  使用Usb Audio Player Pro 播放24bit/192kHz音樂。       
 
 [1]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies
 [2]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies?page=2
