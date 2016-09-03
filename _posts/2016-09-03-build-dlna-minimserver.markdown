@@ -125,7 +125,7 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
         
 * 命令列執行exe_minimserver 啟動設定Minimserver：       
  
-    ```bash     
+    ```bash
     ???@???:~/Downloads$ ./exe*server       
     Migrating autostart configuration       
     Acquiring root privilege for system configuration update...     
