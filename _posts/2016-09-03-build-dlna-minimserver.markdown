@@ -116,7 +116,7 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
   
   exe_minimserver 文本內容如下：    
     
-    ```bash
+    ```sh
     #file name:exe_minimserver      
     source ./exe_set_java_variable      
     export LD_LIBRARY_PATH=$JAVA_HOME/lib/amd64:$JAVA_HOME/lib/amd64/server     
@@ -125,7 +125,7 @@ Minimserver 能夠在 Windows/Linux 兩大系統安裝使用。
         
 * 命令列執行exe_minimserver 啟動設定Minimserver：       
  
-    ```bash
+    ```sh
     ???@???:~/Downloads$ ./exe*server       
     Migrating autostart configuration       
     Acquiring root privilege for system configuration update...     
