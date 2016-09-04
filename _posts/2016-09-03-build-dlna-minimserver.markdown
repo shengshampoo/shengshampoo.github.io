@@ -223,13 +223,13 @@ stream.transcode=dsf:dopwav,dff:dopwav
 * Media Server：個人電腦 + Minimserver      
 * Media Renderer：Android 手機A + Usb Audio Player Pro。        
 * Controller：Android 手機B + BubbleuPnP        
-* Usb Audio Player Pro 和 BubbleuPnP 可以裝在同一隻Android 手機，
-  控制播放及輸出音樂全由這個Android 手機。
-  也可以分別裝在不同Android 手機，
-  個別用作控制播放和輸出音樂。
-  本例是裝在同一隻Android 手機，
-  OTG 外接 Usb DAC，
-  使用Usb Audio Player Pro 播放24bit/192kHz音樂。     
+* Usb Audio Player Pro 和 BubbleuPnP 可以裝在同一隻Android 手機，       
+  控制播放及輸出音樂全由這個Android 手機。      
+  也可以分別裝在不同Android 手機，      
+  個別用作控制播放和輸出音樂。      
+  本例是裝在同一隻Android 手機，        
+  OTG 外接 Usb DAC，        
+  使用Usb Audio Player Pro 播放24bit/192kHz音樂。      
 
 [1]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies
 [2]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies?page=2
