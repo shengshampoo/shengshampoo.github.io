@@ -224,7 +224,7 @@ stream.transcode=dsf:dopwav,dff:dopwav
 * Media Renderer：Android 手機A + Usb Audio Player Pro。        
 * Controller：Android 手機B + BubbleuPnP        
 * Usb Audio Player Pro 和 BubbleuPnP 可以裝在同一隻Android 手機，       
-  控制播放及輸出音樂全由這個Android 手機。      
+  控制播放及輸出音樂全由這個Android 手機運作。      
   也可以分別裝在不同Android 手機，      
   個別用作控制播放和輸出音樂。      
   本例是裝在同一隻Android 手機，        
