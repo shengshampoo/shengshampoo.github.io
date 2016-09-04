@@ -229,7 +229,15 @@ stream.transcode=dsf:dopwav,dff:dopwav
   個別用作控制播放和輸出音樂。      
   本例是裝在同一隻Android 手機，        
   OTG 外接 Usb DAC，        
-  使用Usb Audio Player Pro 播放24bit/192kHz音樂。      
+  使用Usb Audio Player Pro 播放24bit/192kHz音樂。    
+
+|DLNA 配置|BubbleuPnP 播放介面 |
+|:---:|:---:|
+|[![][img26]][img25]|[![][img28]][img27]|
+
+|BubbleuPnP 播放介面|UAPP uPnP Renderer 播放介面|
+|:---:|:---:|
+|[![][img28]][img27]|[![][img30]][img29]|
 
 [1]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies
 [2]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies?page=2
@@ -245,3 +253,9 @@ stream.transcode=dsf:dopwav,dff:dopwav
 [img22]: https://res.cloudinary.com/shengshampoo/image/upload/s--u2kO5Ip6--/v1472899944/Screenshot_2016-09-03-08-42-312-fs8_e51or4.png
 [img23]: https://res.cloudinary.com/shengshampoo/image/upload/s--c_eEPOh9--/v1472899445/Screenshot_2016-09-03-08-44-151-fs8_tjllp0.png
 [img24]: https://res.cloudinary.com/shengshampoo/image/upload/s--mh_SgiiX--/v1472899444/Screenshot_2016-09-03-08-44-152-fs8_dbcgnh.png
+[img25]: https://res.cloudinary.com/shengshampoo/image/upload/s--FXlXAFiV--/v1472972345/Screenshot_2016-09-04-14-50-451-fs8_zfphwr.png
+[img26]: https://res.cloudinary.com/shengshampoo/image/upload/s--jcbXKrDQ--/v1472972345/Screenshot_2016-09-04-14-50-452-fs8_ry0y4y.png
+[img27]: https://res.cloudinary.com/shengshampoo/image/upload/s--WpWdZMLH--/v1472972354/Screenshot_2016-09-04-14-51-021-fs8_sqwsn1.png
+[img28]: https://res.cloudinary.com/shengshampoo/image/upload/s--iLMwftVw--/v1472972354/Screenshot_2016-09-04-14-51-022-fs8_fpr0hy.png
+[img29]: https://res.cloudinary.com/shengshampoo/image/upload/s--JMIbDRQt--/v1472972768/Screenshot_2016-09-04-14-51-091-fs8_jzarfu.png
+[img30]: https://res.cloudinary.com/shengshampoo/image/upload/s--VV0XI41P--/v1472972768/Screenshot_2016-09-04-14-51-092-fs8_hvj5re.png
