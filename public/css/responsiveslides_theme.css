@@ -148,7 +148,8 @@
 .centered-btns_tabs,
 .transparent-btns_tabs,
 .large-btns_tabs {
-  margin-top: 10px;
+  margin-top: 8px;
+  margin-bottom: 8px;
   text-align: center;
   }
 
