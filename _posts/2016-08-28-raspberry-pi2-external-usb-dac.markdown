@@ -25,7 +25,6 @@ categories: [Headphone]
 
 * **Raspberry Pi2**：接上I2S PiFi+  DAC ( BB PCM5122) 及  USB 無線網卡 Edimax EW-7811Un。   
 * **[X-HDA1][1]**：USB DAC 裸板。    
-
 IC 組合為BRAVO-HD SA9227(USB IC) + CS4398 (DAC) + 耳放IC。    
 可以解碼播放最高PCM 24bit/192kHz 和 DSD64/128/256。     
 解碼 PCM 及 DSD64，卡上指示燈會亮綠燈，   
