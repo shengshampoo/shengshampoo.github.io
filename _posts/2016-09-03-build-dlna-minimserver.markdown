@@ -1,12 +1,12 @@
 ---
 published: true
-title: 構建 DLNA連線播放區網音樂伺服器 Minimserver 微心得
+title: 構建 DLNA連線播放區網音樂伺服器 Minimserver 微筆記
 layout: post
 tags: [Headphone, RaspberryPI]
 categories: [Headphone]
 ---
 
-**構建DLNA連線播放區網音樂伺服器 Minimserver 微心得**   
+**構建DLNA連線播放區網音樂伺服器 Minimserver 微筆記**   
     
 ### <font color="red">構建 DLNA的三個組成</font>    
     
