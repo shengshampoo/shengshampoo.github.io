@@ -108,6 +108,8 @@
   text-indent: -9999px;
   overflow: hidden;
   height: 91%;
+  margin-top: 1px;
+  margin-bottom: 1px;
   }
 
 .transparent-btns_nav.next {
@@ -148,8 +150,8 @@
 .centered-btns_tabs,
 .transparent-btns_tabs,
 .large-btns_tabs {
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 1px;
+  margin-bottom: 1px;
   text-align: center;
   }
 
