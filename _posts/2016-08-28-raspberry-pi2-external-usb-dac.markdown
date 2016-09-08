@@ -14,7 +14,7 @@ categories: [Headphone]
 
 <div class="rslides_container">
 <ul id="slides1" class="rslides">
-  <li><img src="https://dl.dropboxusercontent.com/s/63laoqvvaf6l5wl/DSC02747a.JPG" alt="">
+  <li><img class="responsively-lazy" src="https://dl.dropboxusercontent.com/s/63laoqvvaf6l5wl/DSC02747a.JPG" alt="" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
    <p class="caption">Raspberry Pi2+ X-HDA1 組合配置_1</p></li>
   <li><img src="https://dl.dropboxusercontent.com/s/armngfqhzyubxhw/DSC02736a.JPG" alt=""><p class="caption">Raspberry Pi2+ X-HDA1 組合配置_2</p></li>
   <li><img src="https://dl.dropboxusercontent.com/s/8l2skhy3dre9h5q/DSC02741a.JPG" alt=""><p class="caption">Raspberry Pi2</p></li>
