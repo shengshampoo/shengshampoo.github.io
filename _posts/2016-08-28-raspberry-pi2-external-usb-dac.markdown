@@ -14,12 +14,12 @@ categories: [Headphone]
 
 <div class="rslides_container">
 <ul id="slides1" class="rslides">
-  <li><img src="https://dl.dropboxusercontent.com/s/63laoqvvaf6l5wl/DSC02747a.JPG" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="">
+  <li><img src="https://dl.dropboxusercontent.com/s/63laoqvvaf6l5wl/DSC02747a.JPG" alt="">
    <p class="caption">Raspberry Pi2+ X-HDA1 組合配置_1</p></li>
-  <li><img src="https://dl.dropboxusercontent.com/s/armngfqhzyubxhw/DSC02736a.JPG" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt=""><p class="caption">Raspberry Pi2+ X-HDA1 組合配置_2</p></li>
-  <li><img src="https://dl.dropboxusercontent.com/s/8l2skhy3dre9h5q/DSC02741a.JPG" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt=""><p class="caption">Raspberry Pi2</p></li>
-  <li><img src="https://dl.dropboxusercontent.com/s/fqvc369eea08u78/DSC02731a.JPG" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt=""><p class="caption">X-HDA1 USB DAC</p></li>
-  <li><img src="https://dl.dropboxusercontent.com/s/4w6erpekehuzzfo/DSC027381a.JPG" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt=""><p class="caption">供電：18650鋰電行動電源</p></li>
+  <li><img src="https://dl.dropboxusercontent.com/s/armngfqhzyubxhw/DSC02736a.JPG" alt=""><p class="caption">Raspberry Pi2+ X-HDA1 組合配置_2</p></li>
+  <li><img src="https://dl.dropboxusercontent.com/s/8l2skhy3dre9h5q/DSC02741a.JPG" alt=""><p class="caption">Raspberry Pi2</p></li>
+  <li><img src="https://dl.dropboxusercontent.com/s/fqvc369eea08u78/DSC02731a.JPG" alt=""><p class="caption">X-HDA1 USB DAC</p></li>
+  <li><img src="https://dl.dropboxusercontent.com/s/4w6erpekehuzzfo/DSC027381a.JPG" alt=""><p class="caption">供電：18650鋰電行動電源</p></li>
 </ul>
 </div>
 
