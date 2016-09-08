@@ -183,7 +183,7 @@ card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 
 ![img06][img06]
 ![img07][img07]
-![img09][img09]
+<img alt="" class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cWeyS4om--/v1472468088/Screenshot_2016-08-29-18-07-001-fs8_p7oikx.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 [1]: https://item.taobao.com/item.htm?id=520314851231
 [img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--Xrw2Qz8r--/v1472381608/Screenshot_from_2016-08-28_17-37-141-fs8_q7tnew.png
@@ -194,5 +194,4 @@ card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 [img06]: https://res.cloudinary.com/shengshampoo/image/upload/s--WWKTYoIy--/v1472382980/Screenshot_from_2016-08-28_19-10-261-fs8_ga7wpc.png
 [img07]: https://res.cloudinary.com/shengshampoo/image/upload/s--aaT3pypN--/v1472382983/Screenshot_from_2016-08-28_19-12-341-fs8_gs65i3.png
 [img08]: https://res.cloudinary.com/shengshampoo/image/upload/s--9HcyaGoZ--/v1472386780/Screenshot_2016-08-28-18-42-501-fs8_mjlxlq.png
-[img09]: https://res.cloudinary.com/shengshampoo/image/upload/s--cWeyS4om--/v1472468088/Screenshot_2016-08-29-18-07-001-fs8_p7oikx.png
 [img10]: https://res.cloudinary.com/shengshampoo/image/upload/s--ULClUjhT--/v1472464488/Screenshot_from_2016-08-29_17-52-06-fs8_thbbqs.png
