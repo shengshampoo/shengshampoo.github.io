@@ -181,8 +181,8 @@ card 1: Audio [SA9227 USB Audio], device 0: USB Audio [USB Audio]
 card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 ```
 
-![img06][img06]
-![img07][img07]
+<img alt="" class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--WWKTYoIy--/v1472382980/Screenshot_from_2016-08-28_19-10-261-fs8_ga7wpc.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<img alt="" class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--aaT3pypN--/v1472382983/Screenshot_from_2016-08-28_19-12-341-fs8_gs65i3.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 <img alt="" class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cWeyS4om--/v1472468088/Screenshot_2016-08-29-18-07-001-fs8_p7oikx.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 [1]: https://item.taobao.com/item.htm?id=520314851231
@@ -191,7 +191,5 @@ card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 [img03]: https://res.cloudinary.com/shengshampoo/image/upload/s--z57b5oSE--/v1472381615/Screenshot_from_2016-08-28_17-45-581-fs8_surow8.png
 [img04]: https://res.cloudinary.com/shengshampoo/image/upload/s--A841d4-X--/v1472381619/Screenshot_from_2016-08-28_18-04-201-fs8_umg4qx.png
 [img05]: https://res.cloudinary.com/shengshampoo/image/upload/s--HzVYK0Jz--/v1472382977/Screenshot_from_2016-08-28_19-05-041-fs8_kgxqwb.png
-[img06]: https://res.cloudinary.com/shengshampoo/image/upload/s--WWKTYoIy--/v1472382980/Screenshot_from_2016-08-28_19-10-261-fs8_ga7wpc.png
-[img07]: https://res.cloudinary.com/shengshampoo/image/upload/s--aaT3pypN--/v1472382983/Screenshot_from_2016-08-28_19-12-341-fs8_gs65i3.png
 [img08]: https://res.cloudinary.com/shengshampoo/image/upload/s--9HcyaGoZ--/v1472386780/Screenshot_2016-08-28-18-42-501-fs8_mjlxlq.png
 [img10]: https://res.cloudinary.com/shengshampoo/image/upload/s--ULClUjhT--/v1472464488/Screenshot_from_2016-08-29_17-52-06-fs8_thbbqs.png
