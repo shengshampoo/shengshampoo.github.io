@@ -13,7 +13,7 @@ categories: [Headphone]
 #### <font color="red">硬體清單：</font>   
 
 <div class="rslides_container">
-<ul id="slides1" class="rslides responsively-lazy">
+<ul id="slides1" class="rslides">
   <li><img src="https://dl.dropboxusercontent.com/s/63laoqvvaf6l5wl/DSC02747a.JPG" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="">
    <p class="caption">Raspberry Pi2+ X-HDA1 組合配置_1</p></li>
   <li><img src="https://dl.dropboxusercontent.com/s/armngfqhzyubxhw/DSC02736a.JPG" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt=""><p class="caption">Raspberry Pi2+ X-HDA1 組合配置_2</p></li>
