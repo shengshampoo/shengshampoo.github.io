@@ -215,8 +215,8 @@ stream.transcode=dsf:dopwav,dff:dopwav
   BubbleuPnP 顯示播放的格式卻是 352kHz wav？        
 
 <div id="lightgallery">
-<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--DaTX4HDk--/v1472899944/Screenshot_2016-09-03-08-42-311-fs8_jrfjld.png" data-sub-html="DLNA 配置"><img class="responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--u2kO5Ip6--/v1472899944/Screenshot_2016-09-03-08-42-312-fs8_e51or4.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
-<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--c_eEPOh9--/v1472899445/Screenshot_2016-09-03-08-44-151-fs8_tjllp0.png" data-sub-html="BubbleuPnP 播放介面"><img class="responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--mh_SgiiX--/v1472899444/Screenshot_2016-09-03-08-44-152-fs8_dbcgnh.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--DaTX4HDk--/v1472899944/Screenshot_2016-09-03-08-42-311-fs8_jrfjld.png" data-sub-html="DLNA 配置"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--u2kO5Ip6--/v1472899944/Screenshot_2016-09-03-08-42-312-fs8_e51or4.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--c_eEPOh9--/v1472899445/Screenshot_2016-09-03-08-44-151-fs8_tjllp0.png" data-sub-html="BubbleuPnP 播放介面"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--mh_SgiiX--/v1472899444/Screenshot_2016-09-03-08-44-152-fs8_dbcgnh.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
 </div>
 
 實際配置 DLNA 網路播放音樂 - 2：       
