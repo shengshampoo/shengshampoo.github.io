@@ -5,6 +5,10 @@ img.responsively-lazy {
 img.responsively-lazy-300{
     max-width: 300px; !important
 }
+ 
+img.responsively-lazy-600{
+    max-width: 600px; !important
+} 
   
 /* loading Google noto webfonts*/
 :lang(zh-Hans) {  font-family: 'Noto Sans SC', sans-serif;font-weight: 400;}
