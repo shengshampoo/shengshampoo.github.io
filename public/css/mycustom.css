@@ -2,12 +2,6 @@ img.responsively-lazy {
     max-width: 100%; !important
 }
 
-
-{
-  max-width: 100%;
-  height: auto;
-  
-}
   
 /* loading Google noto webfonts*/
 :lang(zh-Hans) {  font-family: 'Noto Sans SC', sans-serif;font-weight: 400;}
