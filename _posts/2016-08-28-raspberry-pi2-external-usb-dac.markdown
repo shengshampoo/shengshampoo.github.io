@@ -181,7 +181,7 @@ card 1: Audio [SA9227 USB Audio], device 0: USB Audio [USB Audio]
 card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 ```
 
-<img alt="" class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--WWKTYoIy--/v1472382980/Screenshot_from_2016-08-28_19-10-261-fs8_ga7wpc.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<img alt="" class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--WWKTYoIy--/v1472382980/Screenshot_from_2016-08-28_19-10-261-fs8_ga7wpc.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 <img alt="" class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--aaT3pypN--/v1472382983/Screenshot_from_2016-08-28_19-12-341-fs8_gs65i3.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 <img alt="" class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cWeyS4om--/v1472468088/Screenshot_2016-08-29-18-07-001-fs8_p7oikx.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
