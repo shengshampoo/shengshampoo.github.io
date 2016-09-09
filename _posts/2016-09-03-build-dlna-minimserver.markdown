@@ -214,13 +214,9 @@ stream.transcode=dsf:dopwav,dff:dopwav
   不過比較疑惑的是，Usb DAC 可以順利啟動DoP DSD解碼，       
   BubbleuPnP 顯示播放的格式卻是 352kHz wav？        
 
-|DLNA 配置|BubbleuPnP 播放介面 |
-|:---:|:---:|
-|[![][img22]][img21]|[![][img24]][img23]|
-
 <div id="lightgallery">
-<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--DaTX4HDk--/v1472899944/Screenshot_2016-09-03-08-42-311-fs8_jrfjld.png" data-sub-html="DLNA 配置"><img src="https://res.cloudinary.com/shengshampoo/image/upload/s--u2kO5Ip6--/v1472899944/Screenshot_2016-09-03-08-42-312-fs8_e51or4.png" ></a>
-<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--c_eEPOh9--/v1472899445/Screenshot_2016-09-03-08-44-151-fs8_tjllp0.png" data-sub-html="BubbleuPnP 播放介面"><img src="https://res.cloudinary.com/shengshampoo/image/upload/s--mh_SgiiX--/v1472899444/Screenshot_2016-09-03-08-44-152-fs8_dbcgnh.png" ></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--DaTX4HDk--/v1472899944/Screenshot_2016-09-03-08-42-311-fs8_jrfjld.png" data-sub-html="DLNA 配置"><img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--u2kO5Ip6--/v1472899944/Screenshot_2016-09-03-08-42-312-fs8_e51or4.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--c_eEPOh9--/v1472899445/Screenshot_2016-09-03-08-44-151-fs8_tjllp0.png" data-sub-html="BubbleuPnP 播放介面"><img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--mh_SgiiX--/v1472899444/Screenshot_2016-09-03-08-44-152-fs8_dbcgnh.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
 </div>
 
 實際配置 DLNA 網路播放音樂 - 2：       
@@ -254,10 +250,6 @@ stream.transcode=dsf:dopwav,dff:dopwav
 [8]: http://bbs.ickey.cn/community/forum.php?mod=viewthread&tid=63912
 [9]: http://minimstreamer.com/userguide.html
 [img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--1U88ZnQM--/v1472898747/Screenshot_from_2016-09-03_15-53-261-fs8_r2k97w.png
-[img21]: https://res.cloudinary.com/shengshampoo/image/upload/s--DaTX4HDk--/v1472899944/Screenshot_2016-09-03-08-42-311-fs8_jrfjld.png
-[img22]: https://res.cloudinary.com/shengshampoo/image/upload/s--u2kO5Ip6--/v1472899944/Screenshot_2016-09-03-08-42-312-fs8_e51or4.png
-[img23]: https://res.cloudinary.com/shengshampoo/image/upload/s--c_eEPOh9--/v1472899445/Screenshot_2016-09-03-08-44-151-fs8_tjllp0.png
-[img24]: https://res.cloudinary.com/shengshampoo/image/upload/s--mh_SgiiX--/v1472899444/Screenshot_2016-09-03-08-44-152-fs8_dbcgnh.png
 [img25]: https://res.cloudinary.com/shengshampoo/image/upload/s--FXlXAFiV--/v1472972345/Screenshot_2016-09-04-14-50-451-fs8_zfphwr.png
 [img26]: https://res.cloudinary.com/shengshampoo/image/upload/s--jcbXKrDQ--/v1472972345/Screenshot_2016-09-04-14-50-452-fs8_ry0y4y.png
 [img27]: https://res.cloudinary.com/shengshampoo/image/upload/s--WpWdZMLH--/v1472972354/Screenshot_2016-09-04-14-51-021-fs8_sqwsn1.png
