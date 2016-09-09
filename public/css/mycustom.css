@@ -1,3 +1,8 @@
+img{
+    max-width:100%;
+    height=auto;
+}
+
 img.responsively-lazy {
     max-width: 100%; !important
 }
@@ -9,7 +14,7 @@ img.responsively-lazy-300{
 img.responsively-lazy-600{
     max-width: 600px; !important
 } 
-  
+
 /* loading Google noto webfonts*/
 :lang(zh-Hans) {  font-family: 'Noto Sans SC', sans-serif;font-weight: 400;}
 :lang(jp) {  font-family: 'Noto Sans JP', sans-serif;font-weight: 400;}
