@@ -2,7 +2,7 @@ img.responsively-lazy {
     max-width: 100%; !important
 }
 
-img.responsively-lazy > responsively-lazy-300{
+img.responsively-lazy-300{
     max-width: 300px; !important
 }
   
