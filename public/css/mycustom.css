@@ -10,9 +10,9 @@ img.responsively-lazy {
 
 
 /* loading lightGallery.io css*/
-body #lightgallery {
+.lg-sub-html {
     font-family: 'Noto Sans TC', sans-serif;
-    font-size:18px; !important
+    font-size:22px; !important
 }
 
 .
