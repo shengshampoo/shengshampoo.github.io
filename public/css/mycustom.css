@@ -1,18 +1,18 @@
 img{
     max-width:100%;
-    height=auto;
+    height:auto;
 }
 
 img.responsively-lazy {
-    max-width: 100%; !important
+    max-width: 100%;
 }
 
 img.responsively-lazy-300{
-    max-width: 300px; !important
+    max-width: 300px; 
 }
  
 img.responsively-lazy-600{
-    max-width: 600px; !important
+    max-width: 600px;
 } 
 
 /* loading Google noto webfonts*/
@@ -24,7 +24,7 @@ img.responsively-lazy-600{
 /* loading lightGallery.io css*/
 .lg-sub-html {
     font-family: 'Noto Sans TC', sans-serif;
-    font-size:22px; !important
+    font-size:22px !important;
 }
 
 .
