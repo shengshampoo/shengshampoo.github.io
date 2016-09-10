@@ -7,11 +7,11 @@ img.responsively-lazy {
     max-width: 100%; !important
 }
 
-img.responsively-lazy, img.responsively-lazy-300{
+img.responsively-lazy-300{
     max-width: 300px; !important
 }
  
-img.responsively-lazy, img.responsively-lazy-600{
+img.responsively-lazy-600{
     max-width: 600px; !important
 } 
 
