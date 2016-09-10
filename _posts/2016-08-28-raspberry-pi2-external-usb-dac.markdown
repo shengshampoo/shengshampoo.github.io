@@ -171,7 +171,7 @@ Runeaudio 有不同的名稱及密碼。
 ```ssh root@[Raspberry Pi2 IP]```   
 Password：rune    
 
-![img05][img05]
+<img alt="" class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--HzVYK0Jz--/v1472382977/Screenshot_from_2016-08-28_19-05-041-fs8_kgxqwb.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 * 其他聲卡設定與Volumio 雷同。    
 
