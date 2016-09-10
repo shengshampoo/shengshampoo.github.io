@@ -147,7 +147,7 @@ USB DAC 指示燈僅亮綠燈。
 Runeaudio 開機可以偵測到 USB DAC，    
 Web-UI 的Audio output 也能正常列出 SA9227 USB 裝置的項目。 
 
-![img10][img10]
+<img alt="" class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--ULClUjhT--/v1472464488/Screenshot_from_2016-08-29_17-52-06-fs8_thbbqs.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
   
 此外，Runeaudio 定制編譯的MPD 套件，    
 有另外加入 DSD 的修補代碼。   
@@ -190,6 +190,5 @@ card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 [img02]: https://res.cloudinary.com/shengshampoo/image/upload/s--V5FWmuB2--/v1472381611/Screenshot_from_2016-08-28_17-44-241-fs8_lr0g5p.png
 [img03]: https://res.cloudinary.com/shengshampoo/image/upload/s--z57b5oSE--/v1472381615/Screenshot_from_2016-08-28_17-45-581-fs8_surow8.png
 [img04]: https://res.cloudinary.com/shengshampoo/image/upload/s--A841d4-X--/v1472381619/Screenshot_from_2016-08-28_18-04-201-fs8_umg4qx.png
-[img05]: https://res.cloudinary.com/shengshampoo/image/upload/s--HzVYK0Jz--/v1472382977/Screenshot_from_2016-08-28_19-05-041-fs8_kgxqwb.png
 [img08]: https://res.cloudinary.com/shengshampoo/image/upload/s--9HcyaGoZ--/v1472386780/Screenshot_2016-08-28-18-42-501-fs8_mjlxlq.png
 [img10]: https://res.cloudinary.com/shengshampoo/image/upload/s--ULClUjhT--/v1472464488/Screenshot_from_2016-08-29_17-52-06-fs8_thbbqs.png
