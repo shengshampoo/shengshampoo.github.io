@@ -109,7 +109,7 @@ MPD設定檔手動修改輸出裝置就填入"5,0" 字樣。
 * 指令：```alsamixer```   
 圖形化的amixer工具，調整USB DAC 的音量。    
 
-![img02][img02]
+<img alt="" class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--V5FWmuB2--/v1472381611/Screenshot_from_2016-08-28_17-44-241-fs8_lr0g5p.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 * 指令：```nano /etc/mpd.conf```    
 系統預裝nano 編輯器修改MPD 服務的設定檔 mpd.conf，   
@@ -117,7 +117,7 @@ MPD設定檔手動修改輸出裝置就填入"5,0" 字樣。
 我的例子是audio_output 裡device 原本的"hw:1,0" 改成"hw:5,0"，   
 Ctrl+O 覆寫存檔原檔，Ctrl+X  離開 nano 編輯程式。       
 
-![img03][img03]
+<img alt="" class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--z57b5oSE--/v1472381615/Screenshot_from_2016-08-28_17-45-581-fs8_surow8.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 * 重啟MPD 或是重新開機，使修改生效。    
 但是建議重新開機會比較妥當。    
@@ -187,6 +187,4 @@ card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 
 [1]: https://item.taobao.com/item.htm?id=520314851231
 [img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--Xrw2Qz8r--/v1472381608/Screenshot_from_2016-08-28_17-37-141-fs8_q7tnew.png
-[img02]: https://res.cloudinary.com/shengshampoo/image/upload/s--V5FWmuB2--/v1472381611/Screenshot_from_2016-08-28_17-44-241-fs8_lr0g5p.png
-[img03]: https://res.cloudinary.com/shengshampoo/image/upload/s--z57b5oSE--/v1472381615/Screenshot_from_2016-08-28_17-45-581-fs8_surow8.png
 [img04]: https://res.cloudinary.com/shengshampoo/image/upload/s--A841d4-X--/v1472381619/Screenshot_from_2016-08-28_18-04-201-fs8_umg4qx.png
