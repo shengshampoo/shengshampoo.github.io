@@ -82,7 +82,7 @@ IC 組合為BRAVO-HD SA9227(USB IC) + CS4398 (DAC) + 耳放IC。
 Volumio 開機可以偵測到USB DAC，   
 但是在 Web-UI 的output device卻沒有列出USB DAC的項目。    
 
-![img04][img04]
+<img alt="" class="responsively-lazy responsively-lazy-600" src=" https://res.cloudinary.com/shengshampoo/image/upload/s--A841d4-X--/v1472381619/Screenshot_from_2016-08-28_18-04-201-fs8_umg4qx.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 所以我也只能在透過 SSH 遠端連線登入Raspberry Pi2，     
 輸入命令列指令修改設定檔。    
@@ -186,5 +186,3 @@ card 1: Audio [SA9227 USB Audio], device 1: USB Audio [USB Audio #1]
 <img alt="" class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cWeyS4om--/v1472468088/Screenshot_2016-08-29-18-07-001-fs8_p7oikx.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 [1]: https://item.taobao.com/item.htm?id=520314851231
-[img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--Xrw2Qz8r--/v1472381608/Screenshot_from_2016-08-28_17-37-141-fs8_q7tnew.png
-[img04]: https://res.cloudinary.com/shengshampoo/image/upload/s--A841d4-X--/v1472381619/Screenshot_from_2016-08-28_18-04-201-fs8_umg4qx.png
