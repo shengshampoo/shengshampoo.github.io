@@ -91,7 +91,7 @@ Volumio 開機可以偵測到USB DAC，
 ```ssh volumio@[Raspberry Pi2 IP]```    
 Password：volumio   
 
-![img01][img01]
+<img alt="" class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--Xrw2Qz8r--/v1472381608/Screenshot_from_2016-08-28_17-37-141-fs8_q7tnew.png"  srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
 
 * 指令：```aplay -l```
 列出系統的聲卡和音頻設備等，    
