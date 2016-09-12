@@ -14,8 +14,8 @@ $('.owl-carousel').owlCarousel({
     margin:2,
     autoplay:true,
     autoplayTimeout:5000,
-    autoplayHoverPause:true
-    responsiveClass:true,
+    autoplayHoverPause:true,
+    responsiveClass:true
     responsive:{
         0:{
             items:1,
