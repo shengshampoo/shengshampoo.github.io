@@ -195,7 +195,7 @@ stream.transcode=dsf:dopwav,dff:dopwav
   意思就是DSD格式的dsf/dff 轉碼為DoP 封裝的WAV 形式傳輸。       
   之後再執行啟動 Minimserver 服務。     
 
-  ![img01][img01]
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--1U88ZnQM--/v1472898747/Screenshot_from_2016-09-03_15-53-261-fs8_r2k97w.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
 
 * 以上就差不多完成初步設定。        
 
@@ -233,9 +233,9 @@ stream.transcode=dsf:dopwav,dff:dopwav
   使用Usb Audio Player Pro 播放24bit/192kHz音樂。    
 
 <div class="owl-carousel owl-theme">
-<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--FXlXAFiV--/v1472972345/Screenshot_2016-09-04-14-50-451-fs8_zfphwr.png" data-sub-html="DLNA 配置"><img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--jcbXKrDQ--/v1472972345/Screenshot_2016-09-04-14-50-452-fs8_ry0y4y.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
-<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--WpWdZMLH--/v1472972354/Screenshot_2016-09-04-14-51-021-fs8_sqwsn1.png" data-sub-html="BubbleuPnP 播放介面"><img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--iLMwftVw--/v1472972354/Screenshot_2016-09-04-14-51-022-fs8_fpr0hy.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
-<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--JMIbDRQt--/v1472972768/Screenshot_2016-09-04-14-51-091-fs8_jzarfu.png" data-sub-html="UAPP uPnP Renderer 播放介面"><img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--VV0XI41P--/v1472972768/Screenshot_2016-09-04-14-51-092-fs8_hvj5re.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--FXlXAFiV--/v1472972345/Screenshot_2016-09-04-14-50-451-fs8_zfphwr.png" data-sub-html="DLNA 配置"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--jcbXKrDQ--/v1472972345/Screenshot_2016-09-04-14-50-452-fs8_ry0y4y.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--WpWdZMLH--/v1472972354/Screenshot_2016-09-04-14-51-021-fs8_sqwsn1.png" data-sub-html="BubbleuPnP 播放介面"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--iLMwftVw--/v1472972354/Screenshot_2016-09-04-14-51-022-fs8_fpr0hy.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--JMIbDRQt--/v1472972768/Screenshot_2016-09-04-14-51-091-fs8_jzarfu.png" data-sub-html="UAPP uPnP Renderer 播放介面"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--VV0XI41P--/v1472972768/Screenshot_2016-09-04-14-51-092-fs8_hvj5re.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
 </div>
 
 [1]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies
@@ -247,4 +247,4 @@ stream.transcode=dsf:dopwav,dff:dopwav
 [7]: http://minimserver.com/downloads/index.html
 [8]: http://bbs.ickey.cn/community/forum.php?mod=viewthread&tid=63912
 [9]: http://minimstreamer.com/userguide.html
-[img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--1U88ZnQM--/v1472898747/Screenshot_from_2016-09-03_15-53-261-fs8_r2k97w.png
+
