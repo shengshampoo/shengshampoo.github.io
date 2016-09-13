@@ -9,7 +9,8 @@ $(document).ready(function() {
     });
 
 /* loading OwlCarousel2 js*/
-$('.owl-carousel').owlCarousel({
+$(document).ready(function() {
+    $('.owl-carousel').owlCarousel({
     loop:true,
     margin:2,
     autoplay:true,
@@ -26,4 +27,5 @@ $('.owl-carousel').owlCarousel({
             nav:true
         }
     }
-});
+    });
+    });
