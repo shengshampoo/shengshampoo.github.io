@@ -26,4 +26,4 @@ $('.owl-carousel').owlCarousel({
             nav:true
         }
     }
-})
+});
