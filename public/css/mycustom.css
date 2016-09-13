@@ -3,6 +3,10 @@ img{
     height:auto;
 }
 
+#lightgallery img{
+    display: inline-block !important; 
+}
+
 img.responsively-lazy {
     max-width: 100%;
 }
