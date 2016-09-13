@@ -27,3 +27,29 @@ img.responsively-lazy-600{
     font-size:22px !important;
 }
 
+
+/* Refer from http://jsfiddle.net/WEWvs/3/ */
+.caption__text { 
+  background-color: #000; 
+  background-color: rgba(0,0,0,0.4);
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size:18px !important;
+  color: white; 
+  padding: 5px 10px; 
+  text-align: center; 
+  opacity: 0;
+  filter: alpha(opacity=0);
+  position: absolute;
+  bottom: 0; 
+  left: 0; 
+  right: 0;
+    
+  -webkit-transition: opacity 0.4s ease;
+     -moz-transition: opacity 0.4s ease;
+          transition: opacity 0.4s ease;
+}
+
+.caption:hover .caption__text { 
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
