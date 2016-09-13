@@ -232,13 +232,11 @@ stream.transcode=dsf:dopwav,dff:dopwav
   OTG 外接 Usb DAC，        
   使用Usb Audio Player Pro 播放24bit/192kHz音樂。    
 
-|DLNA 配置|BubbleuPnP 播放介面 |
-|:---:|:---:|
-|[![][img26]][img25]|[![][img28]][img27]|
-
-|BubbleuPnP 播放介面|UAPP uPnP Renderer 播放介面|
-|:---:|:---:|
-|[![][img28]][img27]|[![][img30]][img29]|
+<div class="owl-carousel owl-theme">
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--FXlXAFiV--/v1472972345/Screenshot_2016-09-04-14-50-451-fs8_zfphwr.png" data-sub-html="DLNA 配置"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--jcbXKrDQ--/v1472972345/Screenshot_2016-09-04-14-50-452-fs8_ry0y4y.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--WpWdZMLH--/v1472972354/Screenshot_2016-09-04-14-51-021-fs8_sqwsn1.png" data-sub-html="BubbleuPnP 播放介面"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--iLMwftVw--/v1472972354/Screenshot_2016-09-04-14-51-022-fs8_fpr0hy.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--JMIbDRQt--/v1472972768/Screenshot_2016-09-04-14-51-091-fs8_jzarfu.png" data-sub-html="UAPP uPnP Renderer 播放介面"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--VV0XI41P--/v1472972768/Screenshot_2016-09-04-14-51-092-fs8_hvj5re.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+</div>
 
 [1]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies
 [2]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies?page=2
@@ -250,9 +248,3 @@ stream.transcode=dsf:dopwav,dff:dopwav
 [8]: http://bbs.ickey.cn/community/forum.php?mod=viewthread&tid=63912
 [9]: http://minimstreamer.com/userguide.html
 [img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--1U88ZnQM--/v1472898747/Screenshot_from_2016-09-03_15-53-261-fs8_r2k97w.png
-[img25]: https://res.cloudinary.com/shengshampoo/image/upload/s--FXlXAFiV--/v1472972345/Screenshot_2016-09-04-14-50-451-fs8_zfphwr.png
-[img26]: https://res.cloudinary.com/shengshampoo/image/upload/s--jcbXKrDQ--/v1472972345/Screenshot_2016-09-04-14-50-452-fs8_ry0y4y.png
-[img27]: https://res.cloudinary.com/shengshampoo/image/upload/s--WpWdZMLH--/v1472972354/Screenshot_2016-09-04-14-51-021-fs8_sqwsn1.png
-[img28]: https://res.cloudinary.com/shengshampoo/image/upload/s--iLMwftVw--/v1472972354/Screenshot_2016-09-04-14-51-022-fs8_fpr0hy.png
-[img29]: https://res.cloudinary.com/shengshampoo/image/upload/s--JMIbDRQt--/v1472972768/Screenshot_2016-09-04-14-51-091-fs8_jzarfu.png
-[img30]: https://res.cloudinary.com/shengshampoo/image/upload/s--VV0XI41P--/v1472972768/Screenshot_2016-09-04-14-51-092-fs8_hvj5re.png
