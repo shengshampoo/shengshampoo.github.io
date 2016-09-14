@@ -82,9 +82,9 @@ Moode 開機可以偵測到這個聲卡，
 重開機後確認Audio device 為 **I2S audio device**，    
 就可以播放音樂了。    
 
-<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--61E9ZnSW--/v1472553839/Screenshot_from_2016-08-30_18-39-41-fs8_tgy5jt.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--61E9ZnSW--/v1472553839/Screenshot_from_2016-08-30_18-39-41-fs8_tgy5jt.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
-<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--dhXqJ1XB--/v1472553839/Screenshot_from_2016-08-30_18-40-40-fs8_uti36c.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--dhXqJ1XB--/v1472553839/Screenshot_from_2016-08-30_18-40-40-fs8_uti36c.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
     
 細部的進階修改MPD 設定部分，    
@@ -95,7 +95,7 @@ Moode 有不同的名稱及密碼。
 ```ssh pi@[Raspberry Pi2 IP]```   
 Password：raspberry   
 
-<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--qsgx8fUe--/v1472554425/Screenshot_from_2016-08-30_18-52-131-fs8_nrk4lb.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--qsgx8fUe--/v1472554425/Screenshot_from_2016-08-30_18-52-131-fs8_nrk4lb.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 * 指令：
 ```mpd -V```   
@@ -106,7 +106,7 @@ pi@moode:~ $ mpd -V |grep Daemon
 Music Player Daemon 0.19.19
 ```
     
-<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--K5YB_Da7--/v1472622863/Screenshot_2016-08-31-13-48-371-fs8_liz0rj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--K5YB_Da7--/v1472622863/Screenshot_2016-08-31-13-48-371-fs8_liz0rj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 [1]: http://moodeaudio.org/
 [2]: http://moodeaudio.org/docs/forum.html
