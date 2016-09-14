@@ -33,8 +33,7 @@ E-onkyo 線上購買限日本 IP，
 無法再下載音樂。       
 (對海外消費者真不友善。)        
 
-![img01][img01]
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--PWiBzDID--/v1471047425/screenshot_50_08_06_0813_20161_aczwxs.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 [1]: http://www.findhdmusic.com/article/e-onkyo-music-tutorial/374
-[img01]: https://res.cloudinary.com/shengshampoo/image/upload/s--PWiBzDID--/v1471047425/screenshot_50_08_06_0813_20161_aczwxs.png
 
