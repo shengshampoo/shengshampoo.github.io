@@ -238,6 +238,25 @@ stream.transcode=dsf:dopwav,dff:dopwav
 <a href="https://res.cloudinary.com/shengshampoo/image/upload/s--JMIbDRQt--/v1472972768/Screenshot_2016-09-04-14-51-091-fs8_jzarfu.png" data-sub-html="UAPP uPnP Renderer 播放介面"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--VV0XI41P--/v1472972768/Screenshot_2016-09-04-14-51-092-fs8_hvj5re.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
 </div>
 
+----------------
+
+### <font color="red">後續說明</font> 
+
+使用 UPnP/DLNA 區網播放有個一個好處：       
+畢竟Raspberry Pi 的I/O及運算效能有限，      
+一方面建立播放清單，        
+管理分批NAS/個人電腦硬碟的海量儲存音樂檔案，        
+同時間又要撥出運算能力處理解碼音樂格式，        
+還是有些力不從心，      
+有可能在播放過程中遇到延遲停頓一下。        
+因此，將播放清單管理的角色，        
+分擔交給運算效能表現較好的移動智能手機，        
+或者是個人家用電腦。        
+由它們充當 DLNA 區網的 Controller，     
+而 Raspberry Pi 純粹作個單一的播放終端就比較妥當點。        
+
+
+
 [1]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies
 [2]: http://www.techbang.com/posts/15545-digital-home-skirmish-read-8-a-v-transmission-technologies?page=2
 [3]: https://zh.wikipedia.org/zh-tw/%E6%95%B8%E4%BD%8D%E7%94%9F%E6%B4%BB%E7%B6%B2%E8%B7%AF%E8%81%AF%E7%9B%9F
