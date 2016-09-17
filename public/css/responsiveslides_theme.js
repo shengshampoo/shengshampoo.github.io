@@ -1,6 +1,6 @@
     $(function () {
       $("#slides1").responsiveSlides({
-        auto: false,
+        auto: true,
         pager: true,
         nav: true,
         speed: 500,
