@@ -1,6 +1,6 @@
 ---
 published: true
-title: 粗略整理無損音樂線上商店 - Sony Hi-Res CN
+title: 跨區安裝香港MOOV APP的兩個方法
 layout: post
 tags: [Headphone]
 categories: [Headphone]
@@ -8,7 +8,7 @@ categories: [Headphone]
 
 **跨區安裝香港MOOV APP的兩個方法**    
     
-####<font color="red">前言</font>   
+#### <font color="red">前言</font>   
     
 承接前文：    
 [簡述無損串流流行華語音樂付費訂閱-MOOV][2]    
@@ -30,7 +30,7 @@ MOOV 香港當地的無損串流音樂付費訂閱服務，
 
 ------
 
-####<font color="red">VPN 連外新增香港帳戶登錄香港 Google Play</font>     
+#### <font color="red">VPN 連外新增香港帳戶登錄香港 Google Play</font>     
       
 新增 Google 帳號，    
 系統會依據終端用戶的連線IP 判定為何地用戶。   
@@ -48,7 +48,7 @@ MOOV 香港當地的無損串流音樂付費訂閱服務，
 
 -------------
 
-####<font color="red">第三方APP 應用市集下載 軟體APK 程式</font>    
+#### <font color="red">第三方APP 應用市集下載 軟體APK 程式</font>    
     
 除了透過官方Google Play 安裝管理APP，   
 還可在其他第三方Android APP 應用市集網站，    
@@ -70,7 +70,7 @@ MOOV 香港當地的無損串流音樂付費訂閱服務，
 
 ------------
 
-####<font color="red">第三方Android APP 市集 -APKPure 下載MOOV</font>   
+#### <font color="red">第三方Android APP 市集 -APKPure 下載MOOV</font>   
 
 前面微小忠告建議講完，    
 想要下載香港 JOOX/MOOV 的 APK，   
