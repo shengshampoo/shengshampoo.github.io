@@ -8,6 +8,15 @@ $(document).ready(function() {
       }); 
     });
 
+$(document).ready(function() {
+    $('#lightgallery_1').lightGallery({
+    thumbnail:true,
+    fullScreen:true,
+    autoplay:true,
+    pause:8000,
+      }); 
+    });
+
 /* loading OwlCarousel2 js*/
 $(document).ready(function() {
     $('.owl-carousel').owlCarousel({
