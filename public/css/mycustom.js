@@ -42,7 +42,7 @@ $(document).ready(function() {
 $(document).ready(function() {
   /* https://davemcmillan.net/use-jquery-to-display-an-image-alt-tag-as-a-caption-overlay*/
   /* display image caption on top of image */
-    $("#content img").each(function() {
+    $('.owl-carousel').each(function() {
           var imageCaption = $(this).attr("alt");
 		  
           if (imageCaption != '') {
