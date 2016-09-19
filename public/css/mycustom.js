@@ -40,8 +40,8 @@ $(document).ready(function() {
     });
   
 $(document).ready(function() {
-  // https://davemcmillan.net/use-jquery-to-display-an-image-alt-tag-as-a-caption-overlay/	  
-  // display image caption on top of image
+  /* https://davemcmillan.net/use-jquery-to-display-an-image-alt-tag-as-a-caption-overlay*/
+  /* display image caption on top of image */
     $("#content img").each(function() {
           var imageCaption = $(this).attr("alt");
 		  
