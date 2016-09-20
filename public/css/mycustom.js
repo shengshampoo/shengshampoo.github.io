@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 /* wayou.SlipHover */
 $(document).ready(function() {
-    $('#lightgallery').sliphover({
+    $('#lightgallery_1').sliphover({
     backgroundColor:'rgba(0,0,0,.3)'    
     });        
     });
