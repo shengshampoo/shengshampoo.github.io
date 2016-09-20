@@ -43,5 +43,5 @@ $(document).ready(function() {
 $(document).ready(function() {
     $('#lightgallery').sliphover({
     backgroundColor:'rgba(0,0,0,.3)'    
-        
+    });        
     });
