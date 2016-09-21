@@ -40,6 +40,12 @@ MOOV 香港當地的無損串流音樂付費訂閱服務，
 以香港帳號開啟Google Play，   
 自然就會顯示陳列香港當地可用的軟體。    
 如：JOOX 及 MOOV 這兩個香港串流音樂服務。   
+
+<div id="lightgallery" class="owl-carousel owl-theme">
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--bB8MgGLh--/v1474458764/Screenshot_2016-09-21-09-51-121-fs8_hwrtrm.png" data-sub-html="Google Play 下載 MOOV"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--MREUHI0u--/v1474458763/Screenshot_2016-09-21-09-51-122-fs8_kkqk2r.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--B6UyWAU8--/v1474458764/Screenshot_2016-09-21-10-04-071-fs9_ew1pia.jpg" data-sub-html="MOOV 開始畫面"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--8GjEm6Wk--/v1474458763/Screenshot_2016-09-21-10-04-072-fs9_eqzcjv.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--0nkkJGNr--/v1474458763/Screenshot_2016-09-21-10-04-411-fs8_jz14sr.png" data-sub-html="MOOV 登錄帳號"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--3LLB4cuX--/v1474458763/Screenshot_2016-09-21-10-04-412-fs8_nznyjz.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+</div>
     
 此外，Android 可允許同一個手機裝置，    
 有兩個以上不同帳號並存切換，    
