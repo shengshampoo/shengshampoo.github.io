@@ -13,6 +13,7 @@ Chrome rev 54 （Beta 版本)，
 含 Youtube ，TED 等線上影片播放服務。
 
 新聞來源：   
+
  * [Chrome 54 Beta brings background playback (yes, really!) and recommended articles][1]   
  * [Chrome 54: background HTML5 video play on Android][2]   
     
