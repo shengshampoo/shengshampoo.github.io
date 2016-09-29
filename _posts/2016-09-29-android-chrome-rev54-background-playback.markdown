@@ -1,14 +1,14 @@
 ---
 published: true
-title: Chrome 54 Beta 可以背景播放影音，含Youtube
+title: Android Chrome 54 Beta 可以背景播放影音，含Youtube
 layout: post
 tags: [Android]
 categories: [Android]
 ---
 
-**Chrome 54 Beta 可以背景播放影音，含Youtube**
+**Android Chrome 54 Beta 可以背景播放影音，含Youtube**
 
-Chrome rev 54 （Beta 版本)，
+Android Chrome rev 54 （Beta 版本)，
 新增加入Html5 網頁影音背景播放(測試 )功能，
 含 Youtube ，TED 等線上影片播放服務。
 
@@ -18,7 +18,7 @@ Chrome rev 54 （Beta 版本)，
  * [Chrome 54: background HTML5 video play on Android][2]   
     
 翻閱上方文章連結，   
-Chrome Android 的 版本 rev 54 ，    
+Android Chrome Android 的 版本 rev 54 ，    
 加入一個非常實用，且令人感興趣的功能：**<font color="red">背景播放影像輸出聲音。</font>**    
     
 目前 Google Play上的 Chrome Stable 正式穩定版本仍是 rev53，    
@@ -60,7 +60,7 @@ Chrome 切換至背景，播放即刻暫停播放，
 還有待Google 完善修正功能。   
 
 還有一個壞消息，    
-那就是Google 同時提供Chrome 54 客製 API，   
+那就是[Google 同時提供Chrome 54 客製 API][3]，   
 線上影音網站可以使用這些客製 API 禁用背景播放。    
 目前 Youtube 還是可以背景播放，    
 但是之後有可能有機會，   
@@ -68,3 +68,4 @@ Chrome 切換至背景，播放即刻暫停播放，
 
 [1]: http://www.androidauthority.com/chrome-54-beta-brings-background-playback-yes-really-recommended-articles-716880/
 [2]: http://www.ghacks.net/2016/09/16/chrome-54-background-html5-video-play-on-android/
+[3]: http://www.androidpolice.com/2016/09/15/chrome-54-beta-new-tab-pgae-background-video-playback-more-apk-download/
