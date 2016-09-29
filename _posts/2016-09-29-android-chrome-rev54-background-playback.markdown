@@ -45,6 +45,14 @@ Android Chrome Android 的 版本 rev 54 ，
     以及功能非常單純的一個播放按鈕。    
  5. 按下播放按鈕，就可以背景播放剛剛Chrome 線上播放影片輸出聲音。    
     即便操作其他APP，或是關閉螢幕都不會停止播放。  
+    
+<div id="lightgallery" class="owl-carousel owl-theme">
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--tivq-tHy--/v1475156952/Screenshot_2016-09-28-03-59-191-fs8_v7aawe.png" data-sub-html="Google Play - Chrome 54 Beta rev54"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--hWBTII8w--/v1475156951/Screenshot_2016-09-28-03-59-192-fs8_dzxhwz.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--l4Triyvn--/v1475156952/Screenshot_2016-09-29-21-06-412-fs8_g8nnoo.png" data-sub-html="Open Chrome with Youtube video playback"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--8GjEm6Wk--/v1474458763/Screenshot_2016-09-21-10-04-072-fs9_eqzcjv.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--X3VpLfDz--/v1475156952/Screenshot_2016-09-29-21-06-521-fs8_k2kjub.png" data-sub-html="Chrome Youtube notifications area"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--1XMmphJ9--/v1475156952/Screenshot_2016-09-29-21-06-522-fs8_qrbvcs.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--_6nhD5AJ--/v1475156953/Screenshot_2016-09-29-21-07-071-fs8_pkqupb.png" data-sub-html="Playback background with Chrome Youtube notifications area"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--pvGdBTC1--/v1475156953/Screenshot_2016-09-29-21-07-072-fs8_bkgyms.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+</div>
+
   
 然而，   
 Chrome 54 Beta 背景播放影音的功能還不完善，   
