@@ -61,6 +61,13 @@ VPN 連線到美國server，
 但是田馥甄Hebe的專輯歌曲幾乎全是灰白，  
 點選都是下架而無法聽到專輯的歌曲。  
 
+<div id="lightgallery" class="owl-carousel owl-theme">
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--WLxfhwuS--/v1475426260/Screenshot_2016-10-02-21-41-161-fs8_smvbb1.png" data-sub-html="網易雲音樂 普通會員音樂包"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--HpzjIswg--/v1475426260/Screenshot_2016-10-02-21-41-162-fs8_y4mr8x.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--N1iv0Tun--/v1475428333/Screenshot_2016-10-02-20-55-591-fs8_lbxgfz.png" data-sub-html="蔡健雅的專輯清單-可以播放"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--CXTXNwGF--/v1475428333/Screenshot_2016-10-02-20-55-592-fs8_cy6jui.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--N00PJyEu--/v1475426260/Screenshot_2016-10-02-21-43-271-fs8_pvrsgg.png" data-sub-html="蔡健雅的專輯歌曲播放及歌詞顯示"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--QZjlXICP--/v1475426260/Screenshot_2016-10-02-21-43-272-fs8_dh5eau.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--aiKhEuW4--/v1475426260/Screenshot_2016-10-02-22-02-411-fs8_qpbajz.png" data-sub-html="田馥甄Hebe的專輯清單-幾乎全是灰白，無法播放"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--VIa9JnuP--/v1475426260/Screenshot_2016-10-02-22-02-412-fs8_n5t2re.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+</div>
+
 此外，  
 對岸中國群雄並起的串流音樂服務音樂授權的相關報導，  
 今年8月底 少數派的微信推播撰寫的一篇新聞：  
