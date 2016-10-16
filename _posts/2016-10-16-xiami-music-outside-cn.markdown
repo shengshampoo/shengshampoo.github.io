@@ -111,7 +111,6 @@ categories: [Headphone]
 <a href="https://res.cloudinary.com/shengshampoo/image/upload/s--BSUpp0rM--/v1476620973/Screenshot_2016-10-16-20-00-481-fs8_gxsved.png" data-sub-html="蔡健雅的專輯清單-幾乎全是灰白，無法播放"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--X2KbaRqE--/v1476620973/Screenshot_2016-10-16-20-00-482-fs8_ai8bel.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
 </div>
 
-
 ------
 
 #### <font color="red">簡單提起天天動聽及阿里星球</font>   
