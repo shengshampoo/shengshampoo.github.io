@@ -128,7 +128,7 @@ categories: [Headphone]
 也無須找尋修改IP版本。    
 
 
-[1]: http://shengshampoo.leanote.com/post/%E6%B5%B7%E5%A4%96%E5%9C%B0%E5%8D%80%E6%92%AD%E6%94%BE%E7%B6%B2%E6%98%93%E9%9B%B2%E9%9F%B3%E6%A8%82%E7%9A%84%E4%B8%80%E9%BB%9E%E6%83%B3%E6%B3%95
+[1]: https://shengshampoo.github.io/headphone/2016/10/02/neteasemusic-outside-cn.html
 [2]: https://www.zhihu.com/question/39565371
 [3]: https://mp.weixin.qq.com/s?__biz=MjM5NDU1NTE5NA==&mid=2712709990&idx=1&sn=104709a1ad0b91addaeae962dea4da3a&scene=0
 [4]: https://www.zhihu.com/question/23722158
