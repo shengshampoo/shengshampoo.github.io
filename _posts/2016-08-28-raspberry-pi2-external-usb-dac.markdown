@@ -14,7 +14,7 @@ categories: [Headphone]
 
 <ul id="slippry-query">
   <li><img class="responsively-lazy" src="https://dl.dropboxusercontent.com/s/63laoqvvaf6l5wl/DSC02747a.JPG" alt="Raspberry Pi2+ X-HDA1 組合配置" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
-  <li><img class="responsively-lazy" src="https://dl.dropboxusercontent.com/s/armngfqhzyubxhw/DSC02736a.JPG" alt="Raspberry Pi2+ X-HDA1 組合配置" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy-600" src="https://dl.dropboxusercontent.com/s/armngfqhzyubxhw/DSC02736a.JPG" alt="Raspberry Pi2+ X-HDA1 組合配置" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
   <li><img class="responsively-lazy" src="https://dl.dropboxusercontent.com/s/8l2skhy3dre9h5q/DSC02741a.JPG" alt="Raspberry Pi2" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
   <li><img class="responsively-lazy" src="https://dl.dropboxusercontent.com/s/fqvc369eea08u78/DSC02731a.JPG" alt="X-HDA1 USB DAC" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
   <li><img class="responsively-lazy" src="https://dl.dropboxusercontent.com/s/4w6erpekehuzzfo/DSC027381a.JPG" alt="供電：18650鋰電行動電源" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
