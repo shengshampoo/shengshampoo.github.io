@@ -38,10 +38,3 @@ $(document).ready(function() {
     }
     });
     });
-
-/* wayou.SlipHover */
-$(document).ready(function() {
-    $('#lightgallery_V').sliphover({
-    backgroundColor:'rgba(0,0,0,.3)'    
-    });        
-    });
