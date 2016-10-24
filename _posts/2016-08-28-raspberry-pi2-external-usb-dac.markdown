@@ -25,6 +25,7 @@ categories: [Headphone]
 
 <ul id="slippry-query">
   <li><img class="responsively-lazy" src="https://dl.dropboxusercontent.com/s/63laoqvvaf6l5wl/DSC02747a.JPG" alt="aspberry Pi2+ X-HDA1 組合配置_1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img sclass="responsively-lazy" src="https://dl.dropboxusercontent.com/s/armngfqhzyubxhw/DSC02736a.JPG" alt="Raspberry Pi2+ X-HDA1 組合配置_2" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
 </ul>
 
 * **Raspberry Pi2**：接上I2S PiFi+  DAC ( BB PCM5122) 及  USB 無線網卡 Edimax EW-7811Un。   
