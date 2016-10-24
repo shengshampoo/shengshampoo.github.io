@@ -12,6 +12,7 @@
  * Released under the MIT license - http://opensource.org/licenses/MIT
  */
 /* kenBurns animations, very basic */
+/*learn form github.com/booncon/slippry */
 @-webkit-keyframes left-right {
   0% {
     -webkit-transform: translateY(-20%) translateX(-10%);
