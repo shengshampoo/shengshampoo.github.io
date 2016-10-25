@@ -206,7 +206,7 @@ blockquote p:last-child {
 img {
   display: block;
   /* display: inline-block; */
-  vertical-align： top;
+  vertical-align: top;
   margin: 0 0 1rem;
   border-radius: 5px;
 }
