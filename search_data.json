@@ -2,27 +2,21 @@
 layout: null
 ---
 
-//  learning from 
-// http://scotthorsfield.me/technology/2016/01/21/Searching-Jekyll-Post-and-Page-Content-with-lunr-js/
+// learning from 
+// http://rayhightower.com/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/
+---
+layout: null
+---
 {
   {% for post in site.posts %}
+
     "{{ post.url | slugify }}": {
       "title": "{{ post.title | xml_escape }}",
-      "subtitle": "{{ post.subtitle | xml_escape }}",
+      "content"	 : "{{post.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
       "url": " {{ post.url | xml_escape }}",
       "author": "{{ post.author | xml_escape }}",
-      "category": "{{ post.category | xml_escape }}",
-      "content": "{{ post.content | strip_html | strip_newlines | xml_escape }}"
-    }{% unless forloop.last %},{% endunless %}{% endfor %}
-    {% for page in site.pages %}{% if page.index == true %},
-      "{{ page.url | slugify }}": {
-        "title": "(Page) {{ page.title | xml_escape }}",
-        "subtitle": "{{ page.subtitle | xml_escape }}",
-        "url": " {{ page.url | xml_escape }}",
-        "author": "{{ page.author | xml_escape }}",
-        "category": "{{ page.category | xml_escape }}",
-        "content": "{{ page.content | strip_html | strip_newlines | xml_escape }}"
-      }
-      {% endif %}
-      {% endfor %}
+      "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 }
