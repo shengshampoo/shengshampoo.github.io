@@ -4,9 +4,7 @@ layout: null
 
 // learning from 
 // http://rayhightower.com/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/
----
-layout: null
----
+
 {
   {% for post in site.posts %}
 
