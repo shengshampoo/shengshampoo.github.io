@@ -3,23 +3,14 @@ layout: null
 ---
 {
   {% for post in site.posts %}
+
     "{{ post.url | slugify }}": {
       "title": "{{ post.title | xml_escape }}",
-      "subtitle": "{{ post.subtitle | xml_escape }}",
+      "content"	 : "{{post.content | strip_html | strip_newlines | remove:  "	" | escape | remove: "\"}}",
       "url": " {{ post.url | xml_escape }}",
       "author": "{{ post.author | xml_escape }}",
-      "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-      "content": "{{ post.content | strip_html | strip_newlines | xml_escape }}"
-    }{% unless forloop.last %},{% endunless %}{% endfor %}
-    {% for page in site.pages %}{% if page.index == true %},
-      "{{ page.url | slugify }}": {
-        "title": "(Page) {{ page.title | xml_escape }}",
-        "subtitle": "{{ page.subtitle | xml_escape }}",
-        "url": " {{ page.url | xml_escape }}",
-        "author": "{{ page.author | xml_escape }}",
-        "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
-        "content": "{{ page.content | strip_html | strip_newlines | xml_escape }}"
-      }
-      {% endif %}
-      {% endfor %}
+      "categories": "{% for category in post.categories %}{{ category }}{% unless forloop.last %}, {% endunless %}{% endfor %}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
 }
