@@ -6,7 +6,7 @@ tags: [Headphone, Xiamen_bank_note]
 categories: [Headphone]
 ---
 
-**持有中國銀聯卡(華夏，光大，廈門) - 微信支付二-網易雲音樂付費訂閱**   
+**網易雲音樂付費訂閱 - 微信支付**   
     
 承接前兩篇文章：    
 
