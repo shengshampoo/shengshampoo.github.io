@@ -1,6 +1,6 @@
 ---
 published: true
-title: 持有中國銀聯卡(華夏，光大，廈門) - 微信支付二-網易雲音樂付費訂閱
+title: 網易雲音樂付費訂閱 - 微信支付
 layout: post
 tags: [Headphone, Xiamen_bank_note]
 categories: [Headphone]
