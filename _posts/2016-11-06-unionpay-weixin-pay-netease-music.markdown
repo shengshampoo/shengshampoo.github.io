@@ -44,7 +44,7 @@ categories: [Headphone]
 <a href="https://res.cloudinary.com/shengshampoo/image/upload/s--uMB8RqV---/v1478429756/Screenshot_2016-10-07-01-18-141-fs8_xyrxwm.png" data-sub-html="選擇微信支付"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--x3ypnUow--/v1478429756/Screenshot_2016-10-07-01-18-142-fs8_lzqul7.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
 </div>
 
-[1]:  https://shengshampoo.github.io/headphone/2016/10/02/neteasemusic-outside-cn.html
+[1]: https://shengshampoo.github.io/headphone/2016/10/02/neteasemusic-outside-cn.html
 [2]: https://shengshampoo.tumblr.com/post/137159207438/
 
 
