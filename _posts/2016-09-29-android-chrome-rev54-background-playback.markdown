@@ -2,7 +2,7 @@
 published: true
 title: Android Chrome 54 Beta 可以背景播放影音，含Youtube
 layout: post
-tags: [Android]
+tags: [Android, Browser]
 categories: [Android]
 ---
 
