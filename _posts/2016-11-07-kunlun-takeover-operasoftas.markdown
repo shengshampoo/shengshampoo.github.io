@@ -1,6 +1,6 @@
 ---
 published: true
-title: Android Chrome 54 Beta 可以背景播放影音，含Youtube
+title: 中國企業崑崙萬維聯合360 正式完成收購 Opera  Sort AS
 layout: post
 tags: [Android]
 categories: [Android]
