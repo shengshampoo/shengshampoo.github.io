@@ -68,8 +68,8 @@ SurfEasy VPN 官網部落格也專門寫一篇文章說明：
 
 也明說 Opera Free VPN 獲利的兩個可能採取途徑：   
 
-     * advertising.   
-     * collecting anonymous data about how people use their mobile device.    
+   * advertising.   
+   * collecting anonymous data about how people use their mobile device.    
 
 他們也明瞭這個廣告免費商業模式，    
 不見得對任何用戶都是好的，   
