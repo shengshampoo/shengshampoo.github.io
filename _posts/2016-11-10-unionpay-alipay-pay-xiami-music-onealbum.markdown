@@ -37,5 +37,11 @@ categories: [Headphone]
 這兩張專輯都是在網易雲音樂下架無法收聽到的。    
 並且把整個購買過程截圖，紀錄。   
 
+<div id="lightgallery" class="owl-carousel owl-theme">
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s---ZhOf_FM--/v1478769326/Screenshot_2016-11-10-14-04-321-fs8_cfl44u.png" data-sub-html="蝦米音樂 雙11五折專輯優惠活動"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--gVyAlbe5--/v1478769326/Screenshot_2016-11-10-14-04-322-fs8_j0wcsl.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--DRgmYaYD--/v1478769326/Screenshot_2016-11-10-14-04-511-fs8_dn8zqq.png" data-sub-html="蝦米音樂 雙11五折專輯優惠活動"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--VqEEeIDu--/v1478769326/Screenshot_2016-11-10-14-04-512-fs8_zixogd.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--N6OFHcIe--/v1478769327/Screenshot_2016-11-10-14-05-061-fs8_ulllaw.png" data-sub-html="S.H.E. 數字專輯半價上架"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--sI2yJ5rL--/v1478769326/Screenshot_2016-11-10-14-05-062-fs8_zuq1mr.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--4Yv3Z8ih--/v1478769327/Screenshot_2016-11-10-14-05-371-fs8_lee71s.png" data-sub-html="支付寶付費 金額CNY 4"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--_0dluVT3--/v1478769327/Screenshot_2016-11-10-14-05-372-fs8_kacy4o.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+</div>
 
 [1]: https://shengshampoo.github.io/headphone/2016/10/16/xiami-music-outside-cn.html
