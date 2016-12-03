@@ -1,6 +1,6 @@
 ---
 published: true
-title: Hyperion 12月份和年度免費下載無損古典樂集錄
+title: Hyperion Records 12月份和年度免費下載無損古典樂集錄
 layout: post
 tags: [Headphone]
 categories: [Headphone]
