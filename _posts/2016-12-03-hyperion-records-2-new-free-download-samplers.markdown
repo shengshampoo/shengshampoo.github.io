@@ -12,7 +12,8 @@ categories: [Headphone]
 [粗略整理無損古典音樂線上商店 - hyperion][1]    
     
 每到月初，   
-hyperion records 都會發佈一張當月樂曲集錄<font color="red">“Hyperion monthly sampler”</font> 免費下載。     
+hyperion records 都會發佈一張當月樂曲集錄       
+<font color="red">“Hyperion monthly sampler”</font> 免費下載。     
 擷取來自自家hyperion 及其他唱片公司專輯等當月發行的一兩首樂曲。    
 每一首樂曲都是完整長度，    
 不是短短的30秒片段。   
