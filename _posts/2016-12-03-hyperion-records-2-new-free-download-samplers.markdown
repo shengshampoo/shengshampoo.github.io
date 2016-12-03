@@ -34,8 +34,9 @@ Hyperion Records 12月2號，
 <div class="fb-post" data-href="https://www.facebook.com/hyperionrecords/posts/10156041671947588" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/hyperionrecords/posts/10156041671947588" class="fb-xfbml-parse-ignore"><p>This month, 2 new free-download samplers and 7 new releases on Signum Records, Linn &amp; London Symphony Orchestra Live.</p>由 <a href="https://www.facebook.com/hyperionrecords/">Hyperion Records</a> 貼上了&nbsp;<a href="https://www.facebook.com/hyperionrecords/posts/10156041671947588">2016年12月2日</a></blockquote></div>
 
 <br>
-這個月同時提供兩張免費下載無損古典樂集錄，   
-一張是12月份的當月樂曲集錄，   
+這個月同時提供兩張免費下載無損古典樂集錄：  
+**Hyperion Annual Sampler 2016** ＆ **Hyperion annual sampler - 2016**。
+一張是12月份的當月樂曲集錄，   
 另一張則是將今年 1 到 11月份的樂曲集錄，   
 彙集合併一張年度無損古典樂集錄，    
 包含 47 首無損古典樂16bit/44.1khz Flac/Alac 格式。   
