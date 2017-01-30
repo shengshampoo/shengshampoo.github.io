@@ -26,7 +26,8 @@ categories: [Taiwan_Bank]
 &#x8d85;&#x904e;700&#x53f0;ATM&#x90fd;&#x53ef;&#x4ee5;&#x63d0;&#x9818;&#x8036;&#xff0c; 
 &#x8ddf;&#x5927;&#x5bb6;&#x5206;&#x4eab;&#x9019;&#x500b;&#x597d;&#x7528;&#x8cc7;&#x8a0a;</p>由<a href="https://www.facebook.com/smartpayteam/">金融卡Smart Pay</a> 貼上了&nbsp;<a href="https://www.facebook.com/smartpayteam/posts/1139062369543973">2017年1月25日</a></blockquote></div>
     
- 
+------
+
 台灣晶片金融卡(非 MastersCard/VISA Debit Card)   
 在日本的ATM 提領日幣鈔票，      
 現在多了幾個據點可以選擇。   
