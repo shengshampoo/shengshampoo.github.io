@@ -2,7 +2,7 @@
 published: true
 title: 台灣晶片金融卡跨國日本ATM提款-新增機場和超商據點
 layout: post
-tags: [Taiwan_Bank Smartpay]
+tags: [Taiwan_Bank, Smartpay]
 categories: [Taiwan_Bank]
 ---
 
