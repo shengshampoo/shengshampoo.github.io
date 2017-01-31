@@ -32,6 +32,8 @@ categories: [Taiwan_Bank]
 提供早鳥優惠折扣：「跨境提款手續費5折」    
 (即每筆交易僅新台幣50元)。   
 
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--TF2zdotI--/v1485860784/DSC027941a_cnt3nh.jpg"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--EPoPb2MY--/v1485860783/DSC027942a_k23ug9.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+
 [1]:  https://www.fisc.com.tw/tc/news/Detail.aspx?sitemappage=1&PKey=fff38a23-5199-4ff3-85ad-13a2e8203db0
 [2]: http://www.smart2pay.com.tw/hk/
 [3]: http://smart2pay.com.tw/intital_bank/
