@@ -123,6 +123,7 @@ Moode和似乎與USB DAC 水土不服，
 
 播放 DSD128 樂曲    
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--6W8JCrIi--/v1494125727/Screenshot-05072017-1014AM1-fs81_gzej53.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">    
+    
 播放 DSD128 樂曲封面局部    
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--gwJ4ztoL--/v1494125727/Screenshot-05072017-1019AM1-fs81_x9btcq.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
