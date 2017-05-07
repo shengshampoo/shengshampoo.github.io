@@ -86,6 +86,12 @@ USB DAC 指示燈也正常亮藍燈。
 Music Player Daemon 0.19.19
 </span></pre>
 
+播放 DSD128 樂曲    
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--yJLaTDcE--/v1494131079/Screenshot-05072017-1034AM1-fs81_uikt31.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">    
+    
+播放 DSD128 樂曲封面局部    
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--6npa3Cg4--/v1494131078/Screenshot-05072017-1035AM1-fs81_lvqtme.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
 ----
 
 <font color="red">Moode + USB DAC 播放設定</font>  
