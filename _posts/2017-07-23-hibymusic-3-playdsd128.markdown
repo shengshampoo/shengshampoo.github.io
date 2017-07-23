@@ -68,7 +68,7 @@ Google Play 架上仍舊掛上去年舊版2.x，
 
 ------
 
-### 小米 Max 2 外接 USB DAC ，海貝音樂播放DSD 128 高解析音樂   
+### <font color="red">小米 Max 2 外接 USB DAC ，海貝音樂播放DSD 128 高解析音樂</font>   
     
 最近剛入手 小米 Max 2，  
 Android 版本恰為 新版的 7.1.1，  
