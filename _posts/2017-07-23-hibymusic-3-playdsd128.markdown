@@ -88,6 +88,11 @@ DSD256 的格式直接就播放錯誤，
 不過換成新版3.0 則正常播放 DSD128 格式，  
 看來3.0 不只是換新界面，  
 同時也補足外接播放器材的支援性。  
+
+<div id="lightgallery" class="owl-carousel owl-theme">
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--KDgNo9wS--/v1500803617/Screenshot_2017-07-23-09-41-22-778_com.android.settings1-fs81_rfyil0.png" data-sub-html="小米 Max 2 系統版本：Android 7.1.1"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--3yFDQRwf--/v1500803617/Screenshot_2017-07-23-09-41-22-778_com.android.settings2-fs81_ejcnc9.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--N0NG7KqQ--/v1500803617/Screenshot_2017-07-23-07-25-29-056_com.hiby.music1-fs81_jwbwqp.png" data-sub-html="海貝音樂Hibymusic 配置：DSD DOP 模式"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--4_X3VKPR--/v1500803617/Screenshot_2017-07-23-07-25-29-056_com.hiby.music1-fs82_m4ljvw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+</div>
  
 [1]: http://www.hiby.cd/info_41.aspx?itemid=17
 [2]: http://www.hiby.cd/
