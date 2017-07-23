@@ -19,7 +19,7 @@ Google Play 架上仍舊掛上去年舊版2.x，
 同樣的使用介面及播放硬件支援。         
 相較之下，       
 另一款同類型的付費播放器：       
-“**USB Audio Player Pro**”，
+“**USB Audio Player Pro**”，     
 今年還是有在發布新版本，        
 持續更新增添功能和改善。        
 
