@@ -102,7 +102,7 @@ thevpn.guru 文章內容，
    那也差不多你的網路有在使用 TP代理。        
   
  我自己實測亞太4G 網路 符合第 2 點，      
- proxy-check 顯示**"No Proxies Detected"**，       
+ proxy-check 顯示<b>"No Proxies Detected"</b>，       
  但是 My IP Address 和 check 2～5 的 IP 不一致，     
  和 IP-check 顯示的 IP 也不一樣，        
  而且 IP-check 顯示的 IP ISP是Hinet，不是亞太的，        
