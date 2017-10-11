@@ -43,8 +43,8 @@ categories: [APTG_Moble_4G]
     
 回到本文主題，   
 從網路搜尋查詢相關資料：    
-https://tr.im/1g34o
-https://tr.im/1V2lH
+[TRANSPARENT PROXY : DETECT,EXPOSE & EXPLAIN][3]        
+[Is your ISP using a transparent proxy?][4]
 大致翻閱粗略理解TP是什麼？    
 為何電信和ISP會採用TP？    
 TP的缺點為何？    
@@ -80,32 +80,39 @@ ISP 強制攔截用戶需求，
 自然會有隱私上的疑慮和遭受DNS劫持的資安風險。    
 所以個人觀點覺得不是蠻正面的產物。   
     
-thevpn.guru 文章內容，
-分享鏈結一個線上檢測工具：
-whatismyip.network：
-proxy-check ：
-http://whatismyip.network/proxy-check
-IP-check：
-http://whatismyip.network/
+thevpn.guru 文章內容，       
+分享鏈結一個線上檢測工具－whatismyip.network：     
 
-開頭先講明這個檢測工具，
-實際上不算嚴謹精確，
-符合以下任一要點，
-十之八九自己的電信商有在用TP。
-但是就算是沒有符合，
-也不能斷言電信商沒有在用TP。
-或許只是電信商的TP比較高竿，
-可以繞過這個檢測。
- 1。proxy-check 檢測有抓到 Proxy  Detected  ，
-      那就差不多你的網路有在使用 TP代理。
- 2。proxy-check 檢測顯示"No Proxies Detected"，
-      但是和 IP-check 顯示的IP 位址不匹配，
-      那也差不多你的網路有在使用 TP代理。
+* [proxy-check][5]。     
+* [IP-check][6]。        
+
+開頭先講明這個檢測工具，        
+實際上不算嚴謹精確，      
+符合以下任一要點，       
+十之八九自己的電信商有在用TP。        
+但是就算是沒有符合，      
+也不能斷言電信商沒有在用TP。     
+或許只是電信商的TP比較高竿，     
+可以繞過這個檢測：
+
+1. proxy-check 檢測有抓到 Proxy  Detected，       
+   那就差不多你的網路有在使用 TP代理。       
+2. proxy-check 檢測顯示"No Proxies Detected"，       
+   但是和 IP-check 顯示的IP 位址不匹配，     
+   那也差不多你的網路有在使用 TP代理。       
   
- 我自己實測亞太4G 網路 符合第 2 點，
- proxy-check 顯示"No Proxies Detected"，
- 但是 My IP Address 和 check 2～5 的 IP 不一致，
- 和 IP-check 顯示的 IP 也不一樣，
- 而且 IP-check 顯示的 IP ISP是Hinet，不是亞太的，
- 符合 版友hakugetsu 的 分析。
- 亞太4G 再用一段時間看看怎們樣吧。
+ 我自己實測亞太4G 網路 符合第 2 點，      
+ proxy-check 顯示**"No Proxies Detected"**，       
+ 但是 My IP Address 和 check 2～5 的 IP 不一致，     
+ 和 IP-check 顯示的 IP 也不一樣，        
+ 而且 IP-check 顯示的 IP ISP是Hinet，不是亞太的，        
+ 符合版友 hakugetsu 的分析。       
+ 亞太4G 再用一段時間看看怎們樣吧。     
+
+[1]: https://www.ptt.cc/bbs/MobileComm/M.1457016934.A.1D8.html
+[2]: https://www.ptt.cc/bbs/MobileComm/M.1471113377.A.77D.html
+[3]: https://thevpn.guru/transparent-proxy-detect-expose-explain/
+[4]: http://www.pdproxy.com/blog/is-your-isp-using-a-transparent-proxy-32.htm
+[5]: http://whatismyip.network/proxy-check
+[6]: http://whatismyip.network/
+
