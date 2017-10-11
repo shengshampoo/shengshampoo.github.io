@@ -44,7 +44,7 @@ categories: [APTG_Moble_4G]
 回到本文主題，   
 從網路搜尋查詢相關資料：    
 [TRANSPARENT PROXY : DETECT,EXPOSE & EXPLAIN][3]        
-[Is your ISP using a transparent proxy?][4]
+[Is your ISP using a transparent proxy?][4]     
 大致翻閱粗略理解TP是什麼？    
 為何電信和ISP會採用TP？    
 TP的缺點為何？    
@@ -65,16 +65,16 @@ ISP 強制攔截用戶需求，
 為何 ISP 要使用 TP？    
 幾個理由：   
 
-* 抓取遠端網站資料數據存入代理伺服器，
- 節省 ISP 連線對外公眾網路的頻寬，
- 且優化提升用戶網頁讀取速度。
-* 強行用戶接收使用TP，利於辨識用戶，
-  監控用戶上網行為，
-  若是單一用戶有些灰色行為或是消耗流量過大進行限流措施等。
-* 圖片，影音等大流量服務的優化。
-* 上網頻寬資源分配。
-* 用戶比較介意的：Bandwidth throttling and tethering detection
-  選擇性個別網路限速和偵測限制手機網路分享。
+* 抓取遠端網站資料數據存入代理伺服器，        
+ 節省 ISP 連線對外公眾網路的頻寬，        
+ 且優化提升用戶網頁讀取速度。     
+* 強行用戶接收使用TP，利於辨識用戶，        
+  監控用戶上網行為，     
+  若是單一用戶有些灰色行為或是消耗流量過大進行限流措施等。      
+* 圖片，影音等大流量服務的優化。       
+* 上網頻寬資源分配。     
+* 用戶比較介意的：Bandwidth throttling and tethering detection      
+  選擇性個別網路限速和偵測限制手機網路分享。     
 
 對用戶而言，    
 自然會有隱私上的疑慮和遭受DNS劫持的資安風險。    
@@ -93,13 +93,13 @@ thevpn.guru 文章內容，
 但是就算是沒有符合，      
 也不能斷言電信商沒有在用TP。     
 或許只是電信商的TP比較高竿，     
-可以繞過這個檢測：
+可以繞過這個檢測：       
 
-1. proxy-check 檢測有抓到 Proxy  Detected，       
-   那就差不多你的網路有在使用 TP代理。       
-2. proxy-check 檢測顯示"No Proxies Detected"，       
-   但是和 IP-check 顯示的IP 位址不匹配，     
-   那也差不多你的網路有在使用 TP代理。       
+1. proxy-check 檢測有抓到 Proxy  Detected，       
+   那就差不多你的網路有在使用 TP代理。      
+2. proxy-check 檢測顯示"No Proxies Detected"，       
+   但是和 IP-check 顯示的IP 位址不匹配，        
+   那也差不多你的網路有在使用 TP代理。        
   
  我自己實測亞太4G 網路 符合第 2 點，      
  proxy-check 顯示**"No Proxies Detected"**，       
