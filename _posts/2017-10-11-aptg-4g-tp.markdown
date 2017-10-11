@@ -1,0 +1,111 @@
+---
+published: true
+title: 整理筆記亞太4G Transparent Proxy (TP)代理快取
+layout: post
+tags: [APTG_Moble_4G]
+categories: [APTG_Moble_4G]
+---
+
+### <font color="red">整理筆記亞太4G Transparent Proxy (TP)代理快取</font>   
+    
+拜讀PTT MobileComm版，    
+版友 hakugetsu的相關文章：    
+[亞太4G 連接很多東西速度慢的真相][1]    
+[亞太4g網路速度 8/13更新][2]    
+    
+討論到亞太4G行動網路，    
+使用一些網路測試手段，   
+驗證出亞太電信的系統端預設使用TP 代理快取，   
+也推斷用戶使用SpeedTest測速數據漂亮，   
+但是對照實際的網路體驗，    
+如Youtube等串流影音播放，Google服務等應用，    
+卻是相反的感到卡卡，網路不順，延遲等。   
+    
+老實說，    
+本人非相關網路技術專業人士，    
+對網路相關技術也是一知半解，    
+對  hakugetsu 的TP Traceroute測試方式，    
+背後凸顯的網路專業，    
+也是外行看熱鬧，    
+暫時無法貫通體會這些步驟的檢測目的為何？    
+    
+不過，   
+因為本人上個月初，   
+剛攜碼NP綁約亞太單門號短約資費，   
+主要是看上亞太的VoLTE/Vowifi，網速低速吃到飽，   
+網外含市話算優惠話費計算，   
+電話單通前幾分鐘免費等優惠，    
+綁約資費也能壓到三四百多塊左右。    
+老實說還蠻划算，    
+也符合我自己的需求，    
+目前大概算是蜜月期吧，   
+網路使用倒是還沒有太糟糕的感受。    
+    
+回到本文主題，   
+從網路搜尋查詢相關資料：    
+https://tr.im/1g34o
+https://tr.im/1V2lH
+大致翻閱粗略理解TP是什麼？    
+為何電信和ISP會採用TP？    
+TP的缺點為何？    
+如何簡單辨識出自己用的網路有無使用TP？    
+    
+TP，也就是 Transparent Proxy，   
+中文翻譯為透明代理伺服器，   
+PD-Proxy 的圖解和說明提到：    
+眾多ISP普遍使用架設的中介代理伺服器，    
+ (EU，US，CA 國外先進國家廣泛使用)    
+當用戶端連線公眾網路網路，   
+抓取網站資料封包時，    
+用戶端無需設定，    
+也無法避免繞過代理，    
+ISP 強制攔截用戶需求，   
+轉而優先就近抓取ISP內部代理伺服器的快取資料。    
+    
+為何 ISP 要使用 TP？    
+幾個理由：   
+
+* 抓取遠端網站資料數據存入代理伺服器，
+ 節省 ISP 連線對外公眾網路的頻寬，
+ 且優化提升用戶網頁讀取速度。
+* 強行用戶接收使用TP，利於辨識用戶，
+  監控用戶上網行為，
+  若是單一用戶有些灰色行為或是消耗流量過大進行限流措施等。
+* 圖片，影音等大流量服務的優化。
+* 上網頻寬資源分配。
+* 用戶比較介意的：Bandwidth throttling and tethering detection
+  選擇性個別網路限速和偵測限制手機網路分享。
+
+對用戶而言，    
+自然會有隱私上的疑慮和遭受DNS劫持的資安風險。    
+所以個人觀點覺得不是蠻正面的產物。   
+    
+thevpn.guru 文章內容，
+分享鏈結一個線上檢測工具：
+whatismyip.network：
+proxy-check ：
+http://whatismyip.network/proxy-check
+IP-check：
+http://whatismyip.network/
+
+開頭先講明這個檢測工具，
+實際上不算嚴謹精確，
+符合以下任一要點，
+十之八九自己的電信商有在用TP。
+但是就算是沒有符合，
+也不能斷言電信商沒有在用TP。
+或許只是電信商的TP比較高竿，
+可以繞過這個檢測。
+ 1。proxy-check 檢測有抓到 Proxy  Detected  ，
+      那就差不多你的網路有在使用 TP代理。
+ 2。proxy-check 檢測顯示"No Proxies Detected"，
+      但是和 IP-check 顯示的IP 位址不匹配，
+      那也差不多你的網路有在使用 TP代理。
+  
+ 我自己實測亞太4G 網路 符合第 2 點，
+ proxy-check 顯示"No Proxies Detected"，
+ 但是 My IP Address 和 check 2～5 的 IP 不一致，
+ 和 IP-check 顯示的 IP 也不一樣，
+ 而且 IP-check 顯示的 IP ISP是Hinet，不是亞太的，
+ 符合 版友hakugetsu 的 分析。
+ 亞太4G 再用一段時間看看怎們樣吧。
