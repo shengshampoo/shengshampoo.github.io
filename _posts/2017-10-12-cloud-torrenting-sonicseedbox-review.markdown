@@ -99,6 +99,17 @@ BT 下載，
 FTP下載快的時候，    
 平均可到2Mb/s 左右。   
 
+**BT 檔案抓檔進度條**      
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--ZashoTd3--/v1507808581/Screenshot-2017-10-12-19-08-242-fs81_sin8aj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">      
+
+**Linux openvpn VPN連線下**        
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--iLbfqxIl--/v1507808582/Screenshot-2017-10-12-18-26-191-fs81_jnujc6.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">      
+
+**Linux WGet 下載 FTP 完檔網址**      
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cBFgbM3s--/v1507809085/Screenshot-2017-10-12-18-57-571-fs81_zuqckw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+
+
+
 =================
 
 備註：
