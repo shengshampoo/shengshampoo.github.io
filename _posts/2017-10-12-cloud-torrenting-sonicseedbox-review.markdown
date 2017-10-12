@@ -2,8 +2,8 @@
 published: true
 title: 簡述BT線上代抓付費網站心得-sonic.Seedbox
 layout: post
-tags: [APTG_Moble_4G]
-categories: [APTG_Moble_4G]
+tags: [Cloud_Torrenting]
+categories: [Cloud_Torrenting]
 ---
 
 ### <font color="red">簡述BT線上代抓付費網站心得-sonic.Seedbox</font>   
