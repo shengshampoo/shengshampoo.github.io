@@ -97,7 +97,9 @@ BT 下載，
 透過下載工具下載檔案。   
 我自己的網路環境，   
 FTP下載快的時候，    
-平均可到2Mb/s 左右。   
+平均可到2Mb/s 左右。 
+
+=========================
 
 **BT 檔案抓檔進度條**      
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--ZashoTd3--/v1507808581/Screenshot-2017-10-12-19-08-242-fs81_sin8aj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">      
