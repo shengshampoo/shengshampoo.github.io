@@ -99,7 +99,39 @@ BT 下載，
 FTP下載快的時候，    
 平均可到2Mb/s 左右。   
 
+=================
 
+備註：
+以下為寄信詢問客服的相關提問。
+
+* Q1:Is monthly/annually paid service one-time payment or subscription?
+If I buy your cloud torrenting service for 1 month and no longer want to use the service at the end of that month, 
+Does I need to cancel manually, or let it expire that it will auto cancel?
+* A1:It is one-time payment only.
+
+* Q2:Could I adjust the ratio of seeding on web interface, or I need to contact with your customer service to adjust on your back-end system?
+* A2:For now you need to contact us to adjust the ratio of seeding.
+
+* Q3:How many servers does you have?
+* A3:We have a few server to host our seedboxes.
+
+* Q4:where are your servers located physically? In which countries? 
+* A4:Our server located at France.
+
+* Q5:Do you use virtual or dedicated servers?
+* A5:We use dedicated server.
+
+* Q6:How many does your system restrict to parallel download uncompleted torrents at the same time?
+* A6:We only allow 6 parallel download for Basic package.
+
+* Q7:Where could I know the health of each torrent which has less seeds/peers?
+* A7:You can see details of peers/ seeds just below the torrent name in the dashboard.
+
+* Q8:When one torrent state is shown "error", what does it mean about this torrent?Such as connecting track loss, no seeds/peers?
+* A8:It means that it couldn't connect to the trackers. 
+
+* Q9: Will you refund my order if I am not happy with your service?
+* A9: If the service is completely not functional then we offer refund.
 
 [1]: https://anonymster.com/sonic-seedbox-review/
 [2]: https://www.sonicseedbox.com/
