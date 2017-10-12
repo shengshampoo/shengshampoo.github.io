@@ -99,7 +99,7 @@ BT 下載，
 FTP下載快的時候，    
 平均可到2Mb/s 左右。 
 
-=========================
+----------
 
 **BT 檔案抓檔進度條**      
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--ZashoTd3--/v1507808581/Screenshot-2017-10-12-19-08-242-fs81_sin8aj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">      
@@ -111,8 +111,7 @@ FTP下載快的時候，
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cBFgbM3s--/v1507809085/Screenshot-2017-10-12-18-57-571-fs81_zuqckw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 
-
-=================
+----------
 
 備註：
 以下為寄信詢問客服的相關提問。
