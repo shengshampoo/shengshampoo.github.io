@@ -71,6 +71,7 @@ categories: [APTG_Moble_4G]
 <div id="lightgallery" class="owl-carousel owl-theme">
 <a href="https://res.cloudinary.com/shengshampoo/image/upload/s--1Zl_qEPP--/v1507914634/Screenshot_20171010-0318021-fs81_xpb8yc.png" data-sub-html="SIM1 TStar/SIM2 GT4G VoLte"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--jIE_LtMr--/v1507914634/Screenshot_20171010-0318022-fs81_ylqqbz.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
 <a href="https://res.cloudinary.com/shengshampoo/image/upload/s--JMGgdW_c--/v1507914634/Screenshot_20171010-0317461-fs81_wl03jg.png" data-sub-html="7xGB，近6 iPlayer 追劇"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--zwldlY8X--/v1507914634/Screenshot_20171010-0317462-fs81_mvb1cx.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--CoVFxD-2--/v1507915652/Screenshot_20171011-1224111-fs81_ewacqb.png" data-sub-html="GT加值服務聯絡客服取消"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--wkousT_2--/v1507915652/Screenshot_20171011-1224112-fs81_prfmz0.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
 </div>
 
 -------------
