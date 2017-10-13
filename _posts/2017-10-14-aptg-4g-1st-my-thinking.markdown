@@ -64,6 +64,17 @@ categories: [APTG_Moble_4G]
 還是決定試用七天期滿，   
 前往連鎖私人通信行，    
 申辦亞太的短約單門號資費。   
+
+
+------------
+
+<div id="lightgallery" class="owl-carousel owl-theme">
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--1Zl_qEPP--/v1507914634/Screenshot_20171010-0318021-fs81_xpb8yc.png" data-sub-html="SIM1 TStar/SIM2 GT4G VoLte"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--jIE_LtMr--/v1507914634/Screenshot_20171010-0318022-fs81_ylqqbz.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+<a href="https://res.cloudinary.com/shengshampoo/image/upload/s--JMGgdW_c--/v1507914634/Screenshot_20171010-0317461-fs81_wl03jg.png" data-sub-html="7xGB，近6 iPlayer 追劇"><img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--zwldlY8X--/v1507914634/Screenshot_20171010-0317462-fs81_mvb1cx.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></a>
+</div>
+
+-------------
+    
     
 9/10 攜碼入亞太門號開通，   
 到10/9 滿一個月計費週期，   
