@@ -84,6 +84,9 @@ categories: [APTG_Moble_4G]
 約在7GB多附近，    
 其中佔比約 6成流量，   
 是 BBC iPlayer APP。    
+
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--nMxTfnfX--/v1507916656/Screenshot_20171002-1221301-fs81_kgktd7.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--qJcDQcWy--/v1507916656/Screenshot_20171002-1222101-fs81_mzrm5t.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
     
 BBC iPlayer 我往年的介紹：   
     
