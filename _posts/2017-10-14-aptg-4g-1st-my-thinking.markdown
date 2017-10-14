@@ -90,6 +90,8 @@ categories: [APTG_Moble_4G]
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--qJcDQcWy--/v1507916656/Screenshot_20171002-1222101-fs81_mzrm5t.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
     
 BBC iPlayer 我往年的介紹：   
+[粗略整理 BBC Proms 2016 古典音樂節及現場演奏轉播廣播][1]   
+[粗略整理 BBC iPlayer/ iPlayer Radio 官方App 播放電視節目/收聽電臺廣播][2]   
     
 而BBC Proms 2017 年度音樂慶典，   
 從 7月中開始舉辦持續到9月中結束，    
@@ -130,3 +132,5 @@ BBC iPlayer 我往年的介紹：
    事後都會收到簡訊提醒，  
    通知那個門號何時打來記得回電。    
    
+[1]: https://shengshampoo.tumblr.com/post/147826180873/
+[2]: https://shengshampoo.tumblr.com/post/125752391553/   
