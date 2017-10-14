@@ -1,12 +1,12 @@
 ---
 published: true
-title: 簡述亞太4G屆滿首月心得
+title: 簡述亞太4G屆滿首月流水帳心得
 layout: post
 tags: [APTG_Moble_4G]
 categories: [APTG_Moble_4G]
 ---
 
-### <font color="red">簡述亞太4G屆滿首月心得</font>   
+### <font color="red">簡述亞太4G屆滿首月流水帳心得</font>   
     
 個人手機是去年年底時，   
 在網路商店購買單機Sharp S2。    
