@@ -9,7 +9,7 @@ categories: [APTG_Moble_4G]
 ### <font color="red">簡述亞太4G屆滿首月流水帳心得</font>   
     
 個人手機是去年年底時，   
-在網路商店購買單機Sharp 2。    
+在網路商店購買單機Sharp Z2。    
 當時候會選這款手機，    
 主要在於看上支援雙卡4G+3G，     
 外接TF，MTK PE快充，    
