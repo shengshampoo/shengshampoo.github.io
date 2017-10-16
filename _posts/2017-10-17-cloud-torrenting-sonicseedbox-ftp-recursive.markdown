@@ -95,8 +95,9 @@ wget 指令：
 ```
 wget --user=username --password='password' -m -nH -np ftp://xxxxx.sonicseedbox.com/date2017/
 ```
+
 ```-m```：映射參數，原封不動把FTP 下載目錄映射至本地電腦。    
-```-nH```：新建目錄資料夾排除預設FTP 網域為檔名。    
+```-nH```：新建目錄資料夾去除FTP 網域為預設檔名。    
 ```-np```：不遞歸抓取上層資料夾清單。    
 
 比如說，    
