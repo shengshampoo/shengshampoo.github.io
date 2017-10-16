@@ -110,6 +110,9 @@ wget --user=username --password='password' -m -nH -np ftp://xxxxx.sonicseedbox.c
 輸入一次指令一次完整無漏下載全部檔案，   
 就直接打入指令一次下載即可。    
 
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--ItWKH8QJ--/v1508174768/Screenshot-2017-10-17-01-08-561-fs81_wrjknh.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">    
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--98_JxQht--/v1508174773/Screenshot-2017-10-17-01-09-191-fs81_ufbbyo.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">    
+
 
 [1]: https://shengshampoo.github.io/cloud_torrenting/2017/10/12/cloud-torrenting-sonicseedbox-review.html
 [2]: https://www.inote.tw/filezilla-download/4
