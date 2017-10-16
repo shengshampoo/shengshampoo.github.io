@@ -17,6 +17,8 @@ BT 付費代抓網站-sonicSeedbox
 上下傳幾個超熱門BT檔案，   
 偶爾也會碰到這個速度：   
 
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--M33oRJV---/v1508173942/Screenshot-2017-10-15-00-32-361-fs81_mljvfm.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">   
+
 不過這一個多月以來，    
 也只巧遇到這一次。   
 之前在家用固網網路環境，    
@@ -29,6 +31,9 @@ BT 付費代抓網站-sonicSeedbox
 不清楚是系統的bug，   
 還是後台設定空間限額，   
 多少可容許超出些許額定值。   
+    
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--DuA3BxPv--/v1508173951/Screenshot-2017-10-16-01-22-341-fs81_ezrxqo.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">       
+    
     
 至於上傳BT種子的部分，    
 系統界面僅設計成網頁一個一個上傳。      
