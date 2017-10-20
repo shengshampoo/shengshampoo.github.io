@@ -17,7 +17,7 @@ BT 付費代抓網站-sonicSeedbox
 上下傳幾個超熱門BT檔案，   
 偶爾也會碰到這個速度：   
 
-<img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--M33oRJV---/v1508173942/Screenshot-2017-10-15-00-32-361-fs81_mljvfm.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">   
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--M33oRJV---/v1508173942/Screenshot-2017-10-15-00-32-361-fs81_mljvfm.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">   
 
 不過這一個多月以來，    
 也只巧遇到這一次。   
