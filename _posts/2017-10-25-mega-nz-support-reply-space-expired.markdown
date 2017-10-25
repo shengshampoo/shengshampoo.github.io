@@ -62,6 +62,7 @@ Mega 官方的[幫助中心文件][1]，
 
 -----
 
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--dKrVnhl1--/v1508923155/Screenshot_20171025-1215162-fs81_ffxxop.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 收到的回信時效還蠻迅速，            
 不過回覆內容鋪陳還蠻禮貌客套。       
