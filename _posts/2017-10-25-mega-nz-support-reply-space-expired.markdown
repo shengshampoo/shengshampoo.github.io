@@ -97,7 +97,7 @@ We appreciate all feedback and are working to improve and integrate new features
 
 第二封郵件發問和回覆：
 
-<pre class="prettyprint lang-html linenums">
+<pre class="prettyprint">
 Hi Mega Support,
 Thanks for your swift response to my previous e-mail.
 I have another similar question.
@@ -107,7 +107,7 @@ Are these files over storage quota deleted automatically?
 Thanks.
 </pre>
 
-<pre class="prettyprint lang-html linenums">
+<pre class="prettyprint">
 Hello,    
 you have 30 days from the day your account has expired to download your files.    
 After 30 days, they will be deleted according to our periodical purge, there is not an exact date.    
