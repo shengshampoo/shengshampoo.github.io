@@ -74,7 +74,7 @@ Mega 官方的[幫助中心文件][1]，
 
 第一封郵件發問和回覆：
 
-<pre class="prettyprint lang-html linenums">
+<pre class="prettyprint">
 Hi Mega support,    
 If paid monthly/annual subscriptions expire,    
 my personal pro account is downgraded to free account,    
@@ -84,7 +84,7 @@ How long does your system retain my files?
 Thanks.   
 </pre>
 
-<pre class="prettyprint lang-html linenums">
+<pre class="prettyprint">
 Dear user,
 
 Thank you for using MEGA.   
