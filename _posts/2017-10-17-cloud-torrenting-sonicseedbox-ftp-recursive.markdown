@@ -19,7 +19,7 @@ BT 付費代抓網站-sonicSeedbox
 
 <picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--mukIBvj0--/v1509262584/Screenshot-2017-10-28-09-01-511-fs81_hidnb9.webp">
-<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--db8uMpaf--/v1509262584/Screenshot-2017-10-28-09-01-511-fs81_ev0dmw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--db8uMpaf--/v1509262584/Screenshot-2017-10-28-09-01-511-fs81_ev0dmw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>   
 
 不過這一個多月以來，    
