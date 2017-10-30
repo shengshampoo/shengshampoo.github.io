@@ -33,7 +33,7 @@ img.responsively-lazy-600{
 
 /* loading caption.js*/
 .captionjs, .captionjs figcaption {
-margin: 0 0 20px;
+margin: 0 0 0;
 padding: 0;
 }
 .captionjs figcaption {
