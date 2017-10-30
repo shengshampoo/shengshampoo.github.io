@@ -109,7 +109,7 @@ FTP下載快的時候，
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--iLbfqxIl--/v1507808582/Screenshot-2017-10-12-18-26-191-fs81_jnujc6.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">      
 
 **Linux WGet 下載 FTP 完檔網址**      
-<img class="responsively-lazy responsively-lazy-600 caption" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cBFgbM3s--/v1507809085/Screenshot-2017-10-12-18-57-571-fs81_zuqckw.png" data-caption="Linux WGet 下載 FTP 完檔網址" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cBFgbM3s--/v1507809085/Screenshot-2017-10-12-18-57-571-fs81_zuqckw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 
 ----------
