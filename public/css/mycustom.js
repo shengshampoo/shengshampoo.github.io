@@ -52,4 +52,7 @@ jQuery(document).ready(function(){
     });
     });
     
-    
+/* caption.js*/    
+$(window).load(function() {
+    $('img.caption').captionjs();
+});
