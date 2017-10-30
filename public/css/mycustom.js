@@ -53,6 +53,13 @@ jQuery(document).ready(function(){
     });
     
 /* caption.js*/    
+
 $(window).load(function() {
-    $('img.caption').captionjs();
+    $('img.caption').captionjs({
+        'class_name'      : 'captionjs', 
+        'schema'          : true,        
+        'mode'            : 'stacked',   // default | stacked | animated | hidden (deprecated: hide)
+        'debug_mode'      : false,       // Output debug info to the JS console
+        'is_responsive'   : true       // Ensure the figure and image change size when in responsive layout. Requires a container to control responsiveness!
+    });
 });
