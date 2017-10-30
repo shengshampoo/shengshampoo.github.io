@@ -59,6 +59,7 @@ $(window).load(function() {
         'class_name'      : 'captionjs', 
         'schema'          : true,        
         'mode'            : 'stacked',   // default | stacked | animated | hidden (deprecated: hide)
+        'force_dimensions': true,        // Force the dimensions in case they cannot be detected (e.g., image is not yet painted to viewport)
         'debug_mode'      : false,       // Output debug info to the JS console
         'is_responsive'   : true       // Ensure the figure and image change size when in responsive layout. Requires a container to control responsiveness!
     });
