@@ -30,3 +30,11 @@ img.responsively-lazy-600{
     font-family: 'Noto Sans TC', sans-serif;
     font-size:22px !important;
 }
+
+/* loading caption.js*/
+.captionjs figcaption {
+background-color: #999999;
+color: #ffe0b3;   
+font-family: 'Noto Sans TC', sans-serif;
+font-size:22px !important;    
+}
