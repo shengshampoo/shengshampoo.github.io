@@ -60,6 +60,6 @@ $(window).load(function() {
         'schema'          : true,        
         'mode'            : 'stacked',   // default | stacked | animated | hidden (deprecated: hide)
         'force_dimensions': true,        // Force the dimensions in case they cannot be detected (e.g., image is not yet painted to viewport)
-        'debug_mode'      : false,       // Output debug info to the JS console
+        'debug_mode'      : false       // Output debug info to the JS console
     });
 });
