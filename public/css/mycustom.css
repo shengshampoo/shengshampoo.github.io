@@ -38,7 +38,7 @@ padding: 0;
 }
 .captionjs figcaption {
 font-family: 'Noto Sans TC', sans-serif;
-font-size:12px !important;
+font-size:16px;
 line-height: 1.5;
 padding: 1px 1px;
 border: 1px solid #ddd;
@@ -46,9 +46,9 @@ border-top: none;
 background-color: #eee;
 }
 .captionjs.stacked figcaption {
-background-color: rgba(0, 0, 0, 0.75);
-color: #fff;
-border: none;
+background-color: rgba(0, 0, 0, 0.75) !important;
+color: #fff !important;
+border: none !important;
 }
 .captionjs.animated figcaption {
 border-top: 1px solid rgba(255, 255, 255, 0.3);
