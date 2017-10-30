@@ -57,7 +57,7 @@ jQuery(document).ready(function(){
 $(window).load(function() {
     $('img.caption').captionjs({
         'class_name'      : 'captionjs', 
-        'schema'          : true,        
+        'schema'          : ,        
         'mode'            : 'stacked',   // default | stacked | animated | hidden (deprecated: hide)
         'force_dimensions': true,        // Force the dimensions in case they cannot be detected (e.g., image is not yet painted to viewport)
         'debug_mode'      : false       // Output debug info to the JS console
