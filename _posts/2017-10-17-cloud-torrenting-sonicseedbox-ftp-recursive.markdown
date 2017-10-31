@@ -18,10 +18,9 @@ BT 付費代抓網站-sonicSeedbox
 偶爾也會碰到這個速度：   
 
 <picture>
-<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--mukIBvj0--/v1509262584/Screenshot-2017-10-28-09-01-511-fs81_hidnb9.webp" data-srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--CTjrTCOC--/v1509265423/Screenshot-2017-10-28-09-01-512-fs81_icijnp.webp 300w">
-<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--db8uMpaf--/v1509262584/Screenshot-2017-10-28-09-01-511-fs81_ev0dmw.png" data-srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--zXChUW5q--/v1509265423/Screenshot-2017-10-28-09-01-512-fs81_vcpykb.png 300w" sizes="(min-width: 450px) 100vw,
-      60vw" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
-</picture>   
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--viMWv4RK--/v1509456901/Screenshot-2017-10-28-09-01-512-fs81_bts2sw.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--2LLySVau--/v1509456901/Screenshot-2017-10-28-09-01-512-fs81_fqx32l.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>  
 
 不過這一個多月以來，    
 也只巧遇到這一次。   
