@@ -111,9 +111,9 @@ FTP下載快的時候，
 **Linux WGet 下載 FTP 完檔網址**      
 <img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cBFgbM3s--/v1507809085/Screenshot-2017-10-12-18-57-571-fs81_zuqckw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
-<ul id="slippry-query">
+<ul id="slippry-query"  class="responsively-lazy-600">
   <li><img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--iLbfqxIl--/v1507808582/Screenshot-2017-10-12-18-26-191-fs81_jnujc6.png" alt="Linux openvpn VPN連線下" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
-  <li><img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cBFgbM3s--/v1507809085/Screenshot-2017-10-12-18-57-571-fs81_zuqckw.png" alt="Linux WGet 下載 FTP 完檔網址" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--cBFgbM3s--/v1507809085/Screenshot-2017-10-12-18-57-571-fs81_zuqckw.png" alt="Linux WGet 下載 FTP 完檔網址" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
 </ul>
 
 ----------
