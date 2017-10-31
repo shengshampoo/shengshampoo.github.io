@@ -35,8 +35,10 @@ BT 付費代抓網站-sonicSeedbox
 還是後台設定空間限額，   
 多少可容許超出些許額定值。   
     
-<img class="responsively-lazy" src="https://res.cloudinary.com/shengshampoo/image/upload/s--DuA3BxPv--/v1508173951/Screenshot-2017-10-16-01-22-341-fs81_ezrxqo.png" data-srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--LPb0lQri--/v1508499300/Screenshot-2017-10-16-01-22-342-fs81_m4cdmy.png 300w, https://res.cloudinary.com/shengshampoo/image/upload/s--F4yZoohO--/v1508593598/Screenshot-2017-10-16-01-22-343-fs81_kmoprd.png 449w" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">       
-    
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--GQs3hOvL--/v1509457837/Screenshot-2017-10-16-01-22-342-fs81_aht8fw.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--LPb0lQri--/v1508499300/Screenshot-2017-10-16-01-22-342-fs81_m4cdmy.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>     
     
 至於上傳BT種子的部分，    
 系統界面僅設計成網頁一個一個上傳。      
