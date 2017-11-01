@@ -10,9 +10,9 @@ categories: [Cloud_Storage]
     
 先講結論，           
 **我的幾個 sync.com 邀請鏈接**：         
-[Code:684831be0][6]
-[Code:324738660][7]
-[Code:5d3d6d2a0][8]     
+[Code:684831be0][6]     
+[Code:324738660][7]     
+[Code:5d3d6d2a0][8]         
         
 煩請不吝加入擴充彼此的帳戶免費空間。
 
@@ -71,7 +71,7 @@ Technically you could have a free 100GB storage if you brought 95 friends.
 也不需要像Dropbox 一樣，    
 強迫安裝 Dropbox Desktop  桌面程式，   
 紀錄使用者的電腦相關資訊來防弊：            
-[How to bybass anti fake referral system? ][5]。      
+[How to bybass anti fake referral system? ][5]      
 
 [1]:  https://shengshampoo.github.io/cloud_storage/2017/11/01/perhaps-byebye-dropboxplus-replace-synccom-pro.html
 [2]:  https://cloudstorageinfo.org/sync-com-scam-or-legit-review
