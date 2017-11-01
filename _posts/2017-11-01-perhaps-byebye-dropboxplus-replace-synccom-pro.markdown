@@ -69,6 +69,21 @@ Dropbox 只提供 1TB，
 邀請新戶註冊帳戶等，    
 雙方兩人都額外多獲得 1 GB 空間。    
 
+----------------
+
+順應本人的評估慣例，      
+關於 Sync.com 雲端空間，       
+付費不續期官方檔案保留原則。      
+        
+[Sync.com 官方的幫助中心文件][6]，        
+沒有寫到這個部分。       
+但是有提供[技術支持郵件信箱][7]，     
+不懂的部分可以發問。      
+        
+[Mega 雲端空間同樣的問題]，       
+一樣寄信給Sync.com 客服，       
+得到的訊息如下：        
+
 
 
 
@@ -80,3 +95,5 @@ Dropbox 只提供 1TB，
 [3]: https://www.sync.com/pricing/
 [4]: https://www.pcloud.com/cloud-storage-pricing-plans.html
 [5]: https://cloudstorageinfo.org/sync-com-scam-or-legit-review
+[6]: https://www.sync.com/help/
+[7]: https://www.sync.com/support/
