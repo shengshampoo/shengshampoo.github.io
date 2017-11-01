@@ -82,6 +82,12 @@ Dropbox 只提供 1TB，
         
 [Mega 雲端空間同樣的問題][8]，        
 一樣寄信給Sync.com 客服，               
+
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--7_gI0TzH--/v1509549458/Screenshot_20171101-2037301-fs81_wllnwy.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--CTwhmqRw--/v1509549458/Screenshot_20171101-2037301-fs81_yocvoa.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>  
+
 得到的訊息如下：            
 
 Q：If paid subscriptions expire, my personal pro account is downgraded to starter, what happens to my files over storage quota?      
