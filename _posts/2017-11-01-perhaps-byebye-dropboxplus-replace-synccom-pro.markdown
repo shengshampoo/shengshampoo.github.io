@@ -80,7 +80,7 @@ Dropbox 只提供 1TB，
 但是有提供[技術支持郵件信箱][7]，     
 不懂的部分可以發問。      
         
-[Mega 雲端空間同樣的問題]，       
+[Mega 雲端空間同樣的問題][8]，       
 一樣寄信給Sync.com 客服，       
 得到的訊息如下：        
 
@@ -111,3 +111,4 @@ Dropbox 只提供 1TB，
 [5]: https://cloudstorageinfo.org/sync-com-scam-or-legit-review
 [6]: https://www.sync.com/help/
 [7]: https://www.sync.com/support/
+[8]: https://shengshampoo.github.io/cloud_storage/2017/10/25/mega-nz-support-reply-space-expired.html
