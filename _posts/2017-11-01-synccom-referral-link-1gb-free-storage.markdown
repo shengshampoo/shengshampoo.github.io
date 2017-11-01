@@ -69,10 +69,11 @@ Technically you could have a free 100GB storage if you brought 95 friends.
 直接網頁頁面開啟即刻生效，   
 也不需要像Dropbox 一樣，    
 強迫安裝 Dropbox Desktop  桌面程式，   
-紀錄使用者的電腦相關資訊來防弊。    
-    
+紀錄使用者的電腦相關資訊來防弊：    
+[How to bybass anti fake referral system? ][5]。      
 
 [1]:  https://shengshampoo.github.io/cloud_storage/2017/11/01/perhaps-byebye-dropboxplus-replace-synccom-pro.html
 [2]:  https://cloudstorageinfo.org/sync-com-scam-or-legit-review
 [3]:  https://www.sync.com/help/how-does-the-referral-program-work/
 [4]:  https://www.sync.com/help/how-do-i-get-free-space/
+[5]:  https://www.reddit.com/r/dropbox/comments/59k2fw/how_to_bybass_anti_fake_referral_system/
