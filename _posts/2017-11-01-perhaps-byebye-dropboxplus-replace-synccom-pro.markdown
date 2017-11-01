@@ -80,9 +80,9 @@ Dropbox 只提供 1TB，
 但是有提供[技術支持郵件信箱][7]，     
 不懂的部分可以發問。      
         
-[Mega 雲端空間同樣的問題][8]，       
-一樣寄信給Sync.com 客服，       
-得到的訊息如下：        
+[Mega 雲端空間同樣的問題][8]，        
+一樣寄信給Sync.com 客服，               
+得到的訊息如下：            
 
 Q：If paid subscriptions expire, my personal pro account is downgraded to starter, what happens to my files over storage quota?      
 A：If your subscription expires your account will be placed in a suspended state, meaning you will not be able to change or add and files, until you are back under the new storage quota or re upgrade your account.        
@@ -90,9 +90,9 @@ A：If your subscription expires your account will be placed in a suspended stat
 Q：Does your system delete files automatically after a few months of no-payments?            
 A：No, your files will not be deleted, however, you will not be able to add any additional files.            
             
-Q：How long does your system retain my files?           
-A：Indefinitely.            
-        
+Q：How long does your system retain my files?                    
+A：Indefinitely.                 
+                
 Q：I understand that my files over storage quota cloud not be added or changed, but are these files available to downloaded and viewed even if my paid account expired for a long time?          
 A：Yes they would still be available to download and view even after your paid account expires.          
 
