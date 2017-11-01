@@ -24,8 +24,7 @@ Sync.com互助註冊邀請帳號彼此增加 1GB 雲端空間，
 是翻閱網路上 Sync.com 雲端空間相關評測，   
 其中一篇文章：   
 [Sync.com Cloud Storage – SCAM or LEGIT? ][2]   
-裡頭提到：   
-    
+裡頭提到：       
 The Starter plan is free and give you 5GB of free cloud storage forever.    
 免費申請入門帳號，   
 並且提供 5GB 免費額度的雲端空間。   
