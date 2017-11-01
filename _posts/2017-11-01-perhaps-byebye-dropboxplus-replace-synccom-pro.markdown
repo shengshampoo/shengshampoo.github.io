@@ -84,21 +84,17 @@ Dropbox 只提供 1TB，
 一樣寄信給Sync.com 客服，       
 得到的訊息如下：        
 
-<pre class="prettyprint">If paid subscriptions expire, my personal pro account is downgraded to starter, what happens to my files over storage quota?</pre>
-
-<pre class="prettyprint">If your subscription expires your account will be placed in a suspended state, meaning you will not be able to change or add and files, until you are back under the new storage quota or re upgrade your account.</pre>
-
-<pre class="prettyprint">Does your system delete files automatically after a few months of no-payments?</pre>   
-
-<pre class="prettyprint">No, your files will not be deleted, however, you will not be able to add any additional files.</pre>  
-<pre class="prettyprint">How long does your system retain my files?</pre>       
-
-<pre class="prettyprint">Indefinitely.</pre>        
-
-
-<pre class="prettyprint">
-
-</pre>
+Q：If paid subscriptions expire, my personal pro account is downgraded to starter, what happens to my files over storage quota?      
+A：If your subscription expires your account will be placed in a suspended state, meaning you will not be able to change or add and files, until you are back under the new storage quota or re upgrade your account.        
+            
+Q：Does your system delete files automatically after a few months of no-payments?            
+A：No, your files will not be deleted, however, you will not be able to add any additional files.            
+            
+Q：How long does your system retain my files?           
+A：Indefinitely.            
+        
+Q：I understand that my files over storage quota cloud not be added or changed, but are these files available to downloaded and viewed even if my paid account expired for a long time?          
+A：Yes they would still be available to download and view even after your paid account expires.          
 
 
 
