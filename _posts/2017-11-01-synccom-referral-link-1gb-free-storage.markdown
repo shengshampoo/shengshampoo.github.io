@@ -8,8 +8,8 @@ categories: [Cloud_Storage]
 
 ### <font color="red">Sync.com互助註冊邀請帳號彼此增加1GB雲端空間</font>    
     
-先將結論
-我的 sync.com 邀請鏈接：
+先講結論，           
+**我的 sync.com 邀請鏈接**：     
 
 
 煩請不吝加入擴充彼此的帳戶免費空間。
