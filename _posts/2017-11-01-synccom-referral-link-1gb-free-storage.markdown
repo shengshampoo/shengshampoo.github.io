@@ -9,9 +9,11 @@ categories: [Cloud_Storage]
 ### <font color="red">Sync.com互助註冊邀請帳號彼此增加1GB雲端空間</font>    
     
 先講結論，           
-**我的 sync.com 邀請鏈接**：     
-
-
+**我的幾個 sync.com 邀請鏈接**：         
+[Code:684831be0][6]
+[Code:324738660][7]
+[Code:5d3d6d2a0][8]     
+        
 煩請不吝加入擴充彼此的帳戶免費空間。
 
 ----
@@ -76,3 +78,6 @@ Technically you could have a free 100GB storage if you brought 95 friends.
 [3]:  https://www.sync.com/help/how-does-the-referral-program-work/
 [4]:  https://www.sync.com/help/how-do-i-get-free-space/
 [5]:  https://www.reddit.com/r/dropbox/comments/59k2fw/how_to_bybass_anti_fake_referral_system/
+[6]:  https://www.sync.com/?_sync_refer=684831be0
+[7]:  https://www.sync.com/?_sync_refer=324738660
+[8]:  https://www.sync.com/?_sync_refer=5d3d6d2a0
