@@ -35,10 +35,12 @@ Referral program－
 you can increase your free storage by inviting friends to sync.com with a referral link.    
 Each time a friend joins you, you and the friend that joins you get a additional 1GB of free storage.   
 擴充增加自己的免費空間，    
-可以透過使用專屬個人推薦鏈接 (referral link)，       
-邀請朋友加入申請 Sync.com 帳號。       
-當轉介一位加入，      
-你和那位轉介加入的人都會額外得到 1 GB 空間。     
+可以藉由使用專屬個人推薦鏈接，         
+**(referral link)**         
+邀請朋友依此鏈接開通 Sync.com帳戶。      
+當轉薦一位成功加入，      
+你和那位新加入的轉薦用戶，       
+都會額外多得到 1 GB 空間。             
     
 當然額外得到 1 GB 空間的次數是有限制的，       
 作者詢問客服，       
