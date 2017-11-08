@@ -50,17 +50,4 @@ jQuery(document).ready(function(){
     autoHover: false,
     transition: 'horizontal'
     });
-    });
-    
-/* caption.js*/    
-
-$(window).load(function() {
-    $('img.caption').captionjs({
-        'class_name'      : 'captionjs', 
-        'schema'          : false,        
-        'mode'            : 'stacked',   // default | stacked | animated | hidden (deprecated: hide)
-        'force_dimensions': false,        // Force the dimensions in case they cannot be detected (e.g., image is not yet painted to viewport)
-        'debug_mode'      : false,       // Output debug info to the JS console
-        'is_responsive'   : true         // Ensure the figure and image change size when in responsive layout. Requires a container to control responsiveness!
-    });
-});
+    });    
