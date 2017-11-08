@@ -8,6 +8,9 @@ categories: [Image_hosting]
 
 ### <font color="red">轉載中國大陸可用的外連圖床-微博和奇虎360</font> 
 
+<!-- add slippry gallery js -->
+<script defer src="https://shengshampoo.github.io/public/css/mycustom-add-slippry.js"></script>
+
 國外不少常見的知名圖床，    
 如Imgur，Google 相簿，Flickr等，   
 由於某些特定的限制，    
@@ -137,5 +140,19 @@ mozjpeg有損壓縮處理，
 </ul>
 
 ----------  
-  
+
+<ul id="slippry-query2">
+  <li><img class="responsively-lazy" src="https://p2.ssl.qhimg.com/t01c417967bc61523af.jpg" alt="奇虎360圖床-嘉義桐花照片-1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://p4.ssl.qhimg.com/t01eb2d2ca7e3c21116.jpg" alt="奇虎360圖床-嘉義桐花照片-2" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx4.sinaimg.cn/mw690/005O7Kk4gy1fl9wiw0flaj30m80gogpl.jpg" alt="奇虎360圖床-嘉義桐花照片-3" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx1.sinaimg.cn/mw690/005O7Kk4gy1fl9wj089a1j30m80go0wg.jpg" alt="奇虎360圖床-嘉義桐花照片-4" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx2.sinaimg.cn/mw690/005O7Kk4gy1fl9wj41onmj30m80gotbd.jpg" alt="奇虎360圖床-嘉義桐花照片-5" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx4.sinaimg.cn/mw690/005O7Kk4gy1fl9wjv4bwxj30m80gota7.jpg" alt="奇虎360圖床-嘉義桐花照片-6" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx3.sinaimg.cn/mw690/005O7Kk4gy1fl9wk2qd3rj30m80go0ud.jpg" alt="奇虎360圖床-嘉義桐花照片-7" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx3.sinaimg.cn/mw690/005O7Kk4gy1fl9wk8rnhkj30m80goq4e.jpg" alt="奇虎360圖床-嘉義桐花照片-8" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx1.sinaimg.cn/mw690/005O7Kk4gy1fl9wl38igmj30m80gogmz.jpg" alt="奇虎360圖床-嘉義桐花照片-9" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx3.sinaimg.cn/mw690/005O7Kk4gy1fl9wm5elo9j30m80go785.jpg" alt="奇虎360圖床-嘉義桐花照片-10" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+</ul>
+ 
+----- 
 [1]: https://blog.nfz.moe/archives/collection-of-image-hosting.html
