@@ -121,4 +121,21 @@ mozjpeg有損壓縮處理，
 就需等待較長時間下載所有照片，   
 完成後才帶出網頁內容。   
   
+----------
+
+<ul id="slippry-query">
+  <li><img class="responsively-lazy" src="https://wx4.sinaimg.cn/mw690/005O7Kk4gy1fl9wilrs8tj30m80go40a.jpg" alt="微博相簿圖床-嘉義桐花照片-1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx3.sinaimg.cn/mw690/005O7Kk4gy1fl9wiqnchrj30m80goadf.jpg" alt="微博相簿圖床-嘉義桐花照片-2" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx4.sinaimg.cn/mw690/005O7Kk4gy1fl9wiw0flaj30m80gogpl.jpg" alt="微博相簿圖床-嘉義桐花照片-3" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx1.sinaimg.cn/mw690/005O7Kk4gy1fl9wj089a1j30m80go0wg.jpg" alt="微博相簿圖床-嘉義桐花照片-4" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx2.sinaimg.cn/mw690/005O7Kk4gy1fl9wj41onmj30m80gotbd.jpg" alt="微博相簿圖床-嘉義桐花照片-5" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx4.sinaimg.cn/mw690/005O7Kk4gy1fl9wjv4bwxj30m80gota7.jpg" alt="微博相簿圖床-嘉義桐花照片-6" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx3.sinaimg.cn/mw690/005O7Kk4gy1fl9wk2qd3rj30m80go0ud.jpg" alt="微博相簿圖床-嘉義桐花照片-7" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx3.sinaimg.cn/mw690/005O7Kk4gy1fl9wk8rnhkj30m80goq4e.jpg" alt="微博相簿圖床-嘉義桐花照片-8" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx1.sinaimg.cn/mw690/005O7Kk4gy1fl9wl38igmj30m80gogmz.jpg" alt="微博相簿圖床-嘉義桐花照片-9" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+  <li><img class="responsively-lazy" src="https://wx3.sinaimg.cn/mw690/005O7Kk4gy1fl9wm5elo9j30m80go785.jpg" alt="微博相簿圖床-嘉義桐花照片-10" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /></li>
+</ul>
+
+----------  
+  
 [1]: https://blog.nfz.moe/archives/collection-of-image-hosting.html
