@@ -14,6 +14,13 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  
+  <!--https://walterlv.oschina.io/jekyll/2017/09/17/force-https-for-github-pages.html-->
+  <!--<script>-->
+  <!--  // 判断非本机且未使用 https 时，强制重定向到 https。-->
+  <!--  if ((!window.location.host.startsWith("localhost")) && (window.location.protocol != "https:"))-->
+  <!--      window.location = window.location.toString().replace(/^http:/, "https:");-->
+  <!--</script>-->
 
   <!--loadcss js-->
   <script defer src="https://rawcdn.githack.com/shengshampoo/shengshampoo.github.io/master/public/css/loadCSS.min.js"></script>
