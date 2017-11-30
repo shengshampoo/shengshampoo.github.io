@@ -195,7 +195,7 @@ stream.transcode=dsf:dopwav,dff:dopwav
   意思就是DSD格式的dsf/dff 轉碼為DoP 封裝的WAV 形式傳輸。       
   之後再執行啟動 Minimserver 服務。     
 
-<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--1U88ZnQM--/v1472898747/Screenshot_from_2016-09-03_15-53-261-fs8_r2k97w.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></a>
+<img class="responsively-lazy responsively-lazy-600" src="https://res.cloudinary.com/shengshampoo/image/upload/s--1U88ZnQM--/v1472898747/Screenshot_from_2016-09-03_15-53-261-fs8_r2k97w.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 
 * 以上就差不多完成初步設定。        
 
