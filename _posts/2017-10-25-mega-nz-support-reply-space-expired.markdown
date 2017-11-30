@@ -77,7 +77,7 @@ Mega 官方的[幫助中心文件][1]，
 
 第一封郵件發問和回覆：
 
-<pre><code class="language-none">
+<pre class="prettyprint">
 Hi Mega support,    
 If paid monthly/annual subscriptions expire,    
 my personal pro account is downgraded to free account,    
@@ -85,9 +85,9 @@ What happens to my files over storage quota?
 Does your system delete files automatically after a few months of no-payments?    
 How long does your system retain my files?    
 Thanks.   
-</code></pre>
+</pre>
 
-<pre><code class="language-none">
+<pre class="prettyprint">
 Dear user,
 
 Thank you for using MEGA.   
@@ -95,12 +95,12 @@ If you don't renew your PRO Membership at the end of the term purchased, your ac
 If you have more than 50GB worth of files, you will receive multiple deletion warnings, so you have a chance to save your files locally or purchase a PRO account.    
 If you don't accrue or purchase more quota after 30 days, your account’s uploads will remain suspended and Rubbish Bin will be cleared.   
 We appreciate all feedback and are working to improve and integrate new features with this feedback in mind.    
-</code></pre>
+</pre>
 
 
 第二封郵件發問和回覆：
 
-<pre><code class="language-none">
+<pre class="prettyprint">
 Hi Mega Support,
 Thanks for your swift response to my previous e-mail.
 I have another similar question.
@@ -108,14 +108,14 @@ I understand that my files over storage quota cloud not be added or changed,
 but are these files available to downloaded and viewed even if my paid account expired after 30 days?
 Are these files over storage quota deleted automatically?
 Thanks.
-</code></pre>
+</pre>
 
-<pre><code class="language-none">
+<pre class="prettyprint">
 Hello,    
 you have 30 days from the day your account has expired to download your files.    
 After 30 days, they will be deleted according to our periodical purge, there is not an exact date.    
 So, if your PRO account ends today, you will have another 30 days to save your files.   
-</code></pre>
+</pre>
 
 
 
