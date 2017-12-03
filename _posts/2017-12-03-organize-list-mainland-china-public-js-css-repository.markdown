@@ -46,8 +46,9 @@ categories: [Public_repository]
 勢必需要更換到其他對中國連線友好，   
 或是中國本地的公用資源庫。   
 所以針對這個主題，   
-找到對岸相關博客的兩篇整理文：   
-
+找到對岸相關博客的兩篇整理文：   
+* [<span lang="zh-Hans">常用免费前端公共库 CDN 服务收集</span>][6]
+* [<span lang="zh-Hans">Google Fonts & 前端静态资源公共库 CDN 服务整理</span>][7]
 
 分享整理一系列，    
 中國國內外的CDN 公用資源庫，    
@@ -113,19 +114,19 @@ https和http/2等連線協議支援性等。
 **CSS.NET**
 * HTTPS：支持
 * HTTP2：支持
-* 官網介紹：[前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务][2]
+* 官網介紹：[<span lang="zh-Hans">前端 CDNJS 库及 Google Fonts、Ajax 和 Gravatar 国内加速服务</span>][2]
 * 字體網域：fonts.cat.net
 
 **LUG@USTC 中科大**
 * HTTPS：支持
 * HTTP2：支持
-* 官網介紹：[LUG@USTC Google Fonts 加速服务][3]
+* 官網介紹：[<span lang="zh-Hans">LUG@USTC Google Fonts 加速服务</span>][3]
 * 字體網域：fonts.proxy.ustclug.org/
 
 **极客族公共加速服务**
 * HTTPS：支持
 * HTTP2：支持
-* 官網介紹：[极客族公共加速服务 加速资源][4]
+* 官網介紹：[<span lang="zh-Hans">极客族公共加速服务 加速资源</span>][4]
 * 字體網域：fonts.geekzu.org
     
 比如說，    
@@ -154,3 +155,5 @@ https://codepen.io/qwzxc129/pen/vWpYqL
 [3]: https://lug.ustc.edu.cn/wiki/lug/services/googlefonts
 [4]: https://cdn.geekzu.org/cached.html
 [5]: https://www.ziti163.com/Item/36.aspx
+[6]: https://blog.nfz.moe/archives/public-static-cdn-service.html
+[7]: https://www.gobyseo.com/2017/08/29/Google-Fonts-&-%E5%89%8D%E7%AB%AF%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E5%85%AC%E5%85%B1%E5%BA%93-CDN-%E6%9C%8D%E5%8A%A1%E6%95%B4%E7%90%86/
