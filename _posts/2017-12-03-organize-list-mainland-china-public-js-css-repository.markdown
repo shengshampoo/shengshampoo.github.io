@@ -133,7 +133,7 @@ https和http/2等連線協議支援性等。
 比如說，    
 [Google webfont Early Access 頁面][8]，
 鏈接思源黑體繁體中文的CSS範例：   
-<pre class="prettyprint lang-css">@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css); </pre>
+<pre class="prettyprint lang-css">@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);</pre>
 原本Google官方網域提供的網址為：
 <pre class="prettyprint lang-css">//fonts.googleapis.com/</pre>
 替換成上面三個CDN服務提供的字體網域。    
