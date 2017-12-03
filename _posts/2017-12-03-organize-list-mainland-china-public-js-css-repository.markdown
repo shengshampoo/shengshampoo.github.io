@@ -60,7 +60,7 @@ https和http/2等連線協議支援性等。
 ### <font color="red">Gooogle 思源黑體webfont</font>  
     
 承接：   
-
+[外行新手嘗試在Tumblr 套入Google Webfont 思源字體][9]
 坦白說我自己的Blog，    
 雖然界面滿簡陋單調的，   
 單純以文字書寫抒發我的想法。    
@@ -130,12 +130,12 @@ https和http/2等連線協議支援性等。
 * 字體網域：fonts.geekzu.org
     
 比如說，    
-Google webfont 思源黑體頁面，    
+[Google webfont Early Access 頁面][8]，
 鏈接思源黑體繁體中文的CSS範例：   
-@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css); 
+<pre class="prettyprint lang-css">@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css); </pre>
 原本Google官方網域提供的網址為：
-```//fonts.googleapis.com/```
-替換成上面三個CDN服務提供的網域。    
+<pre class="prettyprint lang-css">//fonts.googleapis.com/</pre>
+替換成上面三個CDN服務提供的字體網域。    
 
 相關webfont 範例，   
 煩請翻閱Codepen的簡單測試網頁。   
@@ -157,3 +157,5 @@ https://codepen.io/qwzxc129/pen/vWpYqL
 [5]: https://www.ziti163.com/Item/36.aspx
 [6]: https://blog.nfz.moe/archives/public-static-cdn-service.html
 [7]: https://www.gobyseo.com/2017/08/29/Google-Fonts-&-%E5%89%8D%E7%AB%AF%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E5%85%AC%E5%85%B1%E5%BA%93-CDN-%E6%9C%8D%E5%8A%A1%E6%95%B4%E7%90%86/
+[8]: https://fonts.google.com/earlyaccess
+[9]: https://shengshampoo.tumblr.com/post/147851303138/
