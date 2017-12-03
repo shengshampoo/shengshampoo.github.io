@@ -146,9 +146,12 @@ https和http/2等連線協議支援性等。
 以維基百科文章剪輯拼湊，    
 分別對應套用中日韓段落文章。    
 
-https://codepen.io/qwzxc129/pen/dZNNaw
+<p data-height="430" data-theme-id="dark" data-slug-hash="vWpYqL" data-default-tab="html,result" data-user="qwzxc129" data-embed-version="2" data-pen-title="Test webfont-Noto Sans TC/SC/JR/KR-ustclug" class="codepen">See the Pen <a href="https://codepen.io/qwzxc129/pen/vWpYqL/">Test webfont-Noto Sans TC/SC/JR/KR-ustclug</a> by qwzxc129 (<a href="https://codepen.io/qwzxc129">@qwzxc129</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 
-https://codepen.io/qwzxc129/pen/vWpYqL
+<p data-height="430" data-theme-id="dark" data-slug-hash="dZNNaw" data-default-tab="css,result" data-user="qwzxc129" data-embed-version="2" data-pen-title="Test webfont-Noto Sans TC/SC/JR/KR-geekzu" class="codepen">See the Pen <a href="https://codepen.io/qwzxc129/pen/dZNNaw/">Test webfont-Noto Sans TC/SC/JR/KR-geekzu</a> by qwzxc129 (<a href="https://codepen.io/qwzxc129">@qwzxc129</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script deter src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+
+
 
 
 [1]: https://free.com.tw/free-public-cdns/
