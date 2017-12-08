@@ -2,7 +2,7 @@
 jQuery(document).ready(function(){
     jQuery('#slippry-query2').slippry({
     // general elements & wrapper
-    slippryWrapper: '<div class="sy-box jquery-demo" />', // wrapper to wrap everything, including pager
+    slippryWrapper: '<div class="sy-box slippry-query2" />', // wrapper to wrap everything, including pager
     // options
     adaptiveHeight: false, // height of the sliders adapts to current slide
     useCSS: false, // true, false -> fallback to js if no browser support
@@ -14,7 +14,7 @@ jQuery(document).ready(function(){
 jQuery(document).ready(function(){
     jQuery('#slippry-query3').slippry({
     // general elements & wrapper
-    slippryWrapper: '<div class="sy-box jquery-demo" />', // wrapper to wrap everything, including pager
+    slippryWrapper: '<div class="sy-box slippry-query3" />', // wrapper to wrap everything, including pager
     // options
     adaptiveHeight: false, // height of the sliders adapts to current slide
     useCSS: false, // true, false -> fallback to js if no browser support
