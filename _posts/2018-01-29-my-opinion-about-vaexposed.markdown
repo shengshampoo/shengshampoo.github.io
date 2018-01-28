@@ -52,6 +52,11 @@ Android OS 為 7.1.1，
 沒有解鎖，沒有刷機，      
 單純就用官方版本，       
 系統版本更新也就只用OTA升級。        
+
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--_aRrZM2O--/v1517165423/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_kupvjp.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--rDwDmSnN--/v1517165039/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_qcfews.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>  
         
 安裝VAEXposed App，        
 在容器裡面安裝使用Xposed 模組和我自己有在使用的App，     
@@ -68,6 +73,15 @@ Chromium 核心客制網頁瀏覽器- Bromite，
 運作正常，       
 也能透過Xposed 模組的附加功能，     
 達到所要的目的。        
+
+<picture>
+<source type="image/webp" srcset="">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--_YLX0YYl--/v1517165039/Screenshot_2018-01-28-20-19-09-483_io.va.exposed1-fs81_ijvyvx.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--h6auHSat--/v1517165039/Screenshot_2018-01-28-20-19-35-772_io.va.exposed1-fs81_b5ei9l.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
               
 #### 網易雲音樂 + 音量調節:    
 
@@ -112,6 +126,11 @@ MicroG:
 Services Core，Services Framework Proxy，Store (FakeStore release)，       
 在Services Core 選項開啟相關服務，        
 再來同樣到Apkpure 應用商店找[Youtube][7]下載 apk即可。     
+
+<picture>
+<source type="image/webp" srcset="">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--2OpUozDr--/v1517165040/Screenshot_2018-01-29-02-35-30-090_io.va.exposed1-fs81_bo42sj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
         
 原則上，        
 VAExposed 容器內非必要不會登入自己常用的帳號，        
