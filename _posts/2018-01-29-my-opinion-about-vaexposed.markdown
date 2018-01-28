@@ -115,17 +115,18 @@ App 掛載的內嵌推送廣告等。
         
 承蒙 [PTT版友 Segal][10]的線索，        
 容器裡的依賴Google Play框架的GApp，       
-可以另外安裝類似兼容的MicroG 框架，       
-啟用Google Service識別功能，       
-這樣開啟YouTube 播放影片就流暢順利了。     
+可以另外安裝類似兼容的 MicroG 框架，       
+啟用 Google Service 識別功能，       
+這樣開啟 YouTube 正常，        
+播放影片也流暢順利了。     
 
 MicroG:     
 [官網][11]，[下載鏈接][12]。          
 
 我自己是下載安裝前三個檔案，      
 Services Core，Services Framework Proxy，Store (FakeStore release)，       
-在Services Core 選項開啟相關服務，        
-再來同樣到Apkpure 應用商店找[Youtube][7]下載 apk即可。     
+在 Services Core 選項開啟相關服務，        
+再來同樣到 Apkpure 應用商店找[Youtube][13]下載 apk 即可。     
 
 <picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--yGSoiQqB--/v1517165771/Screenshot_2018-01-29-02-35-30-090_io.va.exposed1-fs81_ssftvu.webp">
@@ -141,7 +142,7 @@ VAExposed 容器內非必要不會登入自己常用的帳號，
 還有觀察到，     
 不清楚是否是 Adblock reborn 模組功能生效，       
 或是我想太多了，        
-播放影片似乎不太常碰見Youtube 強制性置入廣告。     
+播放影片似乎不太常碰見Youtube 強制性置入廣告。             
         
 -----
         
@@ -162,3 +163,4 @@ VAExposed 容器內非必要不會登入自己常用的帳號，
 [10]: https://www.ptt.cc/bbs/Android/M.1517075195.A.118.html
 [11]: https://microg.org/
 [12]: https://microg.org/download.html
+[13]: https://apkpure.com/youtube/com.google.android.youtube
