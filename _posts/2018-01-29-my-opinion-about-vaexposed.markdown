@@ -84,7 +84,9 @@ Chromium 核心客制網頁瀏覽器- Bromite，
     
 #### Adblock reborn Xposed 模組：      
 
-[Github 官網][8]，[酷安下載鏈接][9]。     
+Adblock reborn Xposed：      
+[Github 官網][8]，[酷安下載鏈接][9]。      
+
 一開始原意是想透過這個模組，      
 在容器裡面的所有執行的App的，        
 全域封鎖擋掉廣告，       
@@ -104,7 +106,8 @@ App 掛載的內嵌推送廣告等。
 這樣開啟YouTube 播放影片就流暢順利了。     
 
 MicroG:     
-[官網][11]，[下載鏈接][12]。        
+[官網][11]，[下載鏈接][12]。          
+
 我自己是下載安裝前三個檔案，      
 Services Core，Services Framework Proxy，Store (FakeStore release)，       
 在Services Core 選項開啟相關服務，        
