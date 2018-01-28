@@ -1,6 +1,6 @@
 ---
 published: true
-title: 免Root套用Xposed模組的系統模擬器- VAExposed，和個人簡單實測體驗
+title: 免Root套用Xposed模組的系統模擬器- VAExposed
 layout: post
 tags: [Android]
 categories: [Android]
@@ -45,7 +45,7 @@ VAExposed：
 
 ------
 
-### <font color="red">個人簡單實測體驗</font>
+### <font color="red">個人簡單實測心得</font>
 
 我的手機是小米Max2，        
 Android OS 為 7.1.1，     
@@ -82,6 +82,18 @@ Chromium 核心客制網頁瀏覽器- Bromite，
 播放音樂正常，     
 特定功能也能達成目的。    
     
+#### Adblock reborn Xposed 模組：      
+
+一開始原意是想透過這個模組，      
+在容器裡面的所有執行的App的，        
+全域封鎖擋掉廣告，       
+包含Webview 內置網頁，     
+App 掛載的內嵌推送廣告等。        
+但是實際情況來說，           
+在還沒套用擋掉功能前，     
+先被容器和App 的相容度而頭疼。              
+目前就只是安裝待命而已。            
+
 
 -----
 
