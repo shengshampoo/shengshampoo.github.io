@@ -40,14 +40,50 @@ categories: [Android]
 直接在VAExposed 裡，   
 就可以讓 Xposed 模組的功能套用生效。    
     
-[VAExposed 的 Github 官網][2]    
-[VAExposed apk 的 Github 下載鏈接][3]
-
+VAExposed：
+[Github 官網][2]，[下載鏈接][3]
 
 ------
 
 ### <font color="red">個人簡單實測體驗</font>
 
+我的手機是小米Max2，        
+Android OS 為 7.1.1，     
+沒有解鎖，沒有刷機，      
+單純就用官方版本，       
+系統版本更新也就只用OTA升級。        
+        
+安裝VAEXposed App，        
+在容器裡面安裝使用Xposed 模組和我自己有在使用的App，     
+會遇到蠻大的機率，       
+會執行異常或是閃退的情形。          
+        
+比方說，   
+Pitt 和 BePtt 等PTT瀏覽器，       
+就是連線異常無法登錄進去 PTT。       
+Chromium 核心客制網頁瀏覽器- Bromite，        
+開啟直接閃退，原因不明。        
+        
+不過還是有幾個App，       
+運作正常，       
+也能透過Xposed 模組的附加功能，     
+達到所要的目的。        
+              
+#### 網易雲音樂 + 音量調節:    
+
+音量調節Xposed 模組:      
+[Github 官網][4]，[下載鏈接][5]，[Issue 討論組][6]。      
+        
+網易雲音樂：    
+基本上在 Apkpure 應用商店找[<span lang="zh-Hans">网易云音乐</span>][7]下載，     
+各種新舊版本都可在裡面找到。      
+        
+在容器裡面執行，        
+播放音樂正常，     
+特定功能也能達成目的。    
+    
+
+-----
 
 最後，
 對岸中國大陸有很多優質的 Android 工具APP，
@@ -57,4 +93,7 @@ categories: [Android]
 [1]: http://weishu.me/2017/12/02/non-root-xposed/
 [2]: https://github.com/android-hacker/VAExposed
 [3]: https://github.com/android-hacker/VAExposed/releases
-[4]:
+[4]: https://github.com/bin456789/Unblock163MusicClient-Xposed
+[5]: https://github.com/bin456789/Unblock163MusicClient-Xposed/releases
+[6]: https://github.com/bin456789/Unblock163MusicClient-Xposed/issues
+[7]: https://apkpure.com/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/com.netease.cloudmusic
