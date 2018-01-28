@@ -83,6 +83,7 @@ Chromium 核心客制網頁瀏覽器- Bromite，
 特定功能也能達成目的。    
     
 #### Adblock reborn Xposed 模組：      
+[Github 官網][8]，[下載鏈接][9]。
 
 一開始原意是想透過這個模組，      
 在容器裡面的所有執行的App的，        
@@ -109,3 +110,5 @@ App 掛載的內嵌推送廣告等。
 [5]: https://github.com/bin456789/Unblock163MusicClient-Xposed/releases
 [6]: https://github.com/bin456789/Unblock163MusicClient-Xposed/issues
 [7]: https://apkpure.com/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/com.netease.cloudmusic
+[8]: https://github.com/AdBlocker-Reborn/AdBlocker_Reborn
+[9]: https://github.com/AdBlocker-Reborn/AdBlocker_Reborn/releases
