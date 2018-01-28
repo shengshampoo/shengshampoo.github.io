@@ -103,17 +103,29 @@ App 掛載的內嵌推送廣告等。
 啟用Google Service識別功能，       
 這樣開啟YouTube 播放影片就流暢順利了。     
 
-MicroG:
-[官網][11]，[下載鏈接][12]
-https://microg.org/download.html
-
-
+MicroG:     
+[官網][11]，[下載鏈接][12].        
+我自己是下載安裝前三個檔案，      
+Services Core，Services Framework Proxy，Store (FakeStore release)，       
+在Services Core 選項開啟相關服務，        
+再來同樣到Apkpure 應用商店找[Youtube][7]下載 apk即可。     
+        
+原則上，        
+VAExposed 容器內非必要不會登入自己常用的帳號，        
+尤其是 Google 帳戶，      
+而且 Youtube 播放影片，        
+也不強制要求登入帳號，     
+登入帳號也只是帶入訂閱的頻道的喜愛的影片。       
+然後，     
+不清楚是否是 Adblock reborn 模組功能生效，       
+播放影片不太常碰見Youtube 強制性置入廣告。       
+        
 -----
-
-最後，
-對岸中國大陸有很多優質的 Android 工具APP，
-如 綠色守護Greenify，黑域等
-當然也和對岸奇特的互相喚醒APP耗電耗資源有關吧。
+        
+最後，     
+對岸中國大陸有很多優質的 Android 工具APP，     
+如 綠色守護Greenify，黑域等      
+當然也和對岸奇特的互相喚醒APP耗電耗資源有關吧。       
 
 [1]: http://weishu.me/2017/12/02/non-root-xposed/
 [2]: https://github.com/android-hacker/VAExposed
@@ -125,5 +137,5 @@ https://microg.org/download.html
 [8]: https://github.com/AdBlocker-Reborn/AdBlocker_Reborn
 [9]: http://coolapk.com/apk/com.aviraxp.adblocker.continued
 [10]: https://www.ptt.cc/bbs/Android/M.1517075195.A.118.html
-[11]:
+[11]: https://microg.org/
 [12]: https://microg.org/download.html
