@@ -135,10 +135,10 @@ Services Core，Services Framework Proxy，Store (FakeStore release)，
         
 原則上，        
 VAExposed 容器內非必要不會登入自己常用的帳號，        
-尤其是 Google 帳戶，      
-而且 Youtube 播放影片，        
+尤其是 Google 帳戶。      
+ Youtube 播放影片，        
 也不強制要求登入帳號，     
-登入帳號也只是帶入訂閱的頻道的喜愛的影片。       
+登入帳號也只是帶入訂閱的頻道，和喜愛的影片。       
 還有觀察到，      
 不清楚是否是 Adblock reborn 模組功能生效，       
 或是我想太多了，        
