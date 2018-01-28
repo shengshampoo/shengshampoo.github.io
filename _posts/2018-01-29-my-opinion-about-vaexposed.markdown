@@ -75,11 +75,11 @@ Chromium 核心客制網頁瀏覽器- Bromite，
 達到所要的目的。        
 
 <picture>
-<source type="image/webp" srcset="">
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--GRneKeHM--/v1517165630/Screenshot_2018-01-28-20-19-09-483_io.va.exposed1-fs81_veevrv.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--_YLX0YYl--/v1517165039/Screenshot_2018-01-28-20-19-09-483_io.va.exposed1-fs81_ijvyvx.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
 <picture>
-<source type="image/webp" srcset="">
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--j_BQVfrF--/v1517165715/Screenshot_2018-01-28-20-19-35-772_io.va.exposed1-fs81_bndegc.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--h6auHSat--/v1517165039/Screenshot_2018-01-28-20-19-35-772_io.va.exposed1-fs81_b5ei9l.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
               
@@ -128,7 +128,7 @@ Services Core，Services Framework Proxy，Store (FakeStore release)，
 再來同樣到Apkpure 應用商店找[Youtube][7]下載 apk即可。     
 
 <picture>
-<source type="image/webp" srcset="">
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--yGSoiQqB--/v1517165771/Screenshot_2018-01-29-02-35-30-090_io.va.exposed1-fs81_ssftvu.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--2OpUozDr--/v1517165040/Screenshot_2018-01-29-02-35-30-090_io.va.exposed1-fs81_bo42sj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
         
