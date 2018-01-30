@@ -80,9 +80,9 @@ categories: [Android]
 <br>
 <div style="width:100%;height:0px;position:relative;padding-bottom:178.109%;"><iframe src="https://streamable.com/s/lq8eb/dfnci" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <br>
-另一個是VAExposed 容器裡的版本，   
-得益於網路牛人不錯的工具，   
-可以規避繞過官方制約限制。   
+另一個是VAExposed 容器裡的版本，       
+得益於網路牛人不錯的工具，       
+可以規避繞過官方制約限制。       
 <br>
 <div style="width:100%;height:0px;position:relative;padding-bottom:178.109%;"><iframe src="https://streamable.com/s/mlngp/htzwen" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 <br>
