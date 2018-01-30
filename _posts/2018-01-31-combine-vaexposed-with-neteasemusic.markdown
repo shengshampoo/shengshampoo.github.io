@@ -78,13 +78,13 @@ categories: [Android]
 受限於官方制約的所在地版權歸屬，    
 無法正常在海外播放專輯的音樂。   
 <br>
-<div style="width:100%;height:0px;position:relative;padding-bottom:178.109%;"><iframe src="https://streamable.com/s/lq8eb/dfnci" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<iframe src="https://streamable.com/lq8eb" width="300" height="534" frameborder="0" allowfullscreen></iframe>
 <br>
 另一個是VAExposed 容器裡的版本，       
 得益於網路牛人不錯的工具，       
 可以規避繞過官方制約限制。       
 <br>
-<div style="width:100%;height:0px;position:relative;padding-bottom:178.109%;"><iframe src="https://streamable.com/s/mlngp/htzwen" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<iframe src="https://streamable.com/s/mlngp/inxofm" width="300" height="534" frameborder="0" allowfullscreen></iframe>
 <br>
 
 [1]: https://shengshampoo.github.io/android/2018/01/29/my-opinion-about-vaexposed.html
