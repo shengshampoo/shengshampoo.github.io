@@ -78,7 +78,7 @@ categories: [Android]
 受限於官方制約的所在地版權歸屬，    
 無法正常在海外播放專輯的音樂。   
 <br>
-<iframe src="https://streamable.com/lq8eb" width="300" height="534" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://streamable.com/s/lq8eb/jbwwqc" width="300" height="534" frameborder="0" allowfullscreen></iframe>
 <br>
 另一個是VAExposed 容器裡的版本，       
 得益於網路牛人不錯的工具，       
