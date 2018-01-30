@@ -70,9 +70,9 @@ categories: [Android]
 最後，   
 就當作避嫌的推究理由，   
 當作網路找到的。    
-草率匆促地用ScreenRecorder 螢幕錄製工具錄製，    
+草率匆促地用[ScreenRecorder][2] 螢幕錄製工具錄製，    
 省掉後製的兩個短片，    
-放在[Streamable][2] 短片分享平台。    
+放在[Streamable][3] 短片分享平台。    
     
 一個是正常在手機原有空間的版本，    
 受限於官方制約的所在地版權歸屬，    
@@ -89,3 +89,4 @@ categories: [Android]
 
 [1]: https://shengshampoo.github.io/android/2018/01/29/my-opinion-about-vaexposed.html
 [2]: https://github.com/vijai1996/screenrecorder
+[3]: https://streamable.com
