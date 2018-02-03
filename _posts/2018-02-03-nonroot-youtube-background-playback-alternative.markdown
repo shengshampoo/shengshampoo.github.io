@@ -1,0 +1,49 @@
+---
+published: true
+title: 免 Root 背景播放YouTube的一些替代App 工具
+layout: post
+tags: [Android]
+categories: [Android]
+---
+
+### <font color="red">免 Root 背景播放YouTube的一些替代App 工具</font> 
+
+我自己的手機 - 小米 max2，   
+官版無解鎖，無root，   
+嘗試幾個替代方案，   
+可以達成背景播放YouTube。    
+也就是說即使關閉手機螢幕，   
+聲音還是可以正常播送出來。   
+    
+1. **Non-Root iYTBP YouTube Vanced + modded microG for iYTBP Vanced 客製修改框架**    
+   * [iYTBP][1]：XDA 社區找到的第三方修改 YouTube app，   
+                           
+                            
+                    
+2. **VAExposed + MicroG 官方框架 + YouTube 官方無修改Apk + Xposed 背景播放模組**   
+    * [VAExposed][5]：兼容Xposed 模組的虛擬容器。    
+    * [MicroG 官方框架][6]：第三方類Google Play API 接口的框架。   
+    * [YouTube 無修改官方Apk][7]：Apkpure 應用商店下載apk。    
+    * [Xposed 背景播放模組][8]：XDA 社區找到的 Xposed 模組。   
+
+   實測在VAExposed 容器裡，    
+   搭配 YouTube 與 此模組，    
+   背景播放可用。      
+   可是一個問題點，     
+   登入G 帳號時，   
+   會停滯在初始畫面無法接續下去。    
+   也就無法帶出個人播放清單，    
+   和喜愛的訂閱頻道。
+    
+安裝上述幾個替代YouTube的 App以後，   
+原則上就會停用YouTube 官方App，   
+關閉自動更新，   
+也清掉程式的暫存快取，   
+回到原本的初始版本。    
+(沒Root 無法移除。)   
+
+[1]: https://forum.xda-developers.com/android/apps-games/app-iytbp-injected-youtube-background-t3560900
+[5]: https://github.com/android-hacker/VAExposed/releases
+[6]: https://microg.org/download.html
+[7]: https://apkpure.com/youtube/com.google.android.youtube
+[8]: https://forum.xda-developers.com/xposed/modules/module-youtube-background-playback-v2-0-t3656133
