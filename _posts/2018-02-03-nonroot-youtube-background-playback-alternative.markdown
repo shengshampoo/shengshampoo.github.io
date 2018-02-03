@@ -15,7 +15,7 @@ categories: [Android]
 也就是說即使關閉手機螢幕，   
 聲音還是可以正常播送出來。   
 
-1. **Non-Root iYTBP YouTube Vanced + modded microG for iYTBP Vanced 客製框架**    
+* **Non-Root iYTBP YouTube Vanced + modded microG for iYTBP Vanced 客製框架**    
    * [iYTBP][1]：        
     XDA 社區找到的第三方修改 YouTube app，   
     專門為背景播放 YouTube 量身訂做。      
@@ -48,7 +48,7 @@ categories: [Android]
                             
                             
                     
-2. **VAExposed + MicroG 官方框架 + YouTube 官方無修改Apk + Xposed 背景播放模組**   
+* **VAExposed + MicroG 官方框架 + YouTube 官方無修改Apk + Xposed 背景播放模組**   
     * [VAExposed][5]：兼容Xposed 模組的虛擬容器。    
     * [MicroG 官方框架][6]：第三方類Google Play API 接口的框架。   
     * [YouTube 無修改官方Apk][7]：Apkpure 應用商店下載apk。    
@@ -60,7 +60,18 @@ categories: [Android]
     可是一個問題點，     
     登入G 帳號時，   
     會停滯在初始畫面無法接續下去。    
-   
+
+<div id="lightgallery_1" class="owl-carousel owl-theme">
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--M8FEoahe--/v1517663649/Screenshot_2018-02-03-21-03-07-289_io.va.exposed1-fs81_jufuuf.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--3wPRjQlD--/v1517663649/Screenshot_2018-02-03-21-03-07-289_io.va.exposed1-fs81_aadbzj.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--XrgqMdBU--/v1517663649/Screenshot_2018-02-03-07-19-07-526_com.miui.home1-fs81_edhzzf.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--xUmgz91I--/v1517663649/Screenshot_2018-02-03-07-19-07-526_com.miui.home1-fs81_ea2hti.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+</div>
+
     
 安裝上述幾個替代YouTube的 App以後，   
 原則上就會停用YouTube 官方App，   
