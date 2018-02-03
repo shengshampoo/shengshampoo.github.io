@@ -71,6 +71,10 @@ Chromium 核心客制網頁瀏覽器- Bromite，
 
 <div id="lightgallery" class="owl-carousel owl-theme">
 <picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--2fEet1wk--/v1517658402/Screenshot_2018-02-03-19-36-01-321_com.android.settings1-fs81_njwb5v.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--nZAEfBV8--/v1517658390/Screenshot_2018-02-03-19-36-01-321_com.android.settings1-fs81_r6psgg.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture
+<picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--_aRrZM2O--/v1517165423/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_kupvjp.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--rDwDmSnN--/v1517165039/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_qcfews.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
