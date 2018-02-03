@@ -52,11 +52,6 @@ Android OS 為 7.1.1，
 沒有解鎖，沒有刷機，      
 單純就用官方版本，       
 系統版本更新也就只用OTA升級。        
-
-<picture>
-<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--_aRrZM2O--/v1517165423/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_kupvjp.webp">
-<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--rDwDmSnN--/v1517165039/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_qcfews.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
-</picture>  
         
 安裝VAEXposed App，        
 在容器裡面安裝使用Xposed 模組和我自己有在使用的App，     
@@ -72,8 +67,13 @@ Chromium 核心客制網頁瀏覽器- Bromite，
 不過還是有幾個App，       
 運作正常，       
 也能透過Xposed 模組的附加功能，     
-達到所要的目的。        
+達到所要的目的。       
 
+<div id="lightgallery" class="owl-carousel owl-theme">
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--_aRrZM2O--/v1517165423/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_kupvjp.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--rDwDmSnN--/v1517165039/Screenshot_2018-01-28-20-19-22-792_io.va.exposed1-fs81_qcfews.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
 <picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--GRneKeHM--/v1517165630/Screenshot_2018-01-28-20-19-09-483_io.va.exposed1-fs81_veevrv.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--_YLX0YYl--/v1517165039/Screenshot_2018-01-28-20-19-09-483_io.va.exposed1-fs81_ijvyvx.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
@@ -82,6 +82,7 @@ Chromium 核心客制網頁瀏覽器- Bromite，
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--j_BQVfrF--/v1517165715/Screenshot_2018-01-28-20-19-35-772_io.va.exposed1-fs81_bndegc.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--h6auHSat--/v1517165039/Screenshot_2018-01-28-20-19-35-772_io.va.exposed1-fs81_b5ei9l.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
+</div>
               
 #### 網易雲音樂 + 音量調節:    
 
