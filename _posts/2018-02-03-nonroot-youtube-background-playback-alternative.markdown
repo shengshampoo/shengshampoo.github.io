@@ -15,9 +15,23 @@ categories: [Android]
 也就是說即使關閉手機螢幕，   
 聲音還是可以正常播送出來。   
     
-1. **Non-Root iYTBP YouTube Vanced + modded microG for iYTBP Vanced 客製修改框架**    
-   * [iYTBP][1]：XDA 社區找到的第三方修改 YouTube app，   
-                           
+1. **Non-Root iYTBP YouTube Vanced + modded microG for iYTBP Vanced 客製框架**    
+   * [iYTBP][1]：        
+    XDA 社區找到的第三方修改 YouTube app，   
+    專門為背景播放 YouTube 量身訂做。      
+    而 modded microG 客製框架，      
+    則是僅供 iYTBP 登入G 帳號，     
+    帶出個人播放清單，      
+    和喜愛的訂閱頻道。              
+   * [Non-Root iYTBP YouTube Vanced][2]：        
+    針對沒有解鎖root的裝置，      
+    也提供對應的安裝檔。      
+    作者提供的下載鏈接：[AFH][3]，     
+    先選擇首頁下載 microG_for_iYTBP_Vanced_vX.X.X.apk，     
+    然後版本命名的資料夾往下 Non-Root 找適合手機Soc架構，       
+    和偏好界面主色款的 iYTBP apk。        
+    
+                            
                             
                     
 2. **VAExposed + MicroG 官方框架 + YouTube 官方無修改Apk + Xposed 背景播放模組**   
@@ -26,14 +40,13 @@ categories: [Android]
     * [YouTube 無修改官方Apk][7]：Apkpure 應用商店下載apk。    
     * [Xposed 背景播放模組][8]：XDA 社區找到的 Xposed 模組。   
 
-   實測在VAExposed 容器裡，    
-   搭配 YouTube 與 此模組，    
-   背景播放可用。      
+   實測在VAExposed 容器裡，        
+   搭配 YouTube 與此模組相容度佳，        
+   背景播放功能正常。    
    可是一個問題點，     
    登入G 帳號時，   
    會停滯在初始畫面無法接續下去。    
-   也就無法帶出個人播放清單，    
-   和喜愛的訂閱頻道。
+   
     
 安裝上述幾個替代YouTube的 App以後，   
 原則上就會停用YouTube 官方App，   
@@ -43,6 +56,8 @@ categories: [Android]
 (沒Root 無法移除。)   
 
 [1]: https://forum.xda-developers.com/android/apps-games/app-iytbp-injected-youtube-background-t3560900
+[2]: https://forum.xda-developers.com/android/apps-games/app-iytbp-injected-youtube-background-t3560900/post71133073#post71133073
+[3]: https://www.androidfilehost.com/?w=files&flid=170196
 [5]: https://github.com/android-hacker/VAExposed/releases
 [6]: https://microg.org/download.html
 [7]: https://apkpure.com/youtube/com.google.android.youtube
