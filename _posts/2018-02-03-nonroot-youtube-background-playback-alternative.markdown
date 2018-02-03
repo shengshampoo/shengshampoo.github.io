@@ -30,7 +30,21 @@ categories: [Android]
     先選擇首頁下載 microG_for_iYTBP_Vanced_vX.X.X.apk，     
     然後版本命名的資料夾往下 Non-Root 找適合手機Soc架構，       
     和偏好界面主色款的 iYTBP apk。        
-    
+
+<div id="lightgallery" class="owl-carousel owl-theme">
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--I6xgvxv4--/v1517662360/Screenshot_2018-02-03-08-11-51-936_com.lara.android.youtube1-fs81_oriznu.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--uXhBXvQj--/v1517662360/Screenshot_2018-02-03-08-11-51-936_com.lara.android.youtube1-fs81_zpecbo.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--Jd6i9T7R--/v1517662360/Screenshot_2018-02-03-08-12-00-953_com.lara.android.youtube1-fs81_srr1qf.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--HT6kH0HP--/v1517662360/Screenshot_2018-02-03-08-12-00-953_com.lara.android.youtube1-fs81_fmfkxa.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--3icKi7Zb--/v1517662360/Screenshot_2018-02-03-08-12-11-235_com.mgoogle.android.gms1-fs81_jvyb8p.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--d0da8E0f--/v1517662360/Screenshot_2018-02-03-08-12-11-235_com.mgoogle.android.gms1-fs81_apd9cp.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+</div>
                             
                             
                     
