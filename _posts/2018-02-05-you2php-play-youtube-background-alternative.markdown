@@ -56,6 +56,17 @@ categories: [Android]
 已經有無私群友，    
 無償提供You2PHP 網站：[FFY2B][4]       
         
+<div id="lightgallery" class="owl-carousel owl-theme">
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--1ya23gpD--/v1517823370/Screenshot_20180205-1232151-fs8a_dfpwlz.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--YEBD-XKi--/v1517823370/Screenshot_20180205-1232151-fs8a_vtgfcw.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>  
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--hXPAXU1g--/v1517823370/Screenshot_20180205-1731561-fs8a_tzmqs6.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--JF2U1fG7--/v1517823370/Screenshot_20180205-1731561-fs8a_zv9psi.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+</div>
+                
 先感謝群友的分享，   
 畢竟是私人架設，    
 不敢說穩定持續上線。    
