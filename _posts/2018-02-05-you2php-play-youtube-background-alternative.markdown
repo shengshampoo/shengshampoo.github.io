@@ -64,7 +64,7 @@ categories: [Android]
 而實際操作上，   
 還多了YouTube官網所沒有的優點，   
 就是本文標題所提到的：   
-**<font color="red">背景播放和下載 720P以下影片**</font>。   
+<b><font color="red">背景播放和下載 720P以下影片</font></b>。   
     
 就背景播放的部分，   
 就我自己的Android手機上，    
