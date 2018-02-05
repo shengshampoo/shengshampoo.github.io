@@ -52,10 +52,10 @@ categories: [Android]
     
 ----
 
-然後在Telegram群組看到的訊息，   
+然後在[Telegram Sock5群組看到的訊息][3]，   
 已經有無私群友，    
 無償提供You2PHP 網站：   
-
+[FFY2B][4]
 
 先感謝群友的分享，   
 畢竟是私人架設，    
@@ -85,3 +85,5 @@ Firefox 完全沒有問題，
 
 [1]: https://doub.io/wlzy-40/
 [2]: https://shengshampoo.github.io/android/2016/09/29/android-chrome-rev54-background-playback.html
+[3]: https://t.me/socks5list
+[4]: https://mianfei2.ml/
