@@ -9,7 +9,7 @@ categories: [Android]
 ### <font color="red">私人架設You2PHP 服務主機可以背景播放和下載YouTube影片</font> 
 
 源自於逗比博格的一篇教學文：    
-[只需 海外PHP虚拟主机 完全免费搭建 YouTube私人镜像站，不翻墙看油管！][1]   
+[<span lang="zh-Hans">只需 海外PHP虚拟主机 完全免费搭建 YouTube私人镜像站，不翻墙看油管！</span>][1]   
     
 內容主要是提供教程步驟，    
 如何使用海外虛擬主機，   
@@ -65,7 +65,7 @@ categories: [Android]
 而實際操作上，   
 還多了YouTube官網所沒有的優點，   
 就是本文標題所提到的：   
-**背景播放和下載 720P以下影片**。   
+**<font color="red">背景播放和下載 720P以下影片**</font>。   
     
 就背景播放的部分，   
 就我自己的Android手機上，    
