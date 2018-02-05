@@ -54,9 +54,8 @@ categories: [Android]
 
 然後在[Telegram Sock5群組看到的訊息][3]，   
 已經有無私群友，    
-無償提供You2PHP 網站：   
-[FFY2B][4]
-
+無償提供You2PHP 網站：[FFY2B][4]       
+        
 先感謝群友的分享，   
 畢竟是私人架設，    
 不敢說穩定持續上線。    
