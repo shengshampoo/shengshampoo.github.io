@@ -21,8 +21,8 @@ QQ會員分成綠鑽和綠鑽豪華版，
     
 翻閱知乎和百度知道的說明：   
 
-* [<span lang="zh-Hans"></span>][1]  
-* [<span lang="zh-Hans"></span>][2]  
+* [<span lang="zh-Hans">为什么开通了QQ绿钻还要再买付费音乐包？</span>][1]  
+* [<span lang="zh-Hans">QQ音乐的的绿钻、豪华绿钻、付费音乐包、豪华付费音乐包有什么不同？</span>][2]  
 
 還是沒有概念其差異為何，    
 也無法理解騰訊QQ，    
@@ -40,9 +40,7 @@ QQ會員分成綠鑽和綠鑽豪華版，
 而基本款的付費音樂包，   
 1 個月 8 CNY。    
   
-不過在QQ音樂官網特定活動頁面：    
-https://y.qq.com/apg/159/index.html
-
+不過在[QQ音樂官網特定活動頁面][3]，    
 在中國大陸的新春七天年假，   
 (除夕到初六)，    
 限時提供 QQ 用戶，   
@@ -75,8 +73,7 @@ https://bbs.uku.im/t/q-a/241
 順便一提，   
 只要是 QQ綠鑽會員，   
 在今年年底前，   
-在官網特定購買網頁，    
-https://y.qq.com/m/act/5yuansui/index.html
+在[官網特定購買網頁][4]，    
 可以使用 1 個月的 5 CNY的折扣價，   
 購買付費音樂包，    
 疊加在自己QQ 帳號，   
@@ -111,4 +108,5 @@ QQ音樂沒有爬牆進牆內，
 
 [1]: https://www.zhihu.com/question/38226398
 [2]: https://zhidao.baidu.com/question/2118539495506526547.html
-[3]
+[3]: https://y.qq.com/apg/159/index.html
+[4]: https://y.qq.com/m/act/5yuansui/index.html
