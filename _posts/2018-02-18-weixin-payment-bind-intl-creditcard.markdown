@@ -2,7 +2,7 @@
 published: true
 title: 微信支付可以綁定國際信用卡線上購買消費
 layout: post
-tags: [WeixinPay,Creditcard]
+tags: [WeixinPay, Creditcard]
 categories: [Creditcard]
 ---
 
