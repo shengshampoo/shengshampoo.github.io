@@ -46,8 +46,7 @@ QQ會員分成綠鑽和綠鑽豪華版，
 限時提供 QQ 用戶，   
 3個月和12個月的綠鑽豪華版折扣優惠。   
     
-查詢Unlock Youku相關 FAQ：   
-https://bbs.uku.im/t/q-a/241    
+查詢[Unlock Youku <span lang="zh-Hans">常见问题Q&A</span>][7]，       
 提到說付費開通QQ音樂會員，    
 可以解除境外播放 IP 限制。   
 但我想畢竟QQ官方沒有明說，    
@@ -84,7 +83,7 @@ QQ音樂訂閱付費的支付管道，
 還多給約95折的小優惠。      
 
 承接：
-
+[微信支付可以綁定國際信用卡線上購買消費][5]
 微信支付現在對境外用戶，    
 尤其是港澳台或其他各地的華人，   
 在今年的一月份，    
@@ -95,8 +94,7 @@ QQ音樂訂閱付費的支付管道，
 只能綁定中國境內銀行借記卡撥付。    
     
 微信支付綁定相關資料，   
-可翻閱 CHG Blog的相關微信支付教學文章：    
-https://charlottehong.blogspot.tw/search/label/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98
+可翻閱 [CHG Blog的相關微信支付教學文章][6]。    
 
 最後的簡短結論，    
 還沒付錢前，    
@@ -110,3 +108,6 @@ QQ音樂沒有爬牆進牆內，
 [2]: https://zhidao.baidu.com/question/2118539495506526547.html
 [3]: https://y.qq.com/apg/159/index.html
 [4]: https://y.qq.com/m/act/5yuansui/index.html
+[5]: https://shengshampoo.github.io/creditcard/2018/02/18/weixin-payment-bind-intl-creditcard.html
+[6]: https://charlottehong.blogspot.tw/search/label/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98
+[7]: https://bbs.uku.im/t/q-a/241
