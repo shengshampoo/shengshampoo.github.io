@@ -82,6 +82,17 @@ QQ音樂訂閱付費的支付管道，
 若以微信支付，QQ錢包支付，    
 還多給約95折的小優惠。      
 
+<div id="lightgallery" class="owl-carousel owl-theme">
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--YFY_Lo_T--/v1518920343/Screenshot_2018-02-17-18-11-01-897_org.mozilla.firefox-fs8a_nj6jra.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--utccceuK--/v1518920343/Screenshot_2018-02-17-18-11-01-897_org.mozilla.firefox-fs8a_jafvcy.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--NInZprAm--/v1518920343/Screenshot_2018-02-17-16-56-44-370_org.mozilla.firefox-fs8a_geymsk.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--tUcnVOti--/v1518920343/Screenshot_2018-02-17-16-56-44-370_org.mozilla.firefox-fs8a_tbdhao.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+</div>
+
 承接：     
 [微信支付可以綁定國際信用卡線上購買消費][5]，       
 微信支付現在對境外用戶，        
