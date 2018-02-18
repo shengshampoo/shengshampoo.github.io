@@ -89,7 +89,7 @@ QQ音樂訂閱付費的支付管道，
 </picture>
 <picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--cRIXZa4p--/v1518922249/Screenshot_2018-02-17-22-19-55-298_org.mozilla.firefox-fs8a_uuu0av.webp">
-<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--tUcnVOti--/v1518920343/Screenshot_2018-02-17-16-56-44-370_org.mozilla.firefox-fs8a_tbdhao.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--pN5g1CwS--/v1518922249/Screenshot_2018-02-17-22-19-55-298_org.mozilla.firefox-fs8a_yopjou.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
 <picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--RDVweIKR--/v1518922249/Screenshot_2018-02-17-22-19-18-043_com.tencent.mm-fs8a_ci6ep2.webp">
