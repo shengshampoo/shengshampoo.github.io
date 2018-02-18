@@ -55,8 +55,11 @@ categories: [Headphones]
 不過和前兩大銀彈更充足的互聯網巨頭相對抗，  
 還真的不是簡單的任務。  
 
-<script>
-$('#table').basictable({breakpoint: 500});
+<script type="text/javascript">
+    $(document).ready(function() {
+     $('#table').basictable({
+        breakpoint: 600
+      });
 </script>
 
 [1]: http://www.ifanr.com/982985
