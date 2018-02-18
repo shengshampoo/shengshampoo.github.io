@@ -56,7 +56,7 @@ categories: [Headphones]
 還真的不是簡單的任務。  
 
 <script>
-$('#table').basictable({breakpoint: 600});
+$('#table').basictable({breakpoint: 500});
 </script>
 
 [1]: http://www.ifanr.com/982985
