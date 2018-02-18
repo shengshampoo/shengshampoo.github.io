@@ -25,7 +25,7 @@ categories: [Headphones]
 是愛笵兒的編輯，
 整理中國各大串流平台的授權合作唱片商：  
 
-<table id="table" lang="zh-Hans"><thead> <tr> <th>串流音乐集团</th> <th>播放平台</th> <th>授权/转授权</th> </tr> </thead> <tbody> <tr> <td>中国音乐集团</td> <td>QQ音乐</td> <td>Sony，华纳，环球，乐华娱乐，少时时代，梦响当然 CUBE，韩国YG娱乐，LEON，杰威尔，英皇娱乐，华谊，福茂等</td> </tr> <tr> <td>中国音乐集团</td> <td>酷狗音乐/酷狗音乐</td> <td>Sony，华纳，环球，韩国CJ，海蝶，孔雀廊，丰华，种子音乐，天浩盛世，太合麦田，通力唱片，中国唱片公司，极韵文化等。<br>转授权：杰威尔，福茂，英皇，韩国YG娱乐等。</td> </tr> <tr> <td>阿里音乐</td> <td>虾米音乐/阿里星球</td> <td>滚石，华研，寰亚，BMG，相信，SM等。</td> </tr> <tr> <td>Apple</td> <td>Apple Music</td> <td>华纳，Sony，DG，EMI，DECCA，飞利浦，华研等。</td> </tr> <tr> <td>网易</td> <td>网易云音乐</td> <td>日本avex，授权部分腾讯音乐集团版权等。</td> </tr> <tr> <td>太合音乐集团</td> <td>百度音乐、乐播等</td> <td>太合麦田，海蝶音乐，大石版权，合音量等。</td> </tr> </tbody> </table>
+<table id="table" lang="zh-Hans"><thead> <tr> <th>串流音乐集团</th> <th>播放平台</th> <th>授权/转授权</th> </tr> </thead> <tbody> <tr> <td>中国音乐集团</td> <td>QQ音乐</td> <td>Sony，华纳，环球，乐华娱乐，少时时代，梦响当然 CUBE，韩国YG娱乐，LEON，杰威尔，英皇娱乐，华谊，福茂等</td> </tr> <tr> <td>中国音乐集团</td> <td>酷狗音乐/酷我音乐</td> <td>Sony，华纳，环球，韩国CJ，海蝶，孔雀廊，丰华，种子音乐，天浩盛世，太合麦田，通力唱片，中国唱片公司，极韵文化等。<br>转授权：杰威尔，福茂，英皇，韩国YG娱乐等。</td> </tr> <tr> <td>阿里音乐</td> <td>虾米音乐/阿里星球</td> <td>滚石，华研，寰亚，BMG，相信，SM等。</td> </tr> <tr> <td>Apple</td> <td>Apple Music</td> <td>华纳，Sony，DG，EMI，DECCA，飞利浦，华研等。</td> </tr> <tr> <td>网易</td> <td>网易云音乐</td> <td>日本avex，授权部分腾讯音乐集团版权等。</td> </tr> <tr> <td>太合音乐集团</td> <td>百度音乐、乐播等</td> <td>太合麦田，海蝶音乐，大石版权，合音量等。</td> </tr> </tbody> </table>
 
 <!--
 |串流音乐集团|播放平台|授权/转授权|
