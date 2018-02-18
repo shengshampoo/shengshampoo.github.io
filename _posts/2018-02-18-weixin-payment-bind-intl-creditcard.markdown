@@ -8,7 +8,7 @@ categories: [Creditcard]
 
 ### <font color="red">微信支付可以綁定國際信用卡線上購買消費</font>    
     
-源於兩篇篇報導：    
+源於兩報導：    
 * [微信支付WeChat Pay可用香港信用卡　毋須申請大陸銀行戶口][1]   
 * [<span lang="zh-Hans">微信支付开放境外用户绑定全球主要信用卡并消费</span>][2]   
     
