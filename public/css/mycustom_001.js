@@ -1,6 +1,6 @@
 /* jquery.basictable */
 $(document).ready(function() {
      $('#table').basictable({
-        breakpoint: 600
+        breakpoint: 500
       });
      });
