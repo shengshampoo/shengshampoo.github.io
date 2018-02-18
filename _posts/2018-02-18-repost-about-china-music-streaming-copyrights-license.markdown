@@ -26,6 +26,7 @@ categories: [Headphones]
 整理中國各大串流平台的授權合作唱片商：  
 
 <span lang="zh-Hans">
+  
 |串流音乐集团|播放平台|授权/转授权|
 |----|----|----|
 |中国音乐集团|QQ音乐|Sony，华纳，环球，乐华娱乐，少时时代，梦响当然 CUBE，韩国YG娱乐，LEON，杰威尔，英皇娱乐，华谊，福茂等|
@@ -34,6 +35,7 @@ categories: [Headphones]
 |Apple |Apple Music|华纳，Sony，DG，EMI，DECCA，飞利浦，华研等。|
 |网易|网易云音乐|日本avex，授权部分腾讯音乐集团版权等。|
 |太合音乐集团|百度音乐、乐播等|太合麦田，海蝶音乐，大石版权，合音量等。|
+
 </span>
 
 對QQ 綠鑽用戶而言，  
