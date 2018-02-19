@@ -109,6 +109,18 @@ QQ音樂訂閱付費的支付管道，
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--Xs07uAlt--/v1519004317/Screenshot_2018-02-19-09-05-58-474_org.mozilla.firefox-fs8a_yur2og.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--IWxvw3lC--/v1519004317/Screenshot_2018-02-19-09-05-58-474_org.mozilla.firefox-fs8a_guaze2.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--hD5NvXxz--/v1519004317/Screenshot_2018-02-19-09-06-38-077_org.mozilla.firefox-fs8a_cuyzic.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--2DalQ1dg--/v1519004316/Screenshot_2018-02-19-09-06-38-077_org.mozilla.firefox-fs8a_an5qx5.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--LmxaIdjp--/v1519004317/Screenshot_2018-02-19-09-08-15-515_io.va.exposed-fs8a_jhnn9i.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--8Ru7IndN--/v1519004317/Screenshot_2018-02-19-09-08-15-515_io.va.exposed-fs8a_pygqbz.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--I6yk7GJQ--/v1519004317/Screenshot_2018-02-19-09-10-18-980_org.mozilla.firefox-fs8a_u5wjbf.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--kCYNQI7q--/v1519004317/Screenshot_2018-02-19-09-10-18-980_org.mozilla.firefox-fs8a_ko8j6y.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
 </div>
 
 承接：     
