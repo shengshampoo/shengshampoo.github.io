@@ -46,6 +46,25 @@ categories: [Creditcard]
 信用卡回饋金額，  
 也應該會以國外消費公式計算。  
 
+<div id="lightgallery" class="owl-carousel owl-theme">
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--F94jmQrR--/v1519057823/Screenshot_2018-02-16-11-50-56-568_com.tencent.mm-fs8a_l5rnaf.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--ORNjtLQa--/v1519057823/Screenshot_2018-02-16-11-50-56-568_com.tencent.mm-fs8a_ztn84d.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--5dIp7jNo--/v1519057823/Screenshot_2018-02-16-11-53-41-568_com.tencent.mm-fs8a_ovaaic.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--KdUdWNre--/v1519057823/Screenshot_2018-02-16-11-53-41-568_com.tencent.mm-fs8a_aagihp.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--N7YB4E1b--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_bnlzi1.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--NxNhQFtx--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_knxpn8.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--W_u_TAoz--/v1519004857/Screenshot_2018-02-19-09-05-33-857_com.tencent.mm-fs8a_zsq0j2.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--hRpQd5JS--/v1519004857/Screenshot_2018-02-19-09-05-33-857_com.tencent.mm-fs8a_u9bn5r.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+</div>
+
 題外話，  
 台灣這裡的實體店鋪，  
 以微信支付線下掃碼消費，  
