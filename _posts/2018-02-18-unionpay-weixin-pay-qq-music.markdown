@@ -92,12 +92,12 @@ QQ音樂訂閱付費的支付管道，
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--pN5g1CwS--/v1518922249/Screenshot_2018-02-17-22-19-55-298_org.mozilla.firefox-fs8a_yopjou.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
 <picture>
-<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--N7YB4E1b--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_bnlzi1.webp">
-<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--NxNhQFtx--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_knxpn8.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
-</picture>
-<picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--RDVweIKR--/v1518922249/Screenshot_2018-02-17-22-19-18-043_com.tencent.mm-fs8a_ci6ep2.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--Cx3CPZfF--/v1518922249/Screenshot_2018-02-17-22-19-18-043_com.tencent.mm-fs8a_ajb3n5.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
+</picture>
+<picture>
+<source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--N7YB4E1b--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_bnlzi1.webp">
+<img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--NxNhQFtx--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_knxpn8.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--F90J7Gem--/v1519004318/Screenshot_2018-02-19-09-03-38-585_com.tencent.mm-fs8a_b7ckyt.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--XdsKVIFA--/v1519004316/Screenshot_2018-02-19-09-03-38-585_com.tencent.mm-fs8a_cwcnpg.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
