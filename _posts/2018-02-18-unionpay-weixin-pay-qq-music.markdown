@@ -99,9 +99,11 @@ QQ音樂訂閱付費的支付管道，
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--N7YB4E1b--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_bnlzi1.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--NxNhQFtx--/v1519004857/Screenshot_2018-02-19-09-03-09-029_com.tencent.mm-fs8a_knxpn8.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
+<picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--F90J7Gem--/v1519004318/Screenshot_2018-02-19-09-03-38-585_com.tencent.mm-fs8a_b7ckyt.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--XdsKVIFA--/v1519004316/Screenshot_2018-02-19-09-03-38-585_com.tencent.mm-fs8a_cwcnpg.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
+<picture>
 <source type="image/webp" srcset="https://res.cloudinary.com/shengshampoo/image/upload/s--W_u_TAoz--/v1519004857/Screenshot_2018-02-19-09-05-33-857_com.tencent.mm-fs8a_zsq0j2.webp">
 <img class="responsively-lazy responsively-lazy-300" src="https://res.cloudinary.com/shengshampoo/image/upload/s--hRpQd5JS--/v1519004857/Screenshot_2018-02-19-09-05-33-857_com.tencent.mm-fs8a_u9bn5r.png" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
 </picture>
