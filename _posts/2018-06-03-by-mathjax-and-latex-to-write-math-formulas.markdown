@@ -25,16 +25,26 @@ LaTeX的數學公式有兩種：**行中公式**和**獨立公式。**
 獨立公式單獨成行。   
     
 行中公式可以用如下兩種方法表示：    
-```＼(數學公式＼)```　或　```$數學公式$```   
+```\(數學公式\)```　或　```$數學公式$```   
 獨立公式可以用如下兩種方法表示：    
-```＼[數學公式＼]```　或　```$$數學公式$$```   
+```\[數學公式\]```　或　```$$數學公式$$```   
 
 例子：
 
 * 語法：     
-```＼$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}＼]$```
+```\$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}\]$```
 
 * 數學輸出顯示：     
-<p>＼$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}＼]$</p>
+<p>\$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}\]$</p>
+
+* 語法：
+```When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$```
+
+* 數學輸出顯示：
+<p>
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</p>
 
 [1]: https://www.zybuluo.com/knight/note/96093
