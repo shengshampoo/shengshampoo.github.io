@@ -8,7 +8,7 @@ categories: [MathJax]
 
 ### <font color="red">藉由 MathJax使用 LaTeX語法編寫數學公式教程</font> 
 
-<script defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script defer src="https://cdnjs.loli.net/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
@@ -17,7 +17,7 @@ categories: [MathJax]
 
 致敬轉載網路來源：
 
-* [MathJax使用LaTeX语法编写数学公式教程][1]
+* [<span lang="zh-Hans">MathJax使用LaTeX语法编写数学公式教程</span>][1]
 
 如何插入公式?   
 LaTeX的數學公式有兩種：**行中公式**和**獨立公式。**    
