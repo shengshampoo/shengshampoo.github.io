@@ -46,5 +46,53 @@ When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 </p>
 
+如何插入公式大括號   
+
+* 語法 1：   
+<pre class="prettyprint">
+$$ f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+$$
+</pre>
+
+* 數學輸出顯示：     
+
+$$ f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+$$
+
+* 語法 2：   
+<pre class="prettyprint">
+$$ f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+$$
+</pre>
+
+* 數學輸出顯示：     
+
+$$ f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right.
+$$
+
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
