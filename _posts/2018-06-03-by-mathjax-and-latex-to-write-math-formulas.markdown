@@ -23,10 +23,11 @@ LaTeX的數學公式有兩種：**行中公式**和**獨立公式。**
 ```＼[數學公式＼]```　或　```$$數學公式$$```   
 
 例子：
-語法：
+
+* 語法：     
 ```＼$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}＼]$```
 
-數學輸出顯示：
+* 數學輸出顯示：     
 ＼$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}^{2m + \alpha}＼]$
 
 [1]: https://www.zybuluo.com/knight/note/96093
