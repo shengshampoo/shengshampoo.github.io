@@ -73,26 +73,24 @@ $$
 
 * 語法 2：   
 <pre class="prettyprint">
-$$ f(x)=\left\{
-\begin{aligned}
-x & = & \cos(t) \\
-y & = & \sin(t) \\
-z & = & \frac xy
-\end{aligned}
-\right.
-$$
+$$ F^{HLLC}=\left\{
+\begin{array}{rcl}
+F_L       &      & {0      <      S_L}\\
+F^*_L     &      & {S_L \leq 0 < S_M}\\
+F^*_R     &      & {S_M \leq 0 < S_R}\\
+F_R       &      & {S_R \leq 0}
+\end{array} \right. $$
 </pre>
 
 * 數學輸出顯示：     
 
-$$ f(x)=\left\{
-\begin{aligned}
-x & = & \cos(t) \\
-y & = & \sin(t) \\
-z & = & \frac xy
-\end{aligned}
-\right.
-$$
+$$ F^{HLLC}=\left\{
+\begin{array}{rcl}
+F_L       &      & {0      <      S_L}\\
+F^*_L     &      & {S_L \leq 0 < S_M}\\
+F^*_R     &      & {S_M \leq 0 < S_R}\\
+F_R       &      & {S_R \leq 0}
+\end{array} \right. $$
 
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
