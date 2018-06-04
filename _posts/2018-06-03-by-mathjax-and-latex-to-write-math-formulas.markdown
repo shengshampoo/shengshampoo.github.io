@@ -262,7 +262,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 
 * 數學輸出顯示：
 <p>$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$</p>
-<p>$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$</p>
+<p>$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$</p>
 
 > 注:在latex中輸入極限，主要的一種形式是使用```\lim``` ，  
 輸出的就是極限的原樣。  
