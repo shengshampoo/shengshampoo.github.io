@@ -205,7 +205,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 <pre class="prettyprint lang-tex">$1 \over 3$</pre>
 
 * 數學輸出顯示：
-<p>$\frac{1}{3}$</p> <p>$1 \over 3$</p>   
+<p>$\frac{1}{3}$ 和 $1 \over 3$</p>   
 
 ----
 
@@ -216,7 +216,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 <pre class="prettyprint lang-tex">$\sqrt[n]{3}$</pre> 
 
 * 數學輸出顯示：
-<p>$\sqrt{2}</p> <p>$\sqrt[n]{3}$</p>   
+<p>$\sqrt{2}$ 和 $\sqrt[n]{3}$</p>   
 
 ----
 
