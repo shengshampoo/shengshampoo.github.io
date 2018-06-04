@@ -165,7 +165,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 有時候要用 ```\left.``` 或 ```\right.``` 進行匹配而不顯示本身。   
 
 * 語法： 
-<pre class="prettyprint lang-tex"><p>$\left. \frac{ {\rm d}u}{ {\rm d}x} \right| _{x=0}$</pre>
+<pre class="prettyprint lang-tex">$\left. \frac{ {\rm d}u}{ {\rm d}x} \right| _{x=0}$</pre>
 
 * 數學輸出顯示：    
 <p>$\left. \frac{ {\rm d}u}{ {\rm d}x} \right| _{x=0}$</p>
