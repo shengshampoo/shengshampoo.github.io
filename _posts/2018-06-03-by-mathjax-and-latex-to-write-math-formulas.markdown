@@ -177,6 +177,9 @@ $\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$$
 * 數學輸出顯示：     
 <p>$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$</p>
 
+--------
+
+#### 如何輸入分數
 
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
