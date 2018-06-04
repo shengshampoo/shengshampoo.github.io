@@ -166,11 +166,11 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 
 * 語法：   
 <pre class="prettyprint lang-tex">
-$\left. \frac{{\rm d}u}{{\rm d}x}} \right| _{x=0}$
+$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$
 </pre>
 
 * 數學輸出顯示：     
-<p>$\left. \frac{{\rm d}u}{{\rm d}x}} \right| _{x=0}$</p>
+
 
 ### 如何輸入分數
 
