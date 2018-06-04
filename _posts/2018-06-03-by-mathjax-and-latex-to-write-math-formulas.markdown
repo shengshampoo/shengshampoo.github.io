@@ -205,7 +205,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 <pre class="prettyprint lang-tex">$1 \over 3$</pre>
 
 * 數學輸出顯示：
-<p>$\frac{1}{3}$</p>，<p>$1 \over 3$</p>
+<p>$\frac{1}{3}$</p> <p>$1 \over 3$</p>   
 
 ----
 
@@ -216,7 +216,21 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 <pre class="prettyprint lang-tex">$\sqrt[n]{3}$</pre> 
 
 * 數學輸出顯示：
-<p>$\sqrt{2}</p>，<p>$\sqrt[n]{3}$</p>
+<p>$\sqrt{2}</p> <p>$\sqrt[n]{3}$</p>   
+
+----
+
+#### 如何輸入省略號
+
+數學公式中常見的省略號有兩種，   
+```\ldots``` 表示與文本底線對齊的省略號，   
+```\cdots``` 表示與文本中線對齊的省略號。   
+
+* 語法： 
+<pre class="prettyprint lang-tex">$f(x_1,x_2,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2$</pre>
+
+* 數學輸出顯示：
+<p>$f(x_1,x_2,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2$</p>
 
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
