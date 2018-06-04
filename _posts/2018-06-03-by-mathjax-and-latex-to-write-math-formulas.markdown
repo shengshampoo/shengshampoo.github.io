@@ -232,5 +232,38 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 * 數學輸出顯示：
 <p>$f(x_1,x_2,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2$</p>
 
+----
+
+#### 如何輸入向量
+
+* 語法： 
+<pre class="prettyprint lang-tex">$\vec{a} \cdot \vec{b}=0$</pre>
+
+* 數學輸出顯示：
+<p>$\vec{a} \cdot \vec{b}=0$</p>
+
+----
+
+#### 如何輸入積分
+
+* 語法： 
+<pre class="prettyprint lang-tex">$\int_0^1 x^2 {\rm d}x$</pre>
+
+* 數學輸出顯示：
+<p>$\int_0^1 x^2 {\rm d}x$</p>
+
+-----
+
+#### 如何輸入極限函數
+
+* 語法： 
+<pre class="prettyprint lang-tex">$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$ 
+$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$</pre>
+
+* 數學輸出顯示：
+<p>$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$ 
+$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$</p>
+
+
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
