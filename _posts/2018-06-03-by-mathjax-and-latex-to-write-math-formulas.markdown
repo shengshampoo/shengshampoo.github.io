@@ -104,6 +104,24 @@ F^*_R     &      & {S_M \leq 0 < S_R}\\
 F_R       &      & {S_R \leq 0}
 \end{array} \right. $$
 </p>
+  
+* 語法 3：   
+<pre class="prettyprint lang-tex">
+$$f(x)=
+\begin{cases}
+0& \text{x=0}\\
+1& \text{x!=0}
+\end{cases}$$
+</pre>
+
+* 數學輸出顯示：     
+<p>
+$$f(x)=
+\begin{cases}
+0& \text{x=0}\\
+1& \text{x!=0}
+\end{cases}$$
+</p>  
 
 ----
 
