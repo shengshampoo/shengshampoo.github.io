@@ -155,10 +155,12 @@ $$\mathop{argmax}_{K}$$
 
 #### 如何輸入括號和分隔符
 
-**()** 、**[]** 和 **|** 表示自己，
-**{}** 表示 {}。
-當要顯示大號的括號或分隔符時，
-要用 ```\left``` 和 ```\right``` 命令。
+**()** 、**[]**    
+和 **|** 表示自己，   
+**{}** 表示 {}。   
+當要顯示大號的括號或分隔符時，   
+要用 ```\left``` 和    
+```\right``` 命令。    
 
 * 語法：   
 <pre class="prettyprint lang-tex">
@@ -168,7 +170,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 * 數學輸出顯示：     
 <p>$f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$</p>
 
-有時候要用 ```\left.``` 或 ```\right.``` 進行匹配而不顯示本身。   
+有時候要用 ```\left.``` 或 ```\right.```進行匹配而不顯示本身。   
 
 * 語法： 
 <pre class="prettyprint lang-tex">$\left. \frac{ {\rm d}u}{ {\rm d}x} \right| _{x=0}$</pre>
