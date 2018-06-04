@@ -257,13 +257,29 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 #### 如何輸入極限函數
 
 * 語法： 
-<pre class="prettyprint lang-tex">$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$ 
-$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$</pre>
+<pre class="prettyprint lang-tex">$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$</pre> 
+<pre class="prettyprint lang-tex">$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$</pre>
 
 * 數學輸出顯示：
-<p>$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$ 
-$$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$</p>
+<p>$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$</p>
+<p>$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$</p>
 
+> 注:在latex中輸入極限，主要的一種形式是使用```\lim``` ，  
+輸出的就是極限的原樣。  
+如果在$*****$環境中，  
+使用上下標起不到作用，  
+在```$$******$$```中使用下標，  
+會使下標部分出現在limit之下。  
+在文章中間，  
+使用這種形式的極限，  
+可以選擇使用這種形式 ```\lim\limits_{t \to \infty }{x(t)}.```  
+上下極限的輸入textfriend裡面直接就有。  
+另外一點需要注意的是，  
+極限的下標如果有多行的話，  
+使用斷行，  
+有幾種方法：  
+可以使用```array``` 或者```substack``` 命令，  
+也可以使用```\stackrel{top}{bot}``` 或者```mathop``` 命令。  
 
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
