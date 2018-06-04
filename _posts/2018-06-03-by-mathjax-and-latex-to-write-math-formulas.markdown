@@ -19,7 +19,8 @@ categories: [MathJax]
 
 * [<span lang="zh-Hans">MathJax使用LaTeX语法编写数学公式教程</span>][1]
 
-####如何插入公式
+
+### 如何插入公式
 
 LaTeX的數學公式有兩種：    
 **行中公式**和**獨立公式。**    
@@ -54,7 +55,7 @@ When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 </p>
 
-####如何插入公式大括號   
+### 如何插入公式大括號   
 
 * 語法 1：   
 <pre class="prettyprint lang-tex">
@@ -102,7 +103,7 @@ F_R       &      & {S_R \leq 0}
 \end{array} \right. $$
 </p>
 
-如何輸入上下標   
+### 如何輸入上下標   
 
 **^** 表示上標，   
 **_** 表示下標。   
@@ -146,7 +147,7 @@ $$\mathop{argmax}_{K}$$
 * 數學輸出顯示：     
 <p>$$\mathop{argmax}_{K}$$</p>
 
-####如何輸入括號和分隔符
+如何輸入括號和分隔符
 
 **()** 、**[]** 和 **|** 表示自己，
 **{}** 表示 {}。
@@ -171,7 +172,7 @@ $\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$$
 * 數學輸出顯示：     
 <p>$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$</p>
 
-#### 如何輸入分數
+### 如何輸入分數
 
 * 語法： 
 <pre class="prettyprint lang-tex">$\frac{1}{3}$</pre> or <pre class="prettyprint lang-tex">$1 \over 3$</pre>
