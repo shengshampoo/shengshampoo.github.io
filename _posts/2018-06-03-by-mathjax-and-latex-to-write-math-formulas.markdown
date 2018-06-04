@@ -49,7 +49,7 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 如何插入公式大括號   
 
 * 語法 1：   
-<pre class="prettyprint">
+<pre class="prettyprint lang-tex">
 $$ f(x)=\left\{
 \begin{aligned}
 x & = & \cos(t) \\
@@ -73,7 +73,7 @@ $$
 </p>
 
 * 語法 2：   
-<pre class="prettyprint">
+<pre class="prettyprint lang-tex">
 $$ F^{HLLC}=\left\{
 \begin{array}{rcl}
 F_L       &      & {0      <      S_L}\\
