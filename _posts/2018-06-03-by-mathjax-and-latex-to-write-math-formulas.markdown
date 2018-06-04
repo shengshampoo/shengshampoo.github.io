@@ -178,7 +178,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 * 數學輸出顯示：
 <p>$1 \over 3$</p>
 
-<script>$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$</script>
+<p>$\left. \frac{ {\rm d}u}{ {\rm d}x} \right| _{x=0}$</>
 
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
