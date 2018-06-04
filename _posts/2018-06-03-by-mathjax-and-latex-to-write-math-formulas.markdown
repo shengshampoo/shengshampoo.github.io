@@ -170,7 +170,7 @@ $\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$
 </pre>
 
 * 數學輸出顯示：     
-<p>$$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$</p>
+<p>$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$</p>
 
 ### 如何輸入分數
 
