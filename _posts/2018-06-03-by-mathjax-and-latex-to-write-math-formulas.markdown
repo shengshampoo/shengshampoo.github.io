@@ -54,8 +54,6 @@ When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 </p>
 
-------
-
 #### 如何插入公式大括號   
 
 * 語法 1：   
@@ -104,8 +102,6 @@ F_R       &      & {S_R \leq 0}
 \end{array} \right. $$
 </p>
 
------
-
 #### 如何輸入上下標   
 
 **^** 表示上標，   
@@ -150,8 +146,6 @@ $$\mathop{argmax}_{K}$$
 * 數學輸出顯示：     
 <p>$$\mathop{argmax}_{K}$$</p>
 
--------------
-
 #### 如何輸入括號和分隔符
 
 **()** 、**[]** 和 **|** 表示自己，
@@ -176,8 +170,6 @@ $\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$$
 
 * 數學輸出顯示：     
 <p>$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$</p>
-
---------
 
 #### 如何輸入分數
 
