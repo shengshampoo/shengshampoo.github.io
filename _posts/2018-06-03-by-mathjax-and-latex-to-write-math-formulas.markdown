@@ -167,10 +167,10 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 ### 如何輸入分數
 
 * 語法： 
-<pre class="prettyprint lang-tex">$\frac{1}{3}$</pre> or <pre class="prettyprint lang-tex">$1 \over 3$</pre>
+<pre class="prettyprint lang-tex">$\frac{1}{3}$</pre>or<pre class="prettyprint lang-tex">$1 \over 3$</pre>
 
 * 數學輸出顯示：
-<p>$\frac{1}{3}$</p> or <p>$1 \over 3$</p>
+<p>$\frac{1}{3}$</p>or<p>$1 \over 3$</p>
 
 
 [1]: https://www.zybuluo.com/knight/note/96093
