@@ -322,8 +322,8 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
     <th>數學輸出顯示</th>
   </tr>
   <tr>
-    <td><pre class="prettyprint lang-tex">\alpha　A　\beta　B　\gamma　\Gamma　</pre></td>
-    <td><p>\alpha　A　\beta　B　\gamma　\Gamma　</p></td>
+    <td><pre class="prettyprint lang-tex">$\alpha　A　\beta　B　\gamma　\Gamma　$</pre></td>
+    <td><p>$\alpha　A　\beta　B　\gamma　\Gamma　$</p></td>
   </tr>
   <tr>
     <td><pre class="prettyprint lang-tex">\delta　\Delta　\epsilon　E</pre></td>
