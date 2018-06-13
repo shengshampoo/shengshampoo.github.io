@@ -295,6 +295,57 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 
 ----
 
+#### 如何進行公式應用
+
+* 語法： 
+<pre class="prettyprint lang-tex">$r = r_F+ \beta(r_M – r_F) + \epsilon$</pre> 
+
+* 數學輸出顯示：
+<p>$r = r_F+ \beta(r_M – r_F) + \epsilon$</p>
+
+----
+
+#### 如何輸入希臘字母
+
+<pre class="prettyprint lang-tex">
+\alpha　A　\beta　B　\gamma　\Gamma　\delta　\Delta　\epsilon　E 
+\varepsilon　　\zeta　Z　\eta　H　\theta　\Theta　\vartheta 
+\iota　I　\kappa　K　\lambda　\Lambda　\mu　M　\nu　N 
+\xi　\Xi　o　O　\pi　\Pi　\varpi　　\rho　P 
+\varrho　　\sigma　\Sigma　\varsigma　　\tau　T　\upsilon　\Upsilon 
+\phi　\Phi　\varphi　　\chi　X　\psi　\Psi　\omega　\Omega
+</pre>
+
+<table id="table" >
+  <tr>
+    <th>語法：</th>
+    <th>數學輸出顯示</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 [1]: https://www.zybuluo.com/knight/note/96093
