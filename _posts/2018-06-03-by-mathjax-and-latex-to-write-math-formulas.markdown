@@ -281,5 +281,21 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 可以使用```array``` 或者```substack``` 命令，  
 也可以使用```\stackrel{top}{bot}``` 或者```mathop``` 命令。  
 
+-----
+
+#### 如何輸入累加、累乘運算
+
+* 語法： 
+<pre class="prettyprint lang-tex">$\sum_{i=0}^n \frac{1}{i^2}$</pre> 
+<pre class="prettyprint lang-tex">$\prod_{i=0}^n \frac{1}{i^2}$</pre>
+
+* 數學輸出顯示：
+<p>$\sum_{i=0}^n \frac{1}{i^2}$</p>
+<p>$\prod_{i=0}^n \frac{1}{i^2}$</p>
+
+----
+
+
+
 [1]: https://www.zybuluo.com/knight/note/96093
 [2]: https://github.com/mathjax/MathJax/blob/master/test/sample-tex.html
