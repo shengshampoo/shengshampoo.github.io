@@ -327,7 +327,7 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
   </tr>
   <tr>
     <td><pre class="prettyprint lang-tex">\delta　\Delta　\epsilon　E</pre></td>
-    <td><p>\delta　\Delta　\epsilon　E</p></td>
+    <td><p>$\delta　\Delta　\epsilon　E$</p></td>
   </tr>
   <tr>
     <td></td>
