@@ -307,19 +307,10 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
 
 #### 如何輸入希臘字母
 
-<pre class="prettyprint lang-tex">
-\alpha　A　\beta　B　\gamma　\Gamma　\delta　\Delta　\epsilon　E 
-\varepsilon　　\zeta　Z　\eta　H　\theta　\Theta　\vartheta 
-\iota　I　\kappa　K　\lambda　\Lambda　\mu　M　\nu　N 
-\xi　\Xi　o　O　\pi　\Pi　\varpi　　\rho　P 
-\varrho　　\sigma　\Sigma　\varsigma　　\tau　T　\upsilon　\Upsilon 
-\phi　\Phi　\varphi　　\chi　X　\psi　\Psi　\omega　\Omega
-</pre>
-
 <table id="table" >
   <tr>
-    <th>語法：</th>
-    <th>數學輸出顯示</th>
+    <th>語法</th>
+    <th>字母</th>
   </tr>
   <tr>
     <td><pre class="prettyprint lang-tex">$\alpha　A　\beta　B　\gamma　\Gamma　$</pre></td>
@@ -330,11 +321,15 @@ $f(x,y,z) = 3y^2z \left( 3+\frac{7x+5}{1+y^2} \right)$
     <td><p>$\delta　\Delta　\epsilon　E$</p></td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
+    <td><pre class="prettyprint lang-tex">\varepsilon　　\zeta　Z　\eta　H</pre></td>
+    <td><p>\varepsilon　　\zeta　Z　\eta　H</p></td>
   </tr>
   <tr>
-    <td></td>
+    <td><pre class="prettyprint lang-tex">\theta　\Theta　\vartheta</pre></td>
+    <td><p>\theta　\Theta　\vartheta</p></td>
+  </tr>
+  <tr>
+    <td><pre class="prettyprint lang-tex"></pre></td>
     <td></td>
   </tr>
   <tr>
